@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T14:32:48.8277305-07:00",
+  "LastUpdated": "2025-03-14T14:33:23.0870351-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -78,12 +78,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "03/14/2025 1:35 PM",
       "Address": "1000 BLOCK S BROOKHURST RD"
-    },
-    {
-      "Incident": "25-13400",
-      "Type": "THEFT PETTY RPT",
-      "Date": "03/14/2025 1:33 PM",
-      "Address": "2000 BLOCK OXFORD AVE"
     }
   ]
 }
