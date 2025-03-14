@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T14:03:54.0366641-07:00",
+  "LastUpdated": "2025-03-14T14:04:27.7713943-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -66,12 +66,6 @@
       "Type": "THEFT GRAND RPT",
       "Date": "03/14/2025 1:16 PM",
       "Address": "2600 BLOCK MEDFORD PL"
-    },
-    {
-      "Incident": "25-13396",
-      "Type": "TRAFFIC HAZARD",
-      "Date": "03/14/2025 1:04 PM",
-      "Address": "ASSOCIATED RD / E BASTANCHURY RD[S/OF"
     }
   ]
 }
