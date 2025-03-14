@@ -1,11 +1,23 @@
 {
-  "LastUpdated": "2025-03-14T11:40:59.8478328-07:00",
+  "LastUpdated": "2025-03-14T11:51:47.0704844-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13372",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "03/14/2025 11:33 AM",
+      "Address": "100 BLOCK E IMPERIAL HWY"
+    },
+    {
+      "Incident": "25-13373",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "03/14/2025 11:29 AM",
+      "Address": "1400 BLOCK S HARBOR BLVD"
+    },
     {
       "Incident": "25-13370",
       "Type": "PATROL CHECK",
