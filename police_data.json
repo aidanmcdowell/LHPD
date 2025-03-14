@@ -4,14 +4,14 @@
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
-    "Teri Pl": "SAFE"
+    "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
     {
       "Incident": "25-13399",
       "Type": "N/A",
       "Date": "03/14/2025 1:28 PM",
-      "Address": "S EUCLID ST / W SOUTHGATE AVE"
+      "Address": "S EUCLID ST / N TERI PL"
     },
     {
       "Incident": "25-13398",
