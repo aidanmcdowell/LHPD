@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T11:07:52.4027316-07:00",
+  "LastUpdated": "2025-03-14T11:13:08.5522456-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -29,18 +29,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "03/14/2025 10:18 AM",
       "Address": "N STATE COLLEGE BLVD / E DOROTHY LANE"
-    },
-    {
-      "Incident": "25-13363",
-      "Type": "DEPARTMENT ASSIST",
-      "Date": "03/14/2025 10:12 AM",
-      "Address": "700 BLOCK BARRIS DR"
-    },
-    {
-      "Incident": "25-13362",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/14/2025 10:09 AM",
-      "Address": "900 BLOCK S HARBOR BLVD"
     }
   ]
 }
