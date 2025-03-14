@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T11:05:32.2970187-07:00",
+  "LastUpdated": "2025-03-14T11:06:09.6154319-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -41,12 +41,6 @@
       "Type": "PARKING PROBLEM",
       "Date": "03/14/2025 10:09 AM",
       "Address": "900 BLOCK S HARBOR BLVD"
-    },
-    {
-      "Incident": "25-13361",
-      "Type": "PATROL CHECK",
-      "Date": "03/14/2025 10:06 AM",
-      "Address": "2300 BLOCK IRIS CRT"
     }
   ]
 }
