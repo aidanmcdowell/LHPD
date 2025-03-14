@@ -1,17 +1,29 @@
 {
-  "LastUpdated": "2025-03-14T14:08:59.977689-07:00",
+  "LastUpdated": "2025-03-14T14:31:40.7578127-07:00",
   "Streets": {
-    "Balfour Ave": "NOT SAFE",
+    "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
-    "Teri Pl": "NOT SAFE"
+    "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13411",
+      "Type": "DISTURBANCE OF PEACE",
+      "Date": "03/14/2025 2:15 PM",
+      "Address": "1100 BLOCK E CHAPMAN AVE"
+    },
+    {
+      "Incident": "25-13410",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/14/2025 2:01 PM",
+      "Address": "S GILBERT ST / W VALENCIA DR[S/OF"
+    },
     {
       "Incident": "25-13409",
       "Type": "PARKING PROBLEM",
       "Date": "03/14/2025 1:57 PM",
-      "Address": "BALFOUR AVE"
+      "Address": "400 BLOCK S RICHMAN AVE"
     },
     {
       "Incident": "25-13408",
@@ -23,7 +35,7 @@
       "Incident": "25-13407",
       "Type": "DISTURBANCE OF PEACE",
       "Date": "03/14/2025 1:53 PM",
-      "Address": "N TERI PL"
+      "Address": "2400 BLOCK E NUTWOOD AVE"
     },
     {
       "Incident": "25-13404",
@@ -66,18 +78,6 @@
       "Type": "THEFT PETTY RPT",
       "Date": "03/14/2025 1:33 PM",
       "Address": "2000 BLOCK OXFORD AVE"
-    },
-    {
-      "Incident": "25-13399",
-      "Type": "N/A",
-      "Date": "03/14/2025 1:28 PM",
-      "Address": "S EUCLID ST / W SOUTHGATE AVE"
-    },
-    {
-      "Incident": "25-13398",
-      "Type": "THEFT GRAND RPT",
-      "Date": "03/14/2025 1:16 PM",
-      "Address": "2600 BLOCK MEDFORD PL"
     }
   ]
 }
