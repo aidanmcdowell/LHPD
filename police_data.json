@@ -1,11 +1,47 @@
 {
-  "LastUpdated": "2025-03-14T10:02:41.5258856-07:00",
+  "LastUpdated": "2025-03-14T10:42:12.8752062-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13365",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "03/14/2025 10:21 AM",
+      "Address": "300 BLOCK S EUCLID ST"
+    },
+    {
+      "Incident": "25-13364",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/14/2025 10:18 AM",
+      "Address": "N STATE COLLEGE BLVD / E DOROTHY LANE"
+    },
+    {
+      "Incident": "25-13363",
+      "Type": "DEPARTMENT ASSIST",
+      "Date": "03/14/2025 10:12 AM",
+      "Address": "700 BLOCK BARRIS DR"
+    },
+    {
+      "Incident": "25-13362",
+      "Type": "PARKING PROBLEM",
+      "Date": "03/14/2025 10:09 AM",
+      "Address": "900 BLOCK S HARBOR BLVD"
+    },
+    {
+      "Incident": "25-13361",
+      "Type": "PATROL CHECK",
+      "Date": "03/14/2025 10:06 AM",
+      "Address": "2300 BLOCK IRIS CRT"
+    },
+    {
+      "Incident": "25-13360",
+      "Type": "ABANDONED VEHICLE",
+      "Date": "03/14/2025 10:01 AM",
+      "Address": "1300 BLOCK MANHATTAN AVE"
+    },
     {
       "Incident": "25-13359",
       "Type": "WELFARE CHECK",
@@ -17,54 +53,6 @@
       "Type": "DEPARTMENT ASSIST",
       "Date": "03/14/2025 9:43 AM",
       "Address": "1700 BLOCK E WILSHIRE AVE"
-    },
-    {
-      "Incident": "25-13356",
-      "Type": "ALARM BURGLARY",
-      "Date": "03/14/2025 9:36 AM",
-      "Address": "1900 BLOCK RAYMER AVE"
-    },
-    {
-      "Incident": "25-13355",
-      "Type": "THEFT PETTY RPT",
-      "Date": "03/14/2025 9:32 AM",
-      "Address": "900 BLOCK E COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-13354",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/14/2025 9:29 AM",
-      "Address": "S STATE COLLEGE BLVD / E ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-13353",
-      "Type": "WELFARE CHECK",
-      "Date": "03/14/2025 9:13 AM",
-      "Address": "1900 BLOCK W OAK AVE"
-    },
-    {
-      "Incident": "25-13351",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/14/2025 9:13 AM",
-      "Address": "100 BLOCK E VALENCIA MESA DR"
-    },
-    {
-      "Incident": "25-13350",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/14/2025 9:12 AM",
-      "Address": "800 BLOCK S ACACIA AVE"
-    },
-    {
-      "Incident": "25-13352",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "03/14/2025 9:12 AM",
-      "Address": "100 BLOCK E ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-13349",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/14/2025 9:04 AM",
-      "Address": "2300 BLOCK KIMBERLY AVE"
     }
   ]
 }
