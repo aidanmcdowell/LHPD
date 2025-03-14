@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T11:54:37.6796868-07:00",
+  "LastUpdated": "2025-03-14T11:55:11.848194-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -41,12 +41,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "03/14/2025 11:04 AM",
       "Address": "1200 BLOCK N LEMON ST"
-    },
-    {
-      "Incident": "25-13367",
-      "Type": "WARRANT SERVICE",
-      "Date": "03/14/2025 10:55 AM",
-      "Address": "200 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
