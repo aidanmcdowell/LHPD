@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T10:53:37.8114337-07:00",
+  "LastUpdated": "2025-03-14T11:03:12.5169652-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -41,12 +41,6 @@
       "Type": "PATROL CHECK",
       "Date": "03/14/2025 10:06 AM",
       "Address": "2300 BLOCK IRIS CRT"
-    },
-    {
-      "Incident": "25-13360",
-      "Type": "ABANDONED VEHICLE",
-      "Date": "03/14/2025 10:01 AM",
-      "Address": "1300 BLOCK MANHATTAN AVE"
     }
   ]
 }
