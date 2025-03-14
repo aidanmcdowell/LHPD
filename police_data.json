@@ -1,17 +1,41 @@
 {
-  "LastUpdated": "2025-03-14T13:41:44.4647022-07:00",
+  "LastUpdated": "2025-03-14T13:51:13.5364679-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
-    "Teri Pl": "NOT SAFE"
+    "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13403",
+      "Type": "N/A",
+      "Date": "03/14/2025 1:38 PM",
+      "Address": "N PLACENTIA AVE / YORBA LINDA BLVD"
+    },
+    {
+      "Incident": "25-13402",
+      "Type": "CRIME SCENE INVESTIGATION",
+      "Date": "03/14/2025 1:37 PM",
+      "Address": "1100 BLOCK W OAK AVE"
+    },
+    {
+      "Incident": "25-13401",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/14/2025 1:35 PM",
+      "Address": "1000 BLOCK S BROOKHURST RD"
+    },
+    {
+      "Incident": "25-13400",
+      "Type": "THEFT PETTY RPT",
+      "Date": "03/14/2025 1:33 PM",
+      "Address": "2000 BLOCK OXFORD AVE"
+    },
     {
       "Incident": "25-13399",
       "Type": "N/A",
       "Date": "03/14/2025 1:28 PM",
-      "Address": "S EUCLID ST / N TERI PL"
+      "Address": "S EUCLID ST / W SOUTHGATE AVE"
     },
     {
       "Incident": "25-13398",
@@ -48,24 +72,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "03/14/2025 12:55 PM",
       "Address": "RAYMER AVE / N GILBERT ST"
-    },
-    {
-      "Incident": "25-13397",
-      "Type": "PATROL CHECK",
-      "Date": "03/14/2025 12:51 PM",
-      "Address": "2900 BLOCK WELLESLEY CRT"
-    },
-    {
-      "Incident": "25-13389",
-      "Type": "DEPARTMENT ASSIST",
-      "Date": "03/14/2025 12:50 PM",
-      "Address": "200 BLOCK E CHAPMAN AVE"
-    },
-    {
-      "Incident": "25-13390",
-      "Type": "TC HIT/RUN MISD RPT",
-      "Date": "03/14/2025 12:49 PM",
-      "Address": "2700 BLOCK E NUTWOOD AVE"
     }
   ]
 }
