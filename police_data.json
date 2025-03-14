@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T10:46:46.6086298-07:00",
+  "LastUpdated": "2025-03-14T10:47:20.8560866-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -41,12 +41,6 @@
       "Type": "ABANDONED VEHICLE",
       "Date": "03/14/2025 10:01 AM",
       "Address": "1300 BLOCK MANHATTAN AVE"
-    },
-    {
-      "Incident": "25-13359",
-      "Type": "WELFARE CHECK",
-      "Date": "03/14/2025 9:47 AM",
-      "Address": "3200 BLOCK QUARTZ LANE"
     }
   ]
 }
