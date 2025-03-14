@@ -1,46 +1,71 @@
 {
-  "LastUpdated": "2025-03-14T11:58:02.008783-07:00",
+  "LastUpdated": "2025-03-14T13:38:55.3210027-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
-    "Riverside Dr": "SAFE"
+    "Riverside Dr": "SAFE",
+    "Teri Pl": "SAFE"
   },
   "RecentCalls": [
     {
-      "Incident": "25-13374",
-      "Type": "WELFARE CHECK",
-      "Date": "03/14/2025 11:42 AM",
-      "Address": "1300 BLOCK S VINE AVE"
+      "Incident": "25-13399",
+      "Type": "N/A",
+      "Date": "03/14/2025 1:28 PM",
+      "Address": "S EUCLID ST / W SOUTHGATE AVE"
     },
     {
-      "Incident": "25-13372",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "03/14/2025 11:33 AM",
-      "Address": "100 BLOCK E IMPERIAL HWY"
+      "Incident": "25-13398",
+      "Type": "THEFT GRAND RPT",
+      "Date": "03/14/2025 1:16 PM",
+      "Address": "2600 BLOCK MEDFORD PL"
     },
     {
-      "Incident": "25-13373",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/14/2025 11:29 AM",
-      "Address": "1400 BLOCK S HARBOR BLVD"
+      "Incident": "25-13396",
+      "Type": "TRAFFIC HAZARD",
+      "Date": "03/14/2025 1:04 PM",
+      "Address": "ASSOCIATED RD / E BASTANCHURY RD[S/OF"
     },
     {
-      "Incident": "25-13370",
+      "Incident": "25-13395",
+      "Type": "THEFT AUTO RPT",
+      "Date": "03/14/2025 1:02 PM",
+      "Address": "900 BLOCK W COMMONWEALTH AVE"
+    },
+    {
+      "Incident": "25-13394",
+      "Type": "DISTURBANCE FAMILY",
+      "Date": "03/14/2025 12:58 PM",
+      "Address": "200 BLOCK ORANGEFAIR AVE"
+    },
+    {
+      "Incident": "25-13392",
+      "Type": "SUSPICIOUS PERSON",
+      "Date": "03/14/2025 12:56 PM",
+      "Address": "2600 BLOCK YORBA LINDA BLVD"
+    },
+    {
+      "Incident": "25-13391",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/14/2025 12:55 PM",
+      "Address": "RAYMER AVE / N GILBERT ST"
+    },
+    {
+      "Incident": "25-13397",
       "Type": "PATROL CHECK",
-      "Date": "03/14/2025 11:17 AM",
-      "Address": "2100 BLOCK W ORANGETHORPE AVE"
+      "Date": "03/14/2025 12:51 PM",
+      "Address": "2900 BLOCK WELLESLEY CRT"
     },
     {
-      "Incident": "25-13369",
-      "Type": "TC NO DETAIL",
-      "Date": "03/14/2025 11:15 AM",
-      "Address": "W SOUTHGATE AVE / S HARBOR BLVD"
+      "Incident": "25-13389",
+      "Type": "DEPARTMENT ASSIST",
+      "Date": "03/14/2025 12:50 PM",
+      "Address": "200 BLOCK E CHAPMAN AVE"
     },
     {
-      "Incident": "25-13368",
-      "Type": "ALARM BURGLARY",
-      "Date": "03/14/2025 11:04 AM",
-      "Address": "1200 BLOCK N LEMON ST"
+      "Incident": "25-13390",
+      "Type": "TC HIT/RUN MISD RPT",
+      "Date": "03/14/2025 12:49 PM",
+      "Address": "2700 BLOCK E NUTWOOD AVE"
     }
   ]
 }
