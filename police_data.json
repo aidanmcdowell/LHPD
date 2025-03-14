@@ -1,11 +1,17 @@
 {
-  "LastUpdated": "2025-03-14T11:52:21.357432-07:00",
+  "LastUpdated": "2025-03-14T11:52:55.4742749-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13374",
+      "Type": "WELFARE CHECK",
+      "Date": "03/14/2025 11:42 AM",
+      "Address": "1300 BLOCK S VINE AVE"
+    },
     {
       "Incident": "25-13372",
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
