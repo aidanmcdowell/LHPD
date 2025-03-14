@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T14:34:30.7972145-07:00",
+  "LastUpdated": "2025-03-14T14:35:04.7379297-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -72,12 +72,6 @@
       "Type": "CRIME SCENE INVESTIGATION",
       "Date": "03/14/2025 1:37 PM",
       "Address": "1100 BLOCK W OAK AVE"
-    },
-    {
-      "Incident": "25-13401",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/14/2025 1:35 PM",
-      "Address": "1000 BLOCK S BROOKHURST RD"
     }
   ]
 }
