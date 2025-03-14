@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T13:57:00.9158946-07:00",
+  "LastUpdated": "2025-03-14T13:57:34.6264265-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,18 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13404",
+      "Type": "THEFT GRAND RPT",
+      "Date": "03/14/2025 1:47 PM",
+      "Address": "100 BLOCK N HARBOR BLVD, FULLERTON"
+    },
+    {
+      "Incident": "25-13406",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "03/14/2025 1:46 PM",
+      "Address": "500 BLOCK S BROOKHURST RD"
+    },
     {
       "Incident": "25-13405",
       "Type": "FOUND ADULT",
