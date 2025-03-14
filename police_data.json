@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T11:39:51.7185267-07:00",
+  "LastUpdated": "2025-03-14T11:40:25.8014582-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -29,12 +29,6 @@
       "Type": "WARRANT SERVICE",
       "Date": "03/14/2025 10:55 AM",
       "Address": "200 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-13366",
-      "Type": "N/A",
-      "Date": "03/14/2025 10:40 AM",
-      "Address": "900 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
