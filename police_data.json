@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T10:42:47.3352898-07:00",
+  "LastUpdated": "2025-03-14T10:43:21.4800284-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -47,12 +47,6 @@
       "Type": "WELFARE CHECK",
       "Date": "03/14/2025 9:47 AM",
       "Address": "3200 BLOCK QUARTZ LANE"
-    },
-    {
-      "Incident": "25-13357",
-      "Type": "DEPARTMENT ASSIST",
-      "Date": "03/14/2025 9:43 AM",
-      "Address": "1700 BLOCK E WILSHIRE AVE"
     }
   ]
 }
