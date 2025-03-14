@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T13:55:53.1214056-07:00",
+  "LastUpdated": "2025-03-14T13:56:26.961046-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -66,12 +66,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "03/14/2025 12:58 PM",
       "Address": "200 BLOCK ORANGEFAIR AVE"
-    },
-    {
-      "Incident": "25-13392",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "03/14/2025 12:56 PM",
-      "Address": "2600 BLOCK YORBA LINDA BLVD"
     }
   ]
 }
