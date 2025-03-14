@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T13:57:34.6264265-07:00",
+  "LastUpdated": "2025-03-14T13:58:14.6300153-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -72,12 +72,6 @@
       "Type": "THEFT AUTO RPT",
       "Date": "03/14/2025 1:02 PM",
       "Address": "900 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-13394",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "03/14/2025 12:58 PM",
-      "Address": "200 BLOCK ORANGEFAIR AVE"
     }
   ]
 }
