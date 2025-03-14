@@ -1,17 +1,17 @@
 {
   "LastUpdated": "2025-03-14T14:08:59.977689-07:00",
   "Streets": {
-    "Balfour Ave": "SAFE",
+    "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
-    "Teri Pl": "SAFE"
+    "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
     {
       "Incident": "25-13409",
       "Type": "PARKING PROBLEM",
       "Date": "03/14/2025 1:57 PM",
-      "Address": "400 BLOCK S RICHMAN AVE"
+      "Address": "BALFOUR AVE"
     },
     {
       "Incident": "25-13408",
@@ -23,7 +23,7 @@
       "Incident": "25-13407",
       "Type": "DISTURBANCE OF PEACE",
       "Date": "03/14/2025 1:53 PM",
-      "Address": "2400 BLOCK E NUTWOOD AVE"
+      "Address": "N TERI PL"
     },
     {
       "Incident": "25-13404",
