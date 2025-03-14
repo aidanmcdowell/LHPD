@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T14:01:38.418021-07:00",
+  "LastUpdated": "2025-03-14T14:02:12.3883711-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -66,12 +66,6 @@
       "Type": "TRAFFIC HAZARD",
       "Date": "03/14/2025 1:04 PM",
       "Address": "ASSOCIATED RD / E BASTANCHURY RD[S/OF"
-    },
-    {
-      "Incident": "25-13395",
-      "Type": "THEFT AUTO RPT",
-      "Date": "03/14/2025 1:02 PM",
-      "Address": "900 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
