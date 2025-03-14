@@ -1,11 +1,23 @@
 {
-  "LastUpdated": "2025-03-14T11:17:07.9121973-07:00",
+  "LastUpdated": "2025-03-14T11:31:52.8701661-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13370",
+      "Type": "PATROL CHECK",
+      "Date": "03/14/2025 11:17 AM",
+      "Address": "2100 BLOCK W ORANGETHORPE AVE"
+    },
+    {
+      "Incident": "25-13369",
+      "Type": "TC NO DETAIL",
+      "Date": "03/14/2025 11:15 AM",
+      "Address": "W SOUTHGATE AVE / S HARBOR BLVD"
+    },
     {
       "Incident": "25-13368",
       "Type": "ALARM BURGLARY",
@@ -23,18 +35,6 @@
       "Type": "N/A",
       "Date": "03/14/2025 10:40 AM",
       "Address": "900 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-13365",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/14/2025 10:21 AM",
-      "Address": "300 BLOCK S EUCLID ST"
-    },
-    {
-      "Incident": "25-13364",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/14/2025 10:18 AM",
-      "Address": "N STATE COLLEGE BLVD / E DOROTHY LANE"
     }
   ]
 }
