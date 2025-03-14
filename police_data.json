@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T14:37:53.8357563-07:00",
+  "LastUpdated": "2025-03-14T14:38:27.5488718-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -60,12 +60,6 @@
       "Type": "FOUND ADULT",
       "Date": "03/14/2025 1:45 PM",
       "Address": "1600 BLOCK N PLACENTIA AVE"
-    },
-    {
-      "Incident": "25-13403",
-      "Type": "N/A",
-      "Date": "03/14/2025 1:38 PM",
-      "Address": "N PLACENTIA AVE / YORBA LINDA BLVD"
     }
   ]
 }
