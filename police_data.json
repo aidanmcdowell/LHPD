@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T20:24:48.4993987-07:00",
+  "LastUpdated": "2025-03-14T20:25:22.3741036-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,18 +42,6 @@
       "Type": "PARKING PROBLEM",
       "Date": "03/14/2025 7:26 PM",
       "Address": "200 BLOCK W WHITING AVE"
-    },
-    {
-      "Incident": "25-13452",
-      "Type": "PATROL CHECK",
-      "Date": "03/14/2025 7:25 PM",
-      "Address": "3200 BLOCK QUARTZ LANE"
-    },
-    {
-      "Incident": "25-13453",
-      "Type": "THEFT GRAND RPT",
-      "Date": "03/14/2025 7:25 PM",
-      "Address": "1400 BLOCK E BASTANCHURY RD"
     }
   ]
 }
