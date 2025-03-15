@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T19:31:13.143544-07:00",
+  "LastUpdated": "2025-03-14T19:31:46.8234514-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13450",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "03/14/2025 7:21 PM",
+      "Address": "W FRANKLIN AVE / OLIN ST"
+    },
     {
       "Incident": "25-13449",
       "Type": "PATROL CHECK",
