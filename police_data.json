@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:24:42.9188953-07:00",
+  "LastUpdated": "2025-03-14T18:25:16.6298636-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -60,12 +60,6 @@
       "Type": "SUSP CIRCS",
       "Date": "03/14/2025 5:28 PM",
       "Address": "1400 BLOCK S BROOKHURST RD"
-    },
-    {
-      "Incident": "25-13429",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "03/14/2025 5:25 PM",
-      "Address": "1300 BLOCK PECKHAM ST"
     }
   ]
 }
