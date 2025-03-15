@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T12:25:39.402864-07:00",
+  "LastUpdated": "2025-03-15T12:26:13.3544524-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "03/15/2025 11:46 AM",
       "Address": "1400 BLOCK S EUCLID ST"
-    },
-    {
-      "Incident": "25-13561",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "03/15/2025 11:26 AM",
-      "Address": "2700 BLOCK CRAIG CIRC"
     }
   ]
 }
