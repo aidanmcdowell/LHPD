@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T20:55:52.4231013-07:00",
+  "LastUpdated": "2025-03-14T20:56:28.2985175-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "TC NO DETAIL",
       "Date": "03/14/2025 8:04 PM",
       "Address": "LONGVIEW DR / E DOROTHY LANE"
-    },
-    {
-      "Incident": "25-13457",
-      "Type": "TC HIT/RUN FO/PKD RPT",
-      "Date": "03/14/2025 7:56 PM",
-      "Address": "W VALENCIA DR / S EUCLID ST"
     }
   ]
 }
