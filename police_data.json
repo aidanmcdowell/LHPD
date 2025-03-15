@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T20:20:51.5983164-07:00",
+  "LastUpdated": "2025-03-14T20:21:25.4436755-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "THEFT GRAND RPT",
       "Date": "03/14/2025 7:25 PM",
       "Address": "1400 BLOCK E BASTANCHURY RD"
-    },
-    {
-      "Incident": "25-13450",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "03/14/2025 7:21 PM",
-      "Address": "W FRANKLIN AVE / OLIN ST"
     }
   ]
 }
