@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T12:17:35.838437-07:00",
+  "LastUpdated": "2025-03-15T12:18:09.6002514-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "03/15/2025 11:25 AM",
       "Address": "500 BLOCK N STATE COLLEGE BLVD"
-    },
-    {
-      "Incident": "25-13559",
-      "Type": "FOLLOW UP CASE",
-      "Date": "03/15/2025 11:18 AM",
-      "Address": "200 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
