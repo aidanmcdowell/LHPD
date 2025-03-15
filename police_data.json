@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T21:20:43.3451704-07:00",
+  "LastUpdated": "2025-03-14T21:21:17.1094379-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13470",
+      "Type": "CRIME SCENE INVESTIGATION",
+      "Date": "03/14/2025 9:10 PM",
+      "Address": "LONGVIEW DR / E DOROTHY LANE"
+    },
     {
       "Incident": "25-13467",
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
