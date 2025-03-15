@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T12:02:54.4904027-07:00",
+  "LastUpdated": "2025-03-15T12:03:28.32759-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13564",
+      "Type": "THEFT PETTY",
+      "Date": "03/15/2025 11:53 AM",
+      "Address": "1100 BLOCK S HARBOR BLVD"
+    },
     {
       "Incident": "25-13563",
       "Type": "PED CHECK",
