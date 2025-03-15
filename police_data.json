@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T11:41:28.216291-07:00",
+  "LastUpdated": "2025-03-15T11:42:01.9554708-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "RECOVERED AUTO",
       "Date": "03/15/2025 10:48 AM",
       "Address": "400 BLOCK N STATE COLLEGE BLVD"
-    },
-    {
-      "Incident": "25-13554",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/15/2025 10:42 AM",
-      "Address": "700 BLOCK N HARBOR BLVD"
     }
   ]
 }
