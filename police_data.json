@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T19:55:27.5774443-07:00",
+  "LastUpdated": "2025-03-14T19:56:01.3575749-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13455",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/14/2025 7:45 PM",
+      "Address": "E NUTWOOD AVE / 57 FWY"
+    },
     {
       "Incident": "25-13454",
       "Type": "PARKING PROBLEM",
