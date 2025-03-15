@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T21:03:48.4814512-07:00",
+  "LastUpdated": "2025-03-14T21:04:22.5074605-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "TC NO DETAIL",
       "Date": "03/14/2025 8:06 PM",
       "Address": "1300 BLOCK S EUCLID ST"
-    },
-    {
-      "Incident": "25-13459",
-      "Type": "TC NO DETAIL",
-      "Date": "03/14/2025 8:04 PM",
-      "Address": "LONGVIEW DR / E DOROTHY LANE"
     }
   ]
 }
