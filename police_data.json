@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T11:59:30.6816215-07:00",
+  "LastUpdated": "2025-03-15T12:00:04.8540376-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13563",
+      "Type": "PED CHECK",
+      "Date": "03/15/2025 11:49 AM",
+      "Address": "S EUCLID ST / 91 FWY"
+    },
     {
       "Incident": "25-13562",
       "Type": "ALARM BURGLARY",
