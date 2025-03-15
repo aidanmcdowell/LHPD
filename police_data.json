@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T20:25:56.2160735-07:00",
+  "LastUpdated": "2025-03-14T20:26:29.978367-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "03/14/2025 7:45 PM",
       "Address": "E NUTWOOD AVE / 57 FWY"
-    },
-    {
-      "Incident": "25-13454",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/14/2025 7:26 PM",
-      "Address": "200 BLOCK W WHITING AVE"
     }
   ]
 }
