@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:45:31.8802784-07:00",
+  "LastUpdated": "2025-03-14T18:46:05.6250207-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "THEFT PETTY RPT",
       "Date": "03/14/2025 5:54 PM",
       "Address": "2100 BLOCK E NUTWOOD AVE"
-    },
-    {
-      "Incident": "25-13437",
-      "Type": "AREA CHECK",
-      "Date": "03/14/2025 5:46 PM",
-      "Address": "500 BLOCK S LEMON ST"
     }
   ]
 }
