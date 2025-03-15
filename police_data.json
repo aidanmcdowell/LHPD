@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T19:46:59.8294819-07:00",
+  "LastUpdated": "2025-03-14T19:47:33.629317-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "AREA CHECK",
       "Date": "03/14/2025 6:48 PM",
       "Address": "300 BLOCK N PLACENTIA AVE"
-    },
-    {
-      "Incident": "25-13445",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/14/2025 6:47 PM",
-      "Address": "1700 BLOCK PEPPERTREE LANE"
     }
   ]
 }
