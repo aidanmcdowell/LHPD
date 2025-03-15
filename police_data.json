@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T11:58:56.8626547-07:00",
+  "LastUpdated": "2025-03-15T11:59:30.6816215-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "CRIME SCENE INVESTIGATION",
       "Date": "03/15/2025 11:01 AM",
       "Address": "2200 BLOCK E CHAPMAN AVE"
-    },
-    {
-      "Incident": "25-13556",
-      "Type": "ALARM BURGLARY",
-      "Date": "03/15/2025 10:59 AM",
-      "Address": "1400 BLOCK W MAXZIM AVE"
     }
   ]
 }
