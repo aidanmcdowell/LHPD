@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:20:46.5418505-07:00",
+  "LastUpdated": "2025-03-14T18:21:20.3431234-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -66,12 +66,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "03/14/2025 5:25 PM",
       "Address": "1300 BLOCK PECKHAM ST"
-    },
-    {
-      "Incident": "25-13428",
-      "Type": "DEPARTMENT ASSIST",
-      "Date": "03/14/2025 5:21 PM",
-      "Address": "2200 BLOCK W MALVERN AVE"
     }
   ]
 }
