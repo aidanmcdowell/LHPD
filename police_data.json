@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T14:38:27.5488718-07:00",
+  "LastUpdated": "2025-03-14T18:04:58.0121407-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,58 +8,52 @@
   },
   "RecentCalls": [
     {
-      "Incident": "25-13412",
+      "Incident": "25-13438",
+      "Type": "THEFT PETTY RPT",
+      "Date": "03/14/2025 5:54 PM",
+      "Address": "2100 BLOCK E NUTWOOD AVE"
+    },
+    {
+      "Incident": "25-13437",
+      "Type": "AREA CHECK",
+      "Date": "03/14/2025 5:46 PM",
+      "Address": "500 BLOCK S LEMON ST"
+    },
+    {
+      "Incident": "25-13435",
+      "Type": "WELFARE CHECK",
+      "Date": "03/14/2025 5:39 PM",
+      "Address": "1800 BLOCK SOMERSET LANE"
+    },
+    {
+      "Incident": "25-13432",
+      "Type": "CRIME SCENE INVESTIGATION",
+      "Date": "03/14/2025 5:30 PM",
+      "Address": "400 BLOCK W PORTER AVE"
+    },
+    {
+      "Incident": "25-13431",
       "Type": "FOLLOW UP CASE",
-      "Date": "03/14/2025 2:22 PM",
-      "Address": "100 BLOCK CIVIC CIR[BREA PD"
+      "Date": "03/14/2025 5:28 PM",
+      "Address": "3500 BLOCK W COMMONWEALTH AVE"
     },
     {
-      "Incident": "25-13411",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "03/14/2025 2:15 PM",
-      "Address": "1100 BLOCK E CHAPMAN AVE"
+      "Incident": "25-13433",
+      "Type": "SUSP CIRCS",
+      "Date": "03/14/2025 5:28 PM",
+      "Address": "1400 BLOCK S BROOKHURST RD"
     },
     {
-      "Incident": "25-13410",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/14/2025 2:01 PM",
-      "Address": "S GILBERT ST / W VALENCIA DR[S/OF"
+      "Incident": "25-13429",
+      "Type": "DISTURBANCE FAMILY",
+      "Date": "03/14/2025 5:25 PM",
+      "Address": "1300 BLOCK PECKHAM ST"
     },
     {
-      "Incident": "25-13409",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/14/2025 1:57 PM",
-      "Address": "400 BLOCK S RICHMAN AVE"
-    },
-    {
-      "Incident": "25-13408",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "03/14/2025 1:56 PM",
-      "Address": "1000 BLOCK E BASTANCHURY RD"
-    },
-    {
-      "Incident": "25-13407",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "03/14/2025 1:53 PM",
-      "Address": "2400 BLOCK E NUTWOOD AVE"
-    },
-    {
-      "Incident": "25-13404",
-      "Type": "THEFT GRAND RPT",
-      "Date": "03/14/2025 1:47 PM",
-      "Address": "100 BLOCK N HARBOR BLVD, FULLERTON"
-    },
-    {
-      "Incident": "25-13406",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/14/2025 1:46 PM",
-      "Address": "500 BLOCK S BROOKHURST RD"
-    },
-    {
-      "Incident": "25-13405",
-      "Type": "FOUND ADULT",
-      "Date": "03/14/2025 1:45 PM",
-      "Address": "1600 BLOCK N PLACENTIA AVE"
+      "Incident": "25-13428",
+      "Type": "DEPARTMENT ASSIST",
+      "Date": "03/14/2025 5:21 PM",
+      "Address": "2200 BLOCK W MALVERN AVE"
     }
   ]
 }
