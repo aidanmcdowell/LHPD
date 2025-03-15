@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T19:30:39.3542642-07:00",
+  "LastUpdated": "2025-03-14T19:31:13.143544-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "03/14/2025 6:36 PM",
       "Address": "1400 BLOCK PINON PL"
-    },
-    {
-      "Incident": "25-13443",
-      "Type": "PROBATION CHECK",
-      "Date": "03/14/2025 6:31 PM",
-      "Address": "400 BLOCK W BAKER AVE"
     }
   ]
 }
