@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:09:30.3186797-07:00",
+  "LastUpdated": "2025-03-14T18:10:04.0300103-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13439",
+      "Type": "PATROL CHECK",
+      "Date": "03/14/2025 6:00 PM",
+      "Address": "2500 BLOCK TARRYTOWN DR"
+    },
     {
       "Incident": "25-13438",
       "Type": "THEFT PETTY RPT",
