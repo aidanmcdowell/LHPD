@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:53:58.1862661-07:00",
+  "LastUpdated": "2025-03-14T18:54:31.9306357-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "PATROL CHECK",
       "Date": "03/14/2025 6:00 PM",
       "Address": "2500 BLOCK TARRYTOWN DR"
-    },
-    {
-      "Incident": "25-13438",
-      "Type": "THEFT PETTY RPT",
-      "Date": "03/14/2025 5:54 PM",
-      "Address": "2100 BLOCK E NUTWOOD AVE"
     }
   ]
 }
