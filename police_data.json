@@ -1,9 +1,9 @@
 {
-  "LastUpdated": "2025-03-14T21:24:39.9981143-07:00",
+  "LastUpdated": "2025-03-14T21:25:13.8079178-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
-    "Riverside Dr": "NOT SAFE",
+    "Riverside Dr": "SAFE",
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
@@ -36,12 +36,6 @@
       "Type": "PED CHECK",
       "Date": "03/14/2025 8:27 PM",
       "Address": "2900 BLOCK YORBA LINDA BLVD"
-    },
-    {
-      "Incident": "25-13463",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "03/14/2025 8:25 PM",
-      "Address": "1600 BLOCK RIVERSIDE DR"
     }
   ]
 }
