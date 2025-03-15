@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:14:34.377092-07:00",
+  "LastUpdated": "2025-03-14T18:15:08.1708434-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13441",
+      "Type": "WELFARE CHECK",
+      "Date": "03/14/2025 6:05 PM",
+      "Address": "3500 BLOCK W COMMONWEALTH AVE"
+    },
     {
       "Incident": "25-13439",
       "Type": "PATROL CHECK",
