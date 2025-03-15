@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T11:47:40.2664502-07:00",
+  "LastUpdated": "2025-03-15T11:48:14.0828821-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "03/15/2025 10:59 AM",
       "Address": "1400 BLOCK W MAXZIM AVE"
-    },
-    {
-      "Incident": "25-13555",
-      "Type": "RECOVERED AUTO",
-      "Date": "03/15/2025 10:48 AM",
-      "Address": "400 BLOCK N STATE COLLEGE BLVD"
     }
   ]
 }
