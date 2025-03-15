@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T12:24:29.9558783-07:00",
+  "LastUpdated": "2025-03-15T12:25:05.0470702-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "03/15/2025 11:26 AM",
       "Address": "2700 BLOCK CRAIG CIRC"
-    },
-    {
-      "Incident": "25-13560",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/15/2025 11:25 AM",
-      "Address": "500 BLOCK N STATE COLLEGE BLVD"
     }
   ]
 }
