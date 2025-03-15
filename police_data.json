@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T11:56:41.5632877-07:00",
+  "LastUpdated": "2025-03-15T11:57:15.3228446-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13562",
+      "Type": "ALARM BURGLARY",
+      "Date": "03/15/2025 11:46 AM",
+      "Address": "1400 BLOCK S EUCLID ST"
+    },
     {
       "Incident": "25-13561",
       "Type": "DISTURBANCE FAMILY",
