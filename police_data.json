@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T19:47:33.629317-07:00",
+  "LastUpdated": "2025-03-14T19:48:07.5082998-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "PED CHECK",
       "Date": "03/14/2025 6:49 PM",
       "Address": "400 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-13447",
-      "Type": "AREA CHECK",
-      "Date": "03/14/2025 6:48 PM",
-      "Address": "300 BLOCK N PLACENTIA AVE"
     }
   ]
 }
