@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:38:46.5584009-07:00",
+  "LastUpdated": "2025-03-14T18:39:20.4543712-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "AREA CHECK",
       "Date": "03/14/2025 5:46 PM",
       "Address": "500 BLOCK S LEMON ST"
-    },
-    {
-      "Incident": "25-13435",
-      "Type": "WELFARE CHECK",
-      "Date": "03/14/2025 5:39 PM",
-      "Address": "1800 BLOCK SOMERSET LANE"
     }
   ]
 }
