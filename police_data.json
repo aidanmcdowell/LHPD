@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T12:13:05.2430491-07:00",
+  "LastUpdated": "2025-03-15T12:13:39.0974714-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13566",
+      "Type": "FOLLOW UP CASE",
+      "Date": "03/15/2025 12:03 PM",
+      "Address": "1400 BLOCK S HIGHLAND AVE"
+    },
     {
       "Incident": "25-13565",
       "Type": "THEFT PETTY RPT",
