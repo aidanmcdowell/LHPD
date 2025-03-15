@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:59:35.6231109-07:00",
+  "LastUpdated": "2025-03-14T19:00:09.3549056-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "WELFARE CHECK",
       "Date": "03/14/2025 6:05 PM",
       "Address": "3500 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-13439",
-      "Type": "PATROL CHECK",
-      "Date": "03/14/2025 6:00 PM",
-      "Address": "2500 BLOCK TARRYTOWN DR"
     }
   ]
 }
