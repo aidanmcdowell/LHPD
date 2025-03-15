@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:58:28.1199481-07:00",
+  "LastUpdated": "2025-03-14T18:59:01.8771086-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13447",
+      "Type": "AREA CHECK",
+      "Date": "03/14/2025 6:48 PM",
+      "Address": "300 BLOCK N PLACENTIA AVE"
+    },
     {
       "Incident": "25-13445",
       "Type": "PARKING PROBLEM",
