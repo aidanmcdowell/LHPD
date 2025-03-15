@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:27:31.5938302-07:00",
+  "LastUpdated": "2025-03-14T18:28:05.3372267-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,18 +48,6 @@
       "Type": "CRIME SCENE INVESTIGATION",
       "Date": "03/14/2025 5:30 PM",
       "Address": "400 BLOCK W PORTER AVE"
-    },
-    {
-      "Incident": "25-13431",
-      "Type": "FOLLOW UP CASE",
-      "Date": "03/14/2025 5:28 PM",
-      "Address": "3500 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-13433",
-      "Type": "SUSP CIRCS",
-      "Date": "03/14/2025 5:28 PM",
-      "Address": "1400 BLOCK S BROOKHURST RD"
     }
   ]
 }
