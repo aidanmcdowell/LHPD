@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T21:05:30.2985206-07:00",
+  "LastUpdated": "2025-03-14T21:06:04.0723813-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "KEEP THE PEACE",
       "Date": "03/14/2025 8:20 PM",
       "Address": "2000 BLOCK RAYMER AVE"
-    },
-    {
-      "Incident": "25-13460",
-      "Type": "TC NO DETAIL",
-      "Date": "03/14/2025 8:06 PM",
-      "Address": "1300 BLOCK S EUCLID ST"
     }
   ]
 }
