@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-15T11:39:46.8948405-07:00",
+  "LastUpdated": "2025-03-15T11:40:20.6822769-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "03/15/2025 10:42 AM",
       "Address": "700 BLOCK N HARBOR BLVD"
-    },
-    {
-      "Incident": "25-13553",
-      "Type": "THEFT GRAND RPT",
-      "Date": "03/15/2025 10:40 AM",
-      "Address": "1100 BLOCK N PLACENTIA AVE"
     }
   ]
 }
