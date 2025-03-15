@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T21:04:22.5074605-07:00",
+  "LastUpdated": "2025-03-14T21:04:56.4743894-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13467",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "03/14/2025 8:54 PM",
+      "Address": "900 BLOCK W ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-13466",
       "Type": "PED CHECK",
