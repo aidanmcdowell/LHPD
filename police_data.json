@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T19:59:58.2196564-07:00",
+  "LastUpdated": "2025-03-14T20:00:32.0645829-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
       "Date": "03/14/2025 7:21 PM",
       "Address": "W FRANKLIN AVE / OLIN ST"
-    },
-    {
-      "Incident": "25-13449",
-      "Type": "PATROL CHECK",
-      "Date": "03/14/2025 7:00 PM",
-      "Address": "CAMINO DEL SOL / PASEO DORADO"
     }
   ]
 }
