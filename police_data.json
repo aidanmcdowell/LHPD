@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T20:52:28.9555884-07:00",
+  "LastUpdated": "2025-03-14T20:53:02.7706702-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TC HIT/RUN FO/PKD RPT",
       "Date": "03/14/2025 7:56 PM",
       "Address": "W VALENCIA DR / S EUCLID ST"
-    },
-    {
-      "Incident": "25-13456",
-      "Type": "WELFARE CHECK",
-      "Date": "03/14/2025 7:53 PM",
-      "Address": "1300 BLOCK DEERPARK DR"
     }
   ]
 }
