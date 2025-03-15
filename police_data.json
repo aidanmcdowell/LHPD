@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T20:44:34.6510808-07:00",
+  "LastUpdated": "2025-03-14T20:45:08.6421271-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "WELFARE CHECK",
       "Date": "03/14/2025 7:53 PM",
       "Address": "1300 BLOCK DEERPARK DR"
-    },
-    {
-      "Incident": "25-13455",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/14/2025 7:45 PM",
-      "Address": "E NUTWOOD AVE / 57 FWY"
     }
   ]
 }
