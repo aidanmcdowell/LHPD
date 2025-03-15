@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T19:04:40.2403554-07:00",
+  "LastUpdated": "2025-03-14T19:05:14.1237375-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,18 +42,6 @@
       "Type": "BATTERY",
       "Date": "03/14/2025 6:22 PM",
       "Address": "1300 BLOCK PECKHAM ST"
-    },
-    {
-      "Incident": "25-13440",
-      "Type": "KEEP THE PEACE",
-      "Date": "03/14/2025 6:05 PM",
-      "Address": "1600 BLOCK N PLACENTIA AVE"
-    },
-    {
-      "Incident": "25-13441",
-      "Type": "WELFARE CHECK",
-      "Date": "03/14/2025 6:05 PM",
-      "Address": "3500 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
