@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:32:01.6785279-07:00",
+  "LastUpdated": "2025-03-14T18:32:35.3149259-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13442",
+      "Type": "BATTERY",
+      "Date": "03/14/2025 6:22 PM",
+      "Address": "1300 BLOCK PECKHAM ST"
+    },
     {
       "Incident": "25-13440",
       "Type": "KEEP THE PEACE",
