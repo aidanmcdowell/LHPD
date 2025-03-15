@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-14T18:41:35.5413409-07:00",
+  "LastUpdated": "2025-03-14T18:42:09.2725983-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13443",
+      "Type": "PROBATION CHECK",
+      "Date": "03/14/2025 6:31 PM",
+      "Address": "400 BLOCK W BAKER AVE"
+    },
     {
       "Incident": "25-13442",
       "Type": "BATTERY",
