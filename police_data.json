@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T15:51:32.7830799-07:00",
+  "LastUpdated": "2025-03-16T15:52:06.5064738-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "INDECENT EXPOSURE",
       "Date": "03/16/2025 3:07 PM",
       "Address": "W COMMONWEALTH AVE / N BASQUE AVE"
-    },
-    {
-      "Incident": "25-13737",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "03/16/2025 2:52 PM",
-      "Address": "700 BLOCK S LEMON ST"
     }
   ]
 }
