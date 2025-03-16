@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T16:48:29.7556608-07:00",
+  "LastUpdated": "2025-03-16T16:49:03.5632329-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13746",
+      "Type": "DISTURBANCE JUVY",
+      "Date": "03/16/2025 4:38 PM",
+      "Address": "3300 BLOCK N STATE COLLEGE BLVD"
+    },
     {
       "Incident": "25-13745",
       "Type": "PED CHECK",
