@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T15:12:34.2715197-07:00",
+  "LastUpdated": "2025-03-16T15:13:08.0584152-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "BATTERY",
       "Date": "03/16/2025 2:15 PM",
       "Address": "1300 BLOCK E CHAPMAN AVE"
-    },
-    {
-      "Incident": "25-13728",
-      "Type": "DISTURBANCE FIGHT",
-      "Date": "03/16/2025 2:13 PM",
-      "Address": "ORANGEFAIR AVE / S LEMON ST"
     }
   ]
 }
