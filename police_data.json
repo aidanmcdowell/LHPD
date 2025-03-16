@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T16:33:50.418391-07:00",
+  "LastUpdated": "2025-03-16T16:34:24.2005511-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13743",
+      "Type": "PARKING PROBLEM",
+      "Date": "03/16/2025 4:24 PM",
+      "Address": "2600 BLOCK ANDOVER AVE"
+    },
     {
       "Incident": "25-13740",
       "Type": "CRIME SCENE INVESTIGATION",
