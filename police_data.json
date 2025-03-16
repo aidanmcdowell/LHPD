@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T14:03:48.4578806-07:00",
+  "LastUpdated": "2025-03-16T14:04:22.2310755-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -18,12 +18,6 @@
       "Type": "ABANDONED VEHICLE",
       "Date": "03/16/2025 1:07 PM",
       "Address": "300 BLOCK N HARRINGTON DR"
-    },
-    {
-      "Incident": "25-13721",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "03/16/2025 1:04 PM",
-      "Address": "1800 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
