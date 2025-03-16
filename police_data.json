@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T16:36:39.4528468-07:00",
+  "LastUpdated": "2025-03-16T16:37:13.3862197-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -12,12 +12,6 @@
       "Type": "PARKING PROBLEM",
       "Date": "03/16/2025 4:24 PM",
       "Address": "2600 BLOCK ANDOVER AVE"
-    },
-    {
-      "Incident": "25-13740",
-      "Type": "CRIME SCENE INVESTIGATION",
-      "Date": "03/16/2025 3:37 PM",
-      "Address": "300 BLOCK N ACACIA AVE"
     }
   ]
 }
