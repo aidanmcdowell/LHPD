@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T16:45:40.6039471-07:00",
+  "LastUpdated": "2025-03-16T16:46:14.4769108-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13745",
+      "Type": "PED CHECK",
+      "Date": "03/16/2025 4:35 PM",
+      "Address": "100 BLOCK W TRUSLOW AVE"
+    },
     {
       "Incident": "25-13744",
       "Type": "DISTURBANCE OF PEACE",
