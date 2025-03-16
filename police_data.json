@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T15:17:38.8516292-07:00",
+  "LastUpdated": "2025-03-16T15:18:12.6822166-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13738",
+      "Type": "INDECENT EXPOSURE",
+      "Date": "03/16/2025 3:07 PM",
+      "Address": "W COMMONWEALTH AVE / N BASQUE AVE"
+    },
     {
       "Incident": "25-13737",
       "Type": "DISTURBANCE FAMILY",
