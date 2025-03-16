@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T15:46:27.9548336-07:00",
+  "LastUpdated": "2025-03-16T15:47:01.7873305-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "03/16/2025 2:52 PM",
       "Address": "700 BLOCK S LEMON ST"
-    },
-    {
-      "Incident": "25-13736",
-      "Type": "PATROL CHECK",
-      "Date": "03/16/2025 2:47 PM",
-      "Address": "S FORD AVE / WEST AVE"
     }
   ]
 }
