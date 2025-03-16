@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T15:14:49.5429838-07:00",
+  "LastUpdated": "2025-03-16T15:15:23.4304171-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "PARKING PROBLEM",
       "Date": "03/16/2025 2:37 PM",
       "Address": "100 BLOCK N EUCLID ST"
-    },
-    {
-      "Incident": "25-13729",
-      "Type": "BATTERY",
-      "Date": "03/16/2025 2:15 PM",
-      "Address": "1300 BLOCK E CHAPMAN AVE"
     }
   ]
 }
