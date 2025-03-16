@@ -1,12 +1,18 @@
 {
-  "LastUpdated": "2025-03-16T16:38:55.1198848-07:00",
+  "LastUpdated": "2025-03-16T16:39:28.8160071-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
-    "Teri Pl": "SAFE"
+    "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13744",
+      "Type": "DISTURBANCE OF PEACE",
+      "Date": "03/16/2025 4:29 PM",
+      "Address": "MILTON AVE / TERI PL"
+    },
     {
       "Incident": "25-13743",
       "Type": "PARKING PROBLEM",
