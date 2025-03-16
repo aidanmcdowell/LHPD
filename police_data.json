@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T16:12:58.4072281-07:00",
+  "LastUpdated": "2025-03-16T16:13:32.2351393-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -12,12 +12,6 @@
       "Type": "CRIME SCENE INVESTIGATION",
       "Date": "03/16/2025 3:37 PM",
       "Address": "300 BLOCK N ACACIA AVE"
-    },
-    {
-      "Incident": "25-13739",
-      "Type": "TC HIT/RUN FELONY",
-      "Date": "03/16/2025 3:13 PM",
-      "Address": "1300 BLOCK S BROOKHURST RD"
     }
   ]
 }
