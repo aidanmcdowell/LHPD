@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T15:43:38.538342-07:00",
+  "LastUpdated": "2025-03-16T15:44:12.5706036-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "PATROL CHECK",
       "Date": "03/16/2025 2:47 PM",
       "Address": "S FORD AVE / WEST AVE"
-    },
-    {
-      "Incident": "25-13735",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "03/16/2025 2:44 PM",
-      "Address": "200 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
