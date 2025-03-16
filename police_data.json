@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T14:47:12.4552183-07:00",
+  "LastUpdated": "2025-03-16T14:47:46.2873983-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13734",
+      "Type": "PARKING PROBLEM",
+      "Date": "03/16/2025 2:37 PM",
+      "Address": "100 BLOCK N EUCLID ST"
+    },
     {
       "Incident": "25-13729",
       "Type": "BATTERY",
