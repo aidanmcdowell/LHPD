@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T14:00:25.4396341-07:00",
+  "LastUpdated": "2025-03-16T14:00:59.2525148-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13724",
+      "Type": "PED CHECK",
+      "Date": "03/16/2025 1:50 PM",
+      "Address": "1500 BLOCK DEERPARK DR"
+    },
     {
       "Incident": "25-13722",
       "Type": "ABANDONED VEHICLE",
