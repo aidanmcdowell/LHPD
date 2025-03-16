@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T13:49:38.4824288-07:00",
+  "LastUpdated": "2025-03-16T13:50:12.4903693-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "TC NO DETAIL",
       "Date": "03/16/2025 12:52 PM",
       "Address": "W ORANGETHORPE AVE / PECKHAM ST"
-    },
-    {
-      "Incident": "25-13717",
-      "Type": "ABANDONED VEHICLE",
-      "Date": "03/16/2025 12:50 PM",
-      "Address": "200 BLOCK S HARRINGTON DR"
     }
   ]
 }
