@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T14:49:27.7235688-07:00",
+  "LastUpdated": "2025-03-16T14:50:01.5321249-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "DEAD BODY",
       "Date": "03/16/2025 2:08 PM",
       "Address": "300 BLOCK N ACACIA AVE"
-    },
-    {
-      "Incident": "25-13724",
-      "Type": "PED CHECK",
-      "Date": "03/16/2025 1:50 PM",
-      "Address": "1500 BLOCK DEERPARK DR"
     }
   ]
 }
