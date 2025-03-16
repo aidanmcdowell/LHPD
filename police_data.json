@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T14:06:37.2653692-07:00",
+  "LastUpdated": "2025-03-16T14:07:11.0106333-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -12,12 +12,6 @@
       "Type": "PED CHECK",
       "Date": "03/16/2025 1:50 PM",
       "Address": "1500 BLOCK DEERPARK DR"
-    },
-    {
-      "Incident": "25-13722",
-      "Type": "ABANDONED VEHICLE",
-      "Date": "03/16/2025 1:07 PM",
-      "Address": "300 BLOCK N HARRINGTON DR"
     }
   ]
 }
