@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T15:36:52.5168471-07:00",
+  "LastUpdated": "2025-03-16T15:37:26.3164647-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
       "Date": "03/16/2025 2:44 PM",
       "Address": "200 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-13734",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/16/2025 2:37 PM",
-      "Address": "100 BLOCK N EUCLID ST"
     }
   ]
 }
