@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T15:23:19.0100356-07:00",
+  "LastUpdated": "2025-03-16T15:23:54.8411831-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13739",
+      "Type": "TC HIT/RUN FELONY",
+      "Date": "03/16/2025 3:13 PM",
+      "Address": "1300 BLOCK S BROOKHURST RD"
+    },
     {
       "Incident": "25-13738",
       "Type": "INDECENT EXPOSURE",
