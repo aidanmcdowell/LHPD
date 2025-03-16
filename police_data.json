@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T15:07:29.9193874-07:00",
+  "LastUpdated": "2025-03-16T15:08:03.6988189-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "DISTURBANCE FIGHT",
       "Date": "03/16/2025 2:13 PM",
       "Address": "ORANGEFAIR AVE / S LEMON ST"
-    },
-    {
-      "Incident": "25-13727",
-      "Type": "DEAD BODY",
-      "Date": "03/16/2025 2:08 PM",
-      "Address": "300 BLOCK N ACACIA AVE"
     }
   ]
 }
