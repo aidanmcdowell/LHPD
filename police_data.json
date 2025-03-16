@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T13:42:52.749885-07:00",
+  "LastUpdated": "2025-03-16T13:43:26.5228369-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "ABANDONED VEHICLE",
       "Date": "03/16/2025 12:50 PM",
       "Address": "200 BLOCK S HARRINGTON DR"
-    },
-    {
-      "Incident": "25-13716",
-      "Type": "WELFARE CHECK",
-      "Date": "03/16/2025 12:43 PM",
-      "Address": "2100 BLOCK W PORTER AVE"
     }
   ]
 }
