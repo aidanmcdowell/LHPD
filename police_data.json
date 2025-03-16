@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T14:00:59.2525148-07:00",
+  "LastUpdated": "2025-03-16T14:01:33.0905488-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "PARKING PROBLEM",
       "Date": "03/16/2025 1:02 PM",
       "Address": "ASSOCIATED RD / E BASTANCHURY RD"
-    },
-    {
-      "Incident": "25-13719",
-      "Type": "MISSING CHILD",
-      "Date": "03/16/2025 1:01 PM",
-      "Address": "900 BLOCK S HARBOR BLVD"
     }
   ]
 }
