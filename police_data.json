@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T16:06:46.1526619-07:00",
+  "LastUpdated": "2025-03-16T16:07:19.970916-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -18,12 +18,6 @@
       "Type": "TC HIT/RUN FELONY",
       "Date": "03/16/2025 3:13 PM",
       "Address": "1300 BLOCK S BROOKHURST RD"
-    },
-    {
-      "Incident": "25-13738",
-      "Type": "INDECENT EXPOSURE",
-      "Date": "03/16/2025 3:07 PM",
-      "Address": "W COMMONWEALTH AVE / N BASQUE AVE"
     }
   ]
 }
