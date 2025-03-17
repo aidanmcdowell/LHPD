@@ -1,10 +1,10 @@
 {
-  "LastUpdated": "2025-03-16T17:28:38.4758589-07:00",
+  "LastUpdated": "2025-03-16T17:29:12.267225-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
-    "Teri Pl": "NOT SAFE"
+    "Teri Pl": "SAFE"
   },
   "RecentCalls": [
     {
@@ -42,12 +42,6 @@
       "Type": "PED CHECK",
       "Date": "03/16/2025 4:35 PM",
       "Address": "100 BLOCK W TRUSLOW AVE"
-    },
-    {
-      "Incident": "25-13744",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "03/16/2025 4:29 PM",
-      "Address": "MILTON AVE / TERI PL"
     }
   ]
 }
