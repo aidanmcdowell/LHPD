@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T17:06:00.5993628-07:00",
+  "LastUpdated": "2025-03-16T17:06:34.3522129-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13748",
+      "Type": "TRAFFIC HAZARD",
+      "Date": "03/16/2025 4:56 PM",
+      "Address": "E NUTWOOD AVE / N STATE COLLEGE BLVD[N/OF"
+    },
     {
       "Incident": "25-13747",
       "Type": "SUSPICIOUS PERSON",
