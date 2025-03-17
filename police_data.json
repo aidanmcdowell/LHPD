@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-16T17:09:24.4172195-07:00",
+  "LastUpdated": "2025-03-16T17:09:58.9233291-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-13749",
+      "Type": "DRUNK DRIVER",
+      "Date": "03/16/2025 4:59 PM",
+      "Address": "N RICHMAN AVE / W CHAPMAN AVE"
+    },
     {
       "Incident": "25-13748",
       "Type": "TRAFFIC HAZARD",
