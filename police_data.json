@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-17T18:30:50.2901455-07:00",
+  "LastUpdated": "2025-03-17T18:31:25.2471854-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "FRAUD",
       "Date": "03/17/2025 5:35 PM",
       "Address": "200 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-13910",
-      "Type": "FOLLOW UP CASE",
-      "Date": "03/17/2025 5:31 PM",
-      "Address": "S ORCHARD AVE / W ORANGETHORPE AVE"
     }
   ]
 }
