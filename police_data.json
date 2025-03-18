@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-17T18:34:51.8693998-07:00",
+  "LastUpdated": "2025-03-17T18:35:25.9283955-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "PARKING PROBLEM",
       "Date": "03/17/2025 5:45 PM",
       "Address": "1300 BLOCK S GILBERT ST"
-    },
-    {
-      "Incident": "25-13912",
-      "Type": "FRAUD",
-      "Date": "03/17/2025 5:35 PM",
-      "Address": "200 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
