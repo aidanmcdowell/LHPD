@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T00:56:49.0828485-07:00",
+  "LastUpdated": "2025-03-19T00:57:23.1540519-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "03/19/2025 12:08 AM",
       "Address": "E ORANGETHORPE AVE / S LEMON ST"
-    },
-    {
-      "Incident": "25-14158",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "03/18/2025 11:57 PM",
-      "Address": "2300 BLOCK REVERE AVE"
     }
   ]
 }
