@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T00:37:34.8860223-07:00",
+  "LastUpdated": "2025-03-19T00:38:08.7623236-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14161",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "03/19/2025 12:28 AM",
+      "Address": "700 BLOCK S LEMON ST"
+    },
     {
       "Incident": "25-14162",
       "Type": "PATROL CHECK",
