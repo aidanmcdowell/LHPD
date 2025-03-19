@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T00:27:50.0290838-07:00",
+  "LastUpdated": "2025-03-19T00:28:25.4472766-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -18,12 +18,6 @@
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
       "Date": "03/18/2025 11:57 PM",
       "Address": "2300 BLOCK REVERE AVE"
-    },
-    {
-      "Incident": "25-14157",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/18/2025 11:28 PM",
-      "Address": "N HARBOR BLVD / W VALLEY VIEW DR"
     }
   ]
 }
