@@ -1,23 +1,10 @@
 {
-  "LastUpdated": "2025-03-19T00:17:45.032281-07:00",
+  "LastUpdated": "2025-03-19T00:18:25.8297929-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
     "Teri Pl": "SAFE"
   },
-  "RecentCalls": [
-    {
-      "Incident": "25-14158",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "03/18/2025 11:57 PM",
-      "Address": "2300 BLOCK REVERE AVE"
-    },
-    {
-      "Incident": "25-14157",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/18/2025 11:28 PM",
-      "Address": "N HARBOR BLVD / W VALLEY VIEW DR"
-    }
-  ]
+  "RecentCalls": []
 }
