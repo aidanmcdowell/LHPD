@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T02:40:55.3245936-07:00",
+  "LastUpdated": "2025-03-19T02:41:29.4920782-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -18,12 +18,6 @@
       "Type": "DISTURBANCE OF PEACE",
       "Date": "03/19/2025 1:53 AM",
       "Address": "1800 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-14169",
-      "Type": "ALARM BURGLARY",
-      "Date": "03/19/2025 1:41 AM",
-      "Address": "1400 BLOCK N HARBOR BLVD"
     }
   ]
 }
