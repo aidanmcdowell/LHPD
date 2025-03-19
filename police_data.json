@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T01:45:30.1903445-07:00",
+  "LastUpdated": "2025-03-19T01:46:04.0178585-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "03/19/2025 1:05 AM",
       "Address": "500 BLOCK N COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-14165",
-      "Type": "FOLLOW UP CASE",
-      "Date": "03/19/2025 12:46 AM",
-      "Address": "3100 BLOCK QUARTZ LANE"
     }
   ]
 }
