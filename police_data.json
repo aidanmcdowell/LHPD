@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T02:46:04.5967174-07:00",
+  "LastUpdated": "2025-03-19T09:57:14.5368454-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,16 +8,64 @@
   },
   "RecentCalls": [
     {
-      "Incident": "25-14170",
+      "Incident": "25-14204",
       "Type": "PED CHECK",
-      "Date": "03/19/2025 1:53 AM",
-      "Address": "S RAYMOND AVE / E ORANGETHORPE AVE"
+      "Date": "03/19/2025 9:46 AM",
+      "Address": "1600 BLOCK N PLACENTIA AVE"
     },
     {
-      "Incident": "25-14171",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "03/19/2025 1:53 AM",
-      "Address": "1800 BLOCK W COMMONWEALTH AVE"
+      "Incident": "25-14203",
+      "Type": "PARKING PROBLEM",
+      "Date": "03/19/2025 9:42 AM",
+      "Address": "2300 BLOCK E BROOKDALE PL"
+    },
+    {
+      "Incident": "25-14202",
+      "Type": "PARKING PROBLEM",
+      "Date": "03/19/2025 9:29 AM",
+      "Address": "2200 BLOCK N HARBOR BLVD"
+    },
+    {
+      "Incident": "25-14200",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/19/2025 9:26 AM",
+      "Address": "PLACENITA/BASTANCHURY"
+    },
+    {
+      "Incident": "25-14199",
+      "Type": "DEPARTMENT ASSIST",
+      "Date": "03/19/2025 9:19 AM",
+      "Address": "200 BLOCK W COMMONWEALTH AVE"
+    },
+    {
+      "Incident": "25-14198",
+      "Type": "PATROL CHECK",
+      "Date": "03/19/2025 9:14 AM",
+      "Address": "1000 BLOCK S EUCLID ST"
+    },
+    {
+      "Incident": "25-14197",
+      "Type": "PARKING PROBLEM",
+      "Date": "03/19/2025 9:08 AM",
+      "Address": "2000 BLOCK OXFORD AVE"
+    },
+    {
+      "Incident": "25-14196",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/19/2025 9:06 AM",
+      "Address": "1800 BLOCK W ORANGETHORPE AVE"
+    },
+    {
+      "Incident": "25-14195",
+      "Type": "FOLLOW UP CASE",
+      "Date": "03/19/2025 9:02 AM",
+      "Address": "200 BLOCK W COMMONWEALTH AVE"
+    },
+    {
+      "Incident": "25-14194",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/19/2025 9:02 AM",
+      "Address": "E COMMONWEALTH AVE / N LILLIE AVE"
     }
   ]
 }
