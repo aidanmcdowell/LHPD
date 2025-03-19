@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T01:07:38.5730999-07:00",
+  "LastUpdated": "2025-03-19T01:08:12.411363-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "SUSPICIOUS PERSON",
       "Date": "03/19/2025 12:20 AM",
       "Address": "1000 BLOCK STARBUCK ST"
-    },
-    {
-      "Incident": "25-14159",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/19/2025 12:08 AM",
-      "Address": "E ORANGETHORPE AVE / S LEMON ST"
     }
   ]
 }
