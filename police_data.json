@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T01:19:30.0446194-07:00",
+  "LastUpdated": "2025-03-19T01:20:03.9555946-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "PATROL CHECK",
       "Date": "03/19/2025 12:25 AM",
       "Address": "3000 BLOCK YORBA LINDA BLVD"
-    },
-    {
-      "Incident": "25-14160",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "03/19/2025 12:20 AM",
-      "Address": "1000 BLOCK STARBUCK ST"
     }
   ]
 }
