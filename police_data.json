@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T02:04:48.2918654-07:00",
+  "LastUpdated": "2025-03-19T02:05:22.1526492-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "03/19/2025 1:13 AM",
       "Address": "1800 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-14166",
-      "Type": "ALARM BURGLARY",
-      "Date": "03/19/2025 1:05 AM",
-      "Address": "500 BLOCK N COMMONWEALTH AVE"
     }
   ]
 }
