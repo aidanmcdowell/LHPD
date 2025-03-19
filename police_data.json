@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T00:55:41.2723857-07:00",
+  "LastUpdated": "2025-03-19T00:56:15.0748669-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14165",
+      "Type": "FOLLOW UP CASE",
+      "Date": "03/19/2025 12:46 AM",
+      "Address": "3100 BLOCK QUARTZ LANE"
+    },
     {
       "Incident": "25-14164",
       "Type": "TRAFFIC STOP",
