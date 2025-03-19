@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-17T18:38:52.6625126-07:00",
+  "LastUpdated": "2025-03-19T00:12:23.1946958-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,40 +8,16 @@
   },
   "RecentCalls": [
     {
-      "Incident": "25-13921",
-      "Type": "UNKNOWN TROUBLE",
-      "Date": "03/17/2025 6:25 PM",
-      "Address": "1000 BLOCK STARBUCK ST"
+      "Incident": "25-14158",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "03/18/2025 11:57 PM",
+      "Address": "2300 BLOCK REVERE AVE"
     },
     {
-      "Incident": "25-13918",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/17/2025 6:03 PM",
-      "Address": "3100 BLOCK TOPAZ LANE"
-    },
-    {
-      "Incident": "25-13916",
-      "Type": "PATROL CHECK",
-      "Date": "03/17/2025 6:00 PM",
-      "Address": "2500 BLOCK TARRYTOWN DR"
-    },
-    {
-      "Incident": "25-13917",
-      "Type": "SUSP CIRCS",
-      "Date": "03/17/2025 5:57 PM",
-      "Address": "300 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-13915",
-      "Type": "SUSP CIRCS",
-      "Date": "03/17/2025 5:47 PM",
-      "Address": "S EUCLID ST / W ASH AVE"
-    },
-    {
-      "Incident": "25-13913",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/17/2025 5:45 PM",
-      "Address": "1300 BLOCK S GILBERT ST"
+      "Incident": "25-14157",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/18/2025 11:28 PM",
+      "Address": "N HARBOR BLVD / W VALLEY VIEW DR"
     }
   ]
 }
