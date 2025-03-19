@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T01:24:35.5585343-07:00",
+  "LastUpdated": "2025-03-19T01:25:09.5934772-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
       "Date": "03/19/2025 12:28 AM",
       "Address": "700 BLOCK S LEMON ST"
-    },
-    {
-      "Incident": "25-14162",
-      "Type": "PATROL CHECK",
-      "Date": "03/19/2025 12:25 AM",
-      "Address": "3000 BLOCK YORBA LINDA BLVD"
     }
   ]
 }
