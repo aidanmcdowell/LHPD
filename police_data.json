@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T01:44:56.2290583-07:00",
+  "LastUpdated": "2025-03-19T01:45:30.1903445-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "FOLLOW UP CASE",
       "Date": "03/19/2025 12:46 AM",
       "Address": "3100 BLOCK QUARTZ LANE"
-    },
-    {
-      "Incident": "25-14164",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/19/2025 12:45 AM",
-      "Address": "S RAYMOND AVE / E ORANGETHORPE AVE"
     }
   ]
 }
