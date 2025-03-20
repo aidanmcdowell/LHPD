@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-20T10:04:09.9879532-07:00",
+  "LastUpdated": "2025-03-20T10:09:37.8293828-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14371",
+      "Type": "PARKING PROBLEM",
+      "Date": "03/20/2025 9:55 AM",
+      "Address": "600 BLOCK S LAWRENCE AVE"
+    },
     {
       "Incident": "25-14370",
       "Type": "PARKING PROBLEM",
@@ -30,12 +36,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "03/20/2025 9:32 AM",
       "Address": "S BROOKHURST RD / W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-14367",
-      "Type": "PATROL CHECK",
-      "Date": "03/20/2025 9:06 AM",
-      "Address": "2700 BLOCK LANTANA AVE"
     }
   ]
 }
