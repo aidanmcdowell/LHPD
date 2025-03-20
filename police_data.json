@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T18:05:56.1685626-07:00",
+  "LastUpdated": "2025-03-19T18:06:30.1757384-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14287",
+      "Type": "WELFARE CHECK",
+      "Date": "03/19/2025 5:56 PM",
+      "Address": "1400 BLOCK CAMEO LANE"
+    },
     {
       "Incident": "25-14286",
       "Type": "PARKING PROBLEM",
