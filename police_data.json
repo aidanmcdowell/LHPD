@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-20T09:44:48.2253661-07:00",
+  "LastUpdated": "2025-03-20T09:45:22.183588-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "WELFARE CHECK",
       "Date": "03/20/2025 8:47 AM",
       "Address": "1800 BLOCK W MALVERN AVE"
-    },
-    {
-      "Incident": "25-14362",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/20/2025 8:45 AM",
-      "Address": "S BROOKHURST RD / W ORANGETHORPE AVE"
     }
   ]
 }
