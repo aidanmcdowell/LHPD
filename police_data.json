@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-20T10:11:56.3580039-07:00",
+  "LastUpdated": "2025-03-20T10:12:30.5651801-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14374",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/20/2025 10:02 AM",
+      "Address": "S HIGHLAND AVE / W WALNUT AVE"
+    },
     {
       "Incident": "25-14373",
       "Type": "TRAFFIC STOP",
