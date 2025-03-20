@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-20T09:46:30.1285723-07:00",
+  "LastUpdated": "2025-03-20T09:47:04.5645204-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "PATROL CHECK",
       "Date": "03/20/2025 8:53 AM",
       "Address": "1800 BLOCK CATLIN ST"
-    },
-    {
-      "Incident": "25-14363",
-      "Type": "WELFARE CHECK",
-      "Date": "03/20/2025 8:47 AM",
-      "Address": "1800 BLOCK W MALVERN AVE"
     }
   ]
 }
