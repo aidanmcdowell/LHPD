@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-19T18:15:35.0079778-07:00",
+  "LastUpdated": "2025-03-20T09:41:20.5694162-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,52 +8,46 @@
   },
   "RecentCalls": [
     {
-      "Incident": "25-14291",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "03/19/2025 6:00 PM",
-      "Address": "3200 BLOCK YORBA LINDA BLVD"
-    },
-    {
-      "Incident": "25-14289",
+      "Incident": "25-14367",
       "Type": "PATROL CHECK",
-      "Date": "03/19/2025 6:00 PM",
-      "Address": "2500 BLOCK TARRYTOWN DR"
+      "Date": "03/20/2025 9:06 AM",
+      "Address": "2700 BLOCK LANTANA AVE"
     },
     {
-      "Incident": "25-14287",
+      "Incident": "25-14366",
+      "Type": "PATROL CHECK",
+      "Date": "03/20/2025 8:53 AM",
+      "Address": "1800 BLOCK CATLIN ST"
+    },
+    {
+      "Incident": "25-14363",
       "Type": "WELFARE CHECK",
-      "Date": "03/19/2025 5:56 PM",
-      "Address": "1400 BLOCK CAMEO LANE"
+      "Date": "03/20/2025 8:47 AM",
+      "Address": "1800 BLOCK W MALVERN AVE"
     },
     {
-      "Incident": "25-14286",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/19/2025 5:52 PM",
-      "Address": "1100 BLOCK W PORTER AVE"
-    },
-    {
-      "Incident": "25-14285",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/19/2025 5:31 PM",
-      "Address": "S HIGHLAND AVE / W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-14284",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/19/2025 5:25 PM",
-      "Address": "1600 BLOCK N PLACENTIA AVE"
-    },
-    {
-      "Incident": "25-14283",
-      "Type": "VANDALISM RPT",
-      "Date": "03/19/2025 5:23 PM",
-      "Address": "200 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-14282",
+      "Incident": "25-14362",
       "Type": "TRAFFIC STOP",
-      "Date": "03/19/2025 5:19 PM",
-      "Address": "N HARBOR BLVD / W BASTANCHURY RD"
+      "Date": "03/20/2025 8:45 AM",
+      "Address": "S BROOKHURST RD / W ORANGETHORPE AVE"
+    },
+    {
+      "Incident": "25-14361",
+      "Type": "PED CHECK",
+      "Date": "03/20/2025 8:44 AM",
+      "Address": "1800 BLOCK W ORANGETHORPE AVE"
+    },
+    {
+      "Incident": "25-14360",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/20/2025 8:44 AM",
+      "Address": "W VALENCIA MESA DR / SUNNY CREST DR"
+    },
+    {
+      "Incident": "25-14358",
+      "Type": "PATROL CHECK",
+      "Date": "03/20/2025 8:42 AM",
+      "Address": "1300 BLOCK W ELM AVE"
     }
   ]
 }
