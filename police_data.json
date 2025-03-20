@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-20T10:10:47.3542593-07:00",
+  "LastUpdated": "2025-03-20T10:11:21.9801188-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14373",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/20/2025 10:01 AM",
+      "Address": "ELIZABETH WAY / W CHAPMAN AVE"
+    },
     {
       "Incident": "25-14371",
       "Type": "PARKING PROBLEM",
