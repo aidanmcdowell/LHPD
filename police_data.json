@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-20T09:41:55.0515638-07:00",
+  "LastUpdated": "2025-03-20T09:42:29.4507513-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14368",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/20/2025 9:32 AM",
+      "Address": "S BROOKHURST RD / W ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-14367",
       "Type": "PATROL CHECK",
@@ -42,12 +48,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "03/20/2025 8:44 AM",
       "Address": "W VALENCIA MESA DR / SUNNY CREST DR"
-    },
-    {
-      "Incident": "25-14358",
-      "Type": "PATROL CHECK",
-      "Date": "03/20/2025 8:42 AM",
-      "Address": "1300 BLOCK W ELM AVE"
     }
   ]
 }
