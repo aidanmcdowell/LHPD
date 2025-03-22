@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:48:38.1921224-07:00",
+  "LastUpdated": "2025-03-21T20:49:12.2190442-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "SUICIDE ATTEMPT",
       "Date": "03/21/2025 7:53 PM",
       "Address": "1200 BLOCK E CHAPMAN AVE"
-    },
-    {
-      "Incident": "25-14618",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/21/2025 7:49 PM",
-      "Address": "1100 BLOCK S EUCLID ST"
     }
   ]
 }
