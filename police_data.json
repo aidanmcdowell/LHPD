@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:01:45.6572379-07:00",
+  "LastUpdated": "2025-03-21T20:02:19.4904757-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "03/21/2025 7:10 PM",
       "Address": "4100 BLOCK PALM ST"
-    },
-    {
-      "Incident": "25-14612",
-      "Type": "DRUNK DRIVER",
-      "Date": "03/21/2025 7:02 PM",
-      "Address": "W BASTANCHURY RD / N HARBOR BLVD"
     }
   ]
 }
