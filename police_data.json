@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T18:19:37.986298-07:00",
+  "LastUpdated": "2025-03-21T18:20:12.7990868-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "TC NON INJURY",
       "Date": "03/21/2025 5:35 PM",
       "Address": "W SOUTHGATE AVE / S EADINGTON AVE"
-    },
-    {
-      "Incident": "25-14598",
-      "Type": "AREA CHECK",
-      "Date": "03/21/2025 5:20 PM",
-      "Address": "2400 BLOCK SANTA YSABEL AVE"
     }
   ]
 }
