@@ -1,12 +1,18 @@
 {
-  "LastUpdated": "2025-03-21T19:51:36.082913-07:00",
+  "LastUpdated": "2025-03-21T19:52:09.9052453-07:00",
   "Streets": {
-    "Balfour Ave": "SAFE",
+    "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14617",
+      "Type": "DISTURBANCE PARTY",
+      "Date": "03/21/2025 7:41 PM",
+      "Address": "2500 BLOCK BALFOUR AVE"
+    },
     {
       "Incident": "25-14616",
       "Type": "PATROL CHECK",
