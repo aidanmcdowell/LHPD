@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T18:52:55.5032014-07:00",
+  "LastUpdated": "2025-03-21T18:53:29.2348902-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "SUICIDE ATTEMPT",
       "Date": "03/21/2025 5:57 PM",
       "Address": "2000 BLOCK OXFORD AVE"
-    },
-    {
-      "Incident": "25-14602",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "03/21/2025 5:53 PM",
-      "Address": "900 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
