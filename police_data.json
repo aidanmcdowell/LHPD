@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T19:19:26.9717438-07:00",
+  "LastUpdated": "2025-03-21T19:20:00.8992385-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14614",
+      "Type": "ALARM BURGLARY",
+      "Date": "03/21/2025 7:10 PM",
+      "Address": "4100 BLOCK PALM ST"
+    },
     {
       "Incident": "25-14612",
       "Type": "DRUNK DRIVER",
