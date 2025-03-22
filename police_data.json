@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T18:56:52.2986597-07:00",
+  "LastUpdated": "2025-03-21T18:57:26.1226073-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "PATROL CHECK",
       "Date": "03/21/2025 6:00 PM",
       "Address": "2500 BLOCK TARRYTOWN DR"
-    },
-    {
-      "Incident": "25-14603",
-      "Type": "SUICIDE ATTEMPT",
-      "Date": "03/21/2025 5:57 PM",
-      "Address": "2000 BLOCK OXFORD AVE"
     }
   ]
 }
