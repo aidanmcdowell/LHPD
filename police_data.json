@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:54:51.0995402-07:00",
+  "LastUpdated": "2025-03-21T20:55:24.9486681-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "WELFARE CHECK",
       "Date": "03/21/2025 8:01 PM",
       "Address": "900 BLOCK S HARBOR BLVD"
-    },
-    {
-      "Incident": "25-14620",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "03/21/2025 7:55 PM",
-      "Address": "1000 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
