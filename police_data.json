@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:05:42.3960564-07:00",
+  "LastUpdated": "2025-03-21T20:06:16.2796946-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14620",
+      "Type": "DISTURBANCE FAMILY",
+      "Date": "03/21/2025 7:55 PM",
+      "Address": "1000 BLOCK W COMMONWEALTH AVE"
+    },
     {
       "Incident": "25-14619",
       "Type": "SUICIDE ATTEMPT",
