@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T19:44:50.5373408-07:00",
+  "LastUpdated": "2025-03-21T19:45:24.3625573-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "WELFARE CHECK",
       "Date": "03/21/2025 6:57 PM",
       "Address": "3100 BLOCK LAUREL AVE"
-    },
-    {
-      "Incident": "25-14609",
-      "Type": "TC NO DETAIL",
-      "Date": "03/21/2025 6:45 PM",
-      "Address": "E CHAPMAN AVE / N LEMON ST"
     }
   ]
 }
