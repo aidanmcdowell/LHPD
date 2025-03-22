@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:37:21.2511925-07:00",
+  "LastUpdated": "2025-03-21T20:37:55.1020767-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14627",
+      "Type": "WELFARE CHECK",
+      "Date": "03/21/2025 8:25 PM",
+      "Address": "400 BLOCK S HIGHLAND AVE"
+    },
     {
       "Incident": "25-14625",
       "Type": "SUSPICIOUS PERSON",
