@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:52:35.3287661-07:00",
+  "LastUpdated": "2025-03-21T20:53:09.5432471-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "03/21/2025 7:55 PM",
       "Address": "1000 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-14619",
-      "Type": "SUICIDE ATTEMPT",
-      "Date": "03/21/2025 7:53 PM",
-      "Address": "1200 BLOCK E CHAPMAN AVE"
     }
   ]
 }
