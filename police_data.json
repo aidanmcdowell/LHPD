@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:31:43.2024812-07:00",
+  "LastUpdated": "2025-03-21T20:32:16.9804857-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -60,12 +60,6 @@
       "Type": "DISTURBANCE PARTY",
       "Date": "03/21/2025 7:41 PM",
       "Address": "2500 BLOCK BALFOUR AVE"
-    },
-    {
-      "Incident": "25-14616",
-      "Type": "PATROL CHECK",
-      "Date": "03/21/2025 7:32 PM",
-      "Address": "100 BLOCK N RAYMOND AVE"
     }
   ]
 }
