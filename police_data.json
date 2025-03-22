@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T19:58:56.7348893-07:00",
+  "LastUpdated": "2025-03-21T19:59:30.5397337-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14618",
+      "Type": "PARKING PROBLEM",
+      "Date": "03/21/2025 7:49 PM",
+      "Address": "1100 BLOCK S EUCLID ST"
+    },
     {
       "Incident": "25-14617",
       "Type": "DISTURBANCE PARTY",
