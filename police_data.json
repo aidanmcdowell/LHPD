@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:03:27.0783921-07:00",
+  "LastUpdated": "2025-03-21T20:04:00.982251-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14619",
+      "Type": "SUICIDE ATTEMPT",
+      "Date": "03/21/2025 7:53 PM",
+      "Address": "1200 BLOCK E CHAPMAN AVE"
+    },
     {
       "Incident": "25-14618",
       "Type": "PARKING PROBLEM",
