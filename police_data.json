@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T21:17:59.1324573-07:00",
+  "LastUpdated": "2025-03-21T21:18:33.2421719-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "SUSPICIOUS PERSON",
       "Date": "03/21/2025 8:20 PM",
       "Address": "100 BLOCK S POMONA AVE"
-    },
-    {
-      "Incident": "25-14626",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/21/2025 8:18 PM",
-      "Address": "1300 BLOCK S BROOKHURST RD"
     }
   ]
 }
