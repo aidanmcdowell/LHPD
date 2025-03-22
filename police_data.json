@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T18:34:52.2685229-07:00",
+  "LastUpdated": "2025-03-21T18:35:26.056147-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "PATROL CHECK",
       "Date": "03/21/2025 5:42 PM",
       "Address": "1800 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-14600",
-      "Type": "TC NON INJURY",
-      "Date": "03/21/2025 5:35 PM",
-      "Address": "W SOUTHGATE AVE / S EADINGTON AVE"
     }
   ]
 }
