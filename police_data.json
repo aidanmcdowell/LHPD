@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:30:01.7786572-07:00",
+  "LastUpdated": "2025-03-21T20:30:35.5992234-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14625",
+      "Type": "SUSPICIOUS PERSON",
+      "Date": "03/21/2025 8:20 PM",
+      "Address": "100 BLOCK S POMONA AVE"
+    },
     {
       "Incident": "25-14626",
       "Type": "TRANSIENT PROBLEM",
