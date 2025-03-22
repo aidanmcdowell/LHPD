@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:15:19.4849808-07:00",
+  "LastUpdated": "2025-03-21T20:15:53.2439003-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14622",
+      "Type": "WELFARE CHECK",
+      "Date": "03/21/2025 8:05 PM",
+      "Address": "400 BLOCK KING PL"
+    },
     {
       "Incident": "25-14621",
       "Type": "WELFARE CHECK",
