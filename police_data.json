@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-20T10:28:14.8014479-07:00",
+  "LastUpdated": "2025-03-21T17:58:10.4601153-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,70 +8,34 @@
   },
   "RecentCalls": [
     {
-      "Incident": "25-14378",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "03/20/2025 10:15 AM",
-      "Address": "200 BLOCK N ACACIA AVE"
+      "Incident": "25-14601",
+      "Type": "PATROL CHECK",
+      "Date": "03/21/2025 5:42 PM",
+      "Address": "1800 BLOCK W COMMONWEALTH AVE"
     },
     {
-      "Incident": "25-14377",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/20/2025 10:10 AM",
-      "Address": "EUCLID /VALENCIA"
+      "Incident": "25-14600",
+      "Type": "TC NON INJURY",
+      "Date": "03/21/2025 5:35 PM",
+      "Address": "W SOUTHGATE AVE / S EADINGTON AVE"
     },
     {
-      "Incident": "25-14376",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/20/2025 10:05 AM",
-      "Address": "3100 BLOCK TOPAZ LANE"
+      "Incident": "25-14598",
+      "Type": "AREA CHECK",
+      "Date": "03/21/2025 5:20 PM",
+      "Address": "2400 BLOCK SANTA YSABEL AVE"
     },
     {
-      "Incident": "25-14374",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/20/2025 10:02 AM",
-      "Address": "S HIGHLAND AVE / W WALNUT AVE"
+      "Incident": "25-14596",
+      "Type": "DISTURBANCE OF PEACE",
+      "Date": "03/21/2025 5:15 PM",
+      "Address": "1100 BLOCK W FERN DR"
     },
     {
-      "Incident": "25-14373",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/20/2025 10:01 AM",
-      "Address": "ELIZABETH WAY / W CHAPMAN AVE"
-    },
-    {
-      "Incident": "25-14375",
-      "Type": "ROBBERY RPT",
-      "Date": "03/20/2025 9:59 AM",
-      "Address": "400 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-14371",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/20/2025 9:55 AM",
-      "Address": "600 BLOCK S LAWRENCE AVE"
-    },
-    {
-      "Incident": "25-14370",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/20/2025 9:52 AM",
-      "Address": "2200 BLOCK KIMBERLY AVE"
-    },
-    {
-      "Incident": "25-14372",
-      "Type": "KEEP THE PEACE",
-      "Date": "03/20/2025 9:51 AM",
-      "Address": "800 BLOCK E WALNUT AVE"
-    },
-    {
-      "Incident": "25-14369",
-      "Type": "FOLLOW UP CASE",
-      "Date": "03/20/2025 9:45 AM",
-      "Address": "200 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-14368",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/20/2025 9:32 AM",
-      "Address": "S BROOKHURST RD / W ORANGETHORPE AVE"
+      "Incident": "25-14595",
+      "Type": "SUSPICIOUS PERSON",
+      "Date": "03/21/2025 5:10 PM",
+      "Address": "2300 BLOCK W ROBERTA AVE"
     }
   ]
 }
