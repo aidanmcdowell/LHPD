@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T18:14:33.7037086-07:00",
+  "LastUpdated": "2025-03-21T18:15:07.5380835-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "AREA CHECK",
       "Date": "03/21/2025 5:20 PM",
       "Address": "2400 BLOCK SANTA YSABEL AVE"
-    },
-    {
-      "Incident": "25-14596",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "03/21/2025 5:15 PM",
-      "Address": "1100 BLOCK W FERN DR"
     }
   ]
 }
