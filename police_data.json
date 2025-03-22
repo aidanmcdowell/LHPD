@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T20:21:33.6684084-07:00",
+  "LastUpdated": "2025-03-21T20:22:08.4526261-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14624",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/21/2025 8:11 PM",
+      "Address": "S HIGHLAND AVE / W ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-14622",
       "Type": "WELFARE CHECK",
