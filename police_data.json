@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T19:26:47.4357239-07:00",
+  "LastUpdated": "2025-03-21T19:27:21.2585316-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "SUSPICIOUS PERSON",
       "Date": "03/21/2025 6:32 PM",
       "Address": "1200 BLOCK N HARBOR BLVD"
-    },
-    {
-      "Incident": "25-14607",
-      "Type": "AREA CHECK",
-      "Date": "03/21/2025 6:27 PM",
-      "Address": "2400 BLOCK MIDDLESEX PL"
     }
   ]
 }
