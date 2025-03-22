@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T21:19:40.8484219-07:00",
+  "LastUpdated": "2025-03-21T21:20:14.7257081-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -18,12 +18,6 @@
       "Type": "WELFARE CHECK",
       "Date": "03/21/2025 8:25 PM",
       "Address": "400 BLOCK S HIGHLAND AVE"
-    },
-    {
-      "Incident": "25-14625",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "03/21/2025 8:20 PM",
-      "Address": "100 BLOCK S POMONA AVE"
     }
   ]
 }
