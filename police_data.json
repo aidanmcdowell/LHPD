@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-21T18:41:38.4355049-07:00",
+  "LastUpdated": "2025-03-21T18:42:12.25149-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "DISTURBANCE OF PEACE",
       "Date": "03/21/2025 5:53 PM",
       "Address": "900 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-14601",
-      "Type": "PATROL CHECK",
-      "Date": "03/21/2025 5:42 PM",
-      "Address": "1800 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
