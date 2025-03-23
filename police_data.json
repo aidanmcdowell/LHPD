@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-22T22:37:13.7408303-07:00",
+  "LastUpdated": "2025-03-22T22:37:47.6567323-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14807",
+      "Type": "TRAFFIC STOP",
+      "Date": "03/22/2025 10:27 PM",
+      "Address": "S EUCLID ST / W VALENCIA DR"
+    },
     {
       "Incident": "25-14805",
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
