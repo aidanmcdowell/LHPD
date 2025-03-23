@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-22T22:46:50.5618955-07:00",
+  "LastUpdated": "2025-03-22T22:47:24.4962571-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -9,7 +9,7 @@
   "RecentCalls": [
     {
       "Incident": "25-14809",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Type": "PATROL CHECK",
       "Date": "03/22/2025 10:35 PM",
       "Address": "N MOUNTAIN VIEW PL / E WHITING AVE"
     },
