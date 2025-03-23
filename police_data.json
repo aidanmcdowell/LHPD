@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-22T22:38:55.3367425-07:00",
+  "LastUpdated": "2025-03-22T22:39:29.1853691-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "03/22/2025 9:41 PM",
       "Address": "BREA BLVD / MARION BLVD"
-    },
-    {
-      "Incident": "25-14797",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/22/2025 9:39 PM",
-      "Address": "S BROOKHURST RD / W ORANGETHORPE AVE"
     }
   ]
 }
