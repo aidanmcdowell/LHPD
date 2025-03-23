@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-22T22:33:50.4085824-07:00",
+  "LastUpdated": "2025-03-22T22:34:24.2498454-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "03/22/2025 9:37 PM",
       "Address": "WEST AVE / S BROOKHURST RD"
-    },
-    {
-      "Incident": "25-14796",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "03/22/2025 9:34 PM",
-      "Address": "700 BLOCK N HARBOR BLVD"
     }
   ]
 }
