@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-22T22:34:58.0816188-07:00",
+  "LastUpdated": "2025-03-22T22:35:31.9468955-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14805",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "03/22/2025 10:25 PM",
+      "Address": "100 BLOCK W SANTA FE AVE"
+    },
     {
       "Incident": "25-14804",
       "Type": "DISTURBANCE FAMILY",
