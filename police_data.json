@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-22T22:40:38.0636461-07:00",
+  "LastUpdated": "2025-03-22T22:41:11.965512-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "FOLLOW UP CASE",
       "Date": "03/22/2025 9:46 PM",
       "Address": "1400 BLOCK CAMEO LANE"
-    },
-    {
-      "Incident": "25-14798",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/22/2025 9:41 PM",
-      "Address": "BREA BLVD / MARION BLVD"
     }
   ]
 }
