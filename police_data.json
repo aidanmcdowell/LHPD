@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-22T22:09:14.2843145-07:00",
+  "LastUpdated": "2025-03-22T22:13:36.6810356-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,18 +48,6 @@
       "Type": "PATROL CHECK",
       "Date": "03/22/2025 9:23 PM",
       "Address": "400 BLOCK OLIN ST"
-    },
-    {
-      "Incident": "25-14794",
-      "Type": "WELFARE CHECK",
-      "Date": "03/22/2025 9:12 PM",
-      "Address": "2100 BLOCK CALAVERA PL"
-    },
-    {
-      "Incident": "25-14792",
-      "Type": "PATROL CHECK",
-      "Date": "03/22/2025 9:11 PM",
-      "Address": "W BASTANCHURY RD / N EUCLID ST"
     }
   ]
 }
