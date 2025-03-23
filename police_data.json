@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-22T22:45:42.9369535-07:00",
+  "LastUpdated": "2025-03-22T22:46:16.711263-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14809",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "03/22/2025 10:35 PM",
+      "Address": "N MOUNTAIN VIEW PL / E WHITING AVE"
+    },
     {
       "Incident": "25-14808",
       "Type": "DISTURBANCE FAMILY",
@@ -48,12 +54,6 @@
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
       "Date": "03/22/2025 9:52 PM",
       "Address": "1500 BLOCK S BROOKHURST RD"
-    },
-    {
-      "Incident": "25-14799",
-      "Type": "FOLLOW UP CASE",
-      "Date": "03/22/2025 9:46 PM",
-      "Address": "1400 BLOCK CAMEO LANE"
     }
   ]
 }
