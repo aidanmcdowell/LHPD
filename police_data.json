@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-03-22T22:02:52.0550367-07:00",
+  "LastUpdated": "2025-03-22T22:03:57.9627536-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-14800",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "03/22/2025 9:52 PM",
+      "Address": "1500 BLOCK S BROOKHURST RD"
+    },
     {
       "Incident": "25-14799",
       "Type": "FOLLOW UP CASE",
