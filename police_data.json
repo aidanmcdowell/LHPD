@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-05T21:26:57.6507373-07:00",
+  "LastUpdated": "2025-04-05T21:27:31.612552-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "04/05/2025 8:31 PM",
       "Address": "500 BLOCK N STATE COLLEGE BLVD"
-    },
-    {
-      "Incident": "25-17164",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/05/2025 8:27 PM",
-      "Address": "S EUCLID ST / W VALENCIA DR"
     }
   ]
 }
