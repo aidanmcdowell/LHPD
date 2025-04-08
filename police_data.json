@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T23:10:01.5060891-07:00",
+  "LastUpdated": "2025-04-07T23:10:35.2257139-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,24 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-17534",
+      "Type": "PATROL CHECK",
+      "Date": "04/07/2025 11:00 PM",
+      "Address": "800 BLOCK W VALENCIA DR"
+    },
+    {
+      "Incident": "25-17532",
+      "Type": "PATROL CHECK",
+      "Date": "04/07/2025 11:00 PM",
+      "Address": "500 BLOCK W COMMONWEALTH AVE"
+    },
+    {
+      "Incident": "25-17533",
+      "Type": "PATROL CHECK",
+      "Date": "04/07/2025 11:00 PM",
+      "Address": "200 BLOCK W AMERIGE AVE"
+    },
     {
       "Incident": "25-17531",
       "Type": "AREA CHECK",
