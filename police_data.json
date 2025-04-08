@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T23:34:46.8739823-07:00",
+  "LastUpdated": "2025-04-07T23:35:20.586364-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-17538",
+      "Type": "DISTURBANCE OF PEACE",
+      "Date": "04/07/2025 11:25 PM",
+      "Address": "3000 BLOCK YORBA LINDA BLVD"
+    },
     {
       "Incident": "25-17537",
       "Type": "DISTURBANCE PARTY",
