@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T22:46:54.9336857-07:00",
+  "LastUpdated": "2025-04-07T22:47:28.6570301-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-17530",
+      "Type": "AREA CHECK",
+      "Date": "04/07/2025 10:36 PM",
+      "Address": "1200 BLOCK N HARBOR BLVD"
+    },
     {
       "Incident": "25-17528",
       "Type": "SUSP CIRCS",
