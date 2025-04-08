@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T23:16:47.0691848-07:00",
+  "LastUpdated": "2025-04-07T23:17:20.8104984-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "PED CHECK",
       "Date": "04/07/2025 10:18 PM",
       "Address": "N PRITCHARD AVE / W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-17526",
-      "Type": "FOLLOW UP CASE",
-      "Date": "04/07/2025 10:17 PM",
-      "Address": "2900 BLOCK E NUTWOOD AVE"
     }
   ]
 }
