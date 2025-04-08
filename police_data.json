@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T23:06:38.7719547-07:00",
+  "LastUpdated": "2025-04-07T23:07:12.5449217-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "04/07/2025 10:09 PM",
       "Address": "100 BLOCK E COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-17524",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "04/07/2025 10:07 PM",
-      "Address": "2500 BLOCK THREEWOODS LANE"
     }
   ]
 }
