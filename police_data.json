@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T22:54:47.1453676-07:00",
+  "LastUpdated": "2025-04-07T22:55:20.966899-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "04/07/2025 10:07 PM",
       "Address": "2500 BLOCK THREEWOODS LANE"
-    },
-    {
-      "Incident": "25-17521",
-      "Type": "THEFT PETTY RPT",
-      "Date": "04/07/2025 9:55 PM",
-      "Address": "3300 BLOCK YORBA LINDA BLVD"
     }
   ]
 }
