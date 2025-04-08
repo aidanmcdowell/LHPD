@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T23:08:53.9243619-07:00",
+  "LastUpdated": "2025-04-07T23:09:27.7392841-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "FOLLOW UP CASE",
       "Date": "04/07/2025 10:17 PM",
       "Address": "2900 BLOCK E NUTWOOD AVE"
-    },
-    {
-      "Incident": "25-17525",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "04/07/2025 10:09 PM",
-      "Address": "100 BLOCK E COMMONWEALTH AVE"
     }
   ]
 }
