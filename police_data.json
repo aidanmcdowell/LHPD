@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T23:17:54.5153484-07:00",
+  "LastUpdated": "2025-04-07T23:18:28.1702893-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-17536",
+      "Type": "DISTURBANCE OF PEACE",
+      "Date": "04/07/2025 11:07 PM",
+      "Address": "1500 BLOCK N HARBOR BLVD"
+    },
     {
       "Incident": "25-17534",
       "Type": "PATROL CHECK",
@@ -48,12 +54,6 @@
       "Type": "SUSP CIRCS",
       "Date": "04/07/2025 10:25 PM",
       "Address": "500 BLOCK N COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-17527",
-      "Type": "PED CHECK",
-      "Date": "04/07/2025 10:18 PM",
-      "Address": "N PRITCHARD AVE / W COMMONWEALTH AVE"
     }
   ]
 }
