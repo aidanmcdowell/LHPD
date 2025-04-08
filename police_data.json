@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T23:24:39.655807-07:00",
+  "LastUpdated": "2025-04-07T23:25:13.4037555-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "SUSP CIRCS",
       "Date": "04/07/2025 10:28 PM",
       "Address": "300 BLOCK N PLACENTIA AVE"
-    },
-    {
-      "Incident": "25-17529",
-      "Type": "SUSP CIRCS",
-      "Date": "04/07/2025 10:25 PM",
-      "Address": "500 BLOCK N COMMONWEALTH AVE"
     }
   ]
 }
