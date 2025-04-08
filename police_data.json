@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-07T23:38:42.9686148-07:00",
+  "LastUpdated": "2025-04-07T23:39:16.7095029-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-17539",
+      "Type": "TRAFFIC STOP",
+      "Date": "04/07/2025 11:29 PM",
+      "Address": "N HARBOR BLVD / N BERKELEY AVE"
+    },
     {
       "Incident": "25-17538",
       "Type": "DISTURBANCE OF PEACE",
