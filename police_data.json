@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-05T21:29:13.3570497-07:00",
+  "LastUpdated": "2025-04-07T22:46:20.5746726-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,34 +8,46 @@
   },
   "RecentCalls": [
     {
-      "Incident": "25-17171",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/05/2025 8:55 PM",
-      "Address": "E BASTANCHURY RD / BREA BLVD"
+      "Incident": "25-17528",
+      "Type": "SUSP CIRCS",
+      "Date": "04/07/2025 10:28 PM",
+      "Address": "300 BLOCK N PLACENTIA AVE"
     },
     {
-      "Incident": "25-17170",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/05/2025 8:50 PM",
-      "Address": "E BASTANCHURY RD / N STATE COLLEGE BLVD"
+      "Incident": "25-17529",
+      "Type": "SUSP CIRCS",
+      "Date": "04/07/2025 10:25 PM",
+      "Address": "500 BLOCK N COMMONWEALTH AVE"
     },
     {
-      "Incident": "25-17168",
-      "Type": "PARKING PROBLEM",
-      "Date": "04/05/2025 8:39 PM",
-      "Address": "1400 BLOCK CAMEO LANE"
+      "Incident": "25-17527",
+      "Type": "PED CHECK",
+      "Date": "04/07/2025 10:18 PM",
+      "Address": "N PRITCHARD AVE / W COMMONWEALTH AVE"
     },
     {
-      "Incident": "25-17167",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "04/05/2025 8:38 PM",
-      "Address": "S EUCLID ST / W VALENCIA DR"
+      "Incident": "25-17526",
+      "Type": "FOLLOW UP CASE",
+      "Date": "04/07/2025 10:17 PM",
+      "Address": "2900 BLOCK E NUTWOOD AVE"
     },
     {
-      "Incident": "25-17166",
-      "Type": "ALARM BURGLARY",
-      "Date": "04/05/2025 8:31 PM",
-      "Address": "500 BLOCK N STATE COLLEGE BLVD"
+      "Incident": "25-17525",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "04/07/2025 10:09 PM",
+      "Address": "100 BLOCK E COMMONWEALTH AVE"
+    },
+    {
+      "Incident": "25-17524",
+      "Type": "DISTURBANCE FAMILY",
+      "Date": "04/07/2025 10:07 PM",
+      "Address": "2500 BLOCK THREEWOODS LANE"
+    },
+    {
+      "Incident": "25-17521",
+      "Type": "THEFT PETTY RPT",
+      "Date": "04/07/2025 9:55 PM",
+      "Address": "3300 BLOCK YORBA LINDA BLVD"
     }
   ]
 }
