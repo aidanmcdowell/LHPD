@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-16T17:37:17.3502651-07:00",
+  "LastUpdated": "2025-04-16T17:37:51.3060261-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19249",
+      "Type": "TRAFFIC HAZARD",
+      "Date": "04/16/2025 5:26 PM",
+      "Address": "S BASQUE AVE / W VALENCIA DR"
+    },
     {
       "Incident": "25-19247",
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
