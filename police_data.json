@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-16T17:46:26.6274284-07:00",
+  "LastUpdated": "2025-04-16T17:47:00.5367256-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "PARKING PROBLEM",
       "Date": "04/16/2025 4:50 PM",
       "Address": "3100 BLOCK GARNET LANE"
-    },
-    {
-      "Incident": "25-19244",
-      "Type": "ALARM BURGLARY",
-      "Date": "04/16/2025 4:47 PM",
-      "Address": "2100 BLOCK BAYWOOD DR"
     }
   ]
 }
