@@ -1,53 +1,35 @@
 {
-  "LastUpdated": "2025-04-07T23:55:02.2445522-07:00",
+  "LastUpdated": "2025-04-16T17:36:08.5097041-07:00",
   "Streets": {
-    "Balfour Ave": "NOT SAFE",
+    "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
     {
-      "Incident": "25-17539",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/07/2025 11:29 PM",
-      "Address": "N HARBOR BLVD / N BERKELEY AVE"
+      "Incident": "25-19247",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "04/16/2025 5:11 PM",
+      "Address": "200 BLOCK E ROSSLYNN AVE"
     },
     {
-      "Incident": "25-17538",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "04/07/2025 11:25 PM",
-      "Address": "3000 BLOCK YORBA LINDA BLVD"
-    },
-    {
-      "Incident": "25-17537",
-      "Type": "DISTURBANCE PARTY",
-      "Date": "04/07/2025 11:17 PM",
-      "Address": "2500 BLOCK BALFOUR AVE"
-    },
-    {
-      "Incident": "25-17536",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "04/07/2025 11:07 PM",
-      "Address": "1500 BLOCK N HARBOR BLVD"
-    },
-    {
-      "Incident": "25-17534",
+      "Incident": "25-19246",
       "Type": "PATROL CHECK",
-      "Date": "04/07/2025 11:00 PM",
-      "Address": "800 BLOCK W VALENCIA DR"
+      "Date": "04/16/2025 5:00 PM",
+      "Address": "1500 BLOCK WINDSOR LANE"
     },
     {
-      "Incident": "25-17532",
-      "Type": "PATROL CHECK",
-      "Date": "04/07/2025 11:00 PM",
-      "Address": "500 BLOCK W COMMONWEALTH AVE"
+      "Incident": "25-19245",
+      "Type": "PARKING PROBLEM",
+      "Date": "04/16/2025 4:50 PM",
+      "Address": "3100 BLOCK GARNET LANE"
     },
     {
-      "Incident": "25-17533",
-      "Type": "PATROL CHECK",
-      "Date": "04/07/2025 11:00 PM",
-      "Address": "200 BLOCK W AMERIGE AVE"
+      "Incident": "25-19244",
+      "Type": "ALARM BURGLARY",
+      "Date": "04/16/2025 4:47 PM",
+      "Address": "2100 BLOCK BAYWOOD DR"
     }
   ]
 }
