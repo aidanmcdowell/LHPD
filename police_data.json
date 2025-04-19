@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:45:59.2534874-07:00",
+  "LastUpdated": "2025-04-19T13:46:32.9994775-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "WELFARE CHECK",
       "Date": "04/19/2025 12:48 PM",
       "Address": "400 BLOCK THUNDERBIRD CRT"
-    },
-    {
-      "Incident": "25-19696",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "04/19/2025 12:46 PM",
-      "Address": "300 BLOCK S EUCLID ST"
     }
   ]
 }
