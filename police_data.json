@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T12:33:55.3208066-07:00",
+  "LastUpdated": "2025-04-19T12:34:28.9772639-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19693",
+      "Type": "ALARM BURGLARY",
+      "Date": "04/19/2025 12:24 PM",
+      "Address": "2300 BLOCK E VALENCIA DR"
+    },
     {
       "Incident": "25-19692",
       "Type": "PED CHECK",
