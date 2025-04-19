@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T11:58:28.1387045-07:00",
+  "LastUpdated": "2025-04-19T11:59:01.9443292-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,24 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19689",
+      "Type": "PARKING PROBLEM",
+      "Date": "04/19/2025 11:48 AM",
+      "Address": "200 BLOCK PACIFIC DR"
+    },
+    {
+      "Incident": "25-19687",
+      "Type": "TRAFFIC STOP",
+      "Date": "04/19/2025 11:48 AM",
+      "Address": "N STATE COLLEGE BLVD / E NUTWOOD AVE"
+    },
+    {
+      "Incident": "25-19688",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "04/19/2025 11:48 AM",
+      "Address": "1100 BLOCK S HARBOR BLVD"
+    },
     {
       "Incident": "25-19686",
       "Type": "PED CHECK",
