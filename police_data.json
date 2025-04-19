@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T12:27:09.7334424-07:00",
+  "LastUpdated": "2025-04-19T12:27:43.4782077-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19691",
+      "Type": "ALARM BURGLARY",
+      "Date": "04/19/2025 12:17 PM",
+      "Address": "1700 BLOCK CELESTE LANE"
+    },
     {
       "Incident": "25-19690",
       "Type": "ALARM BURGLARY",
