@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T12:14:47.3758307-07:00",
+  "LastUpdated": "2025-04-19T12:15:21.129057-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "PED CHECK",
       "Date": "04/19/2025 11:32 AM",
       "Address": "N RAYMOND AVE / E COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-19681",
-      "Type": "TRAFFIC HAZARD",
-      "Date": "04/19/2025 11:15 AM",
-      "Address": "W COMMONWEALTH AVE / CITRUS AVE"
     }
   ]
 }
