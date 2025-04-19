@@ -1,12 +1,18 @@
 {
-  "LastUpdated": "2025-04-19T13:13:52.5304073-07:00",
+  "LastUpdated": "2025-04-19T13:14:26.2559628-07:00",
   "Streets": {
-    "Balfour Ave": "SAFE",
+    "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19700",
+      "Type": "DISTURBANCE MUSIC",
+      "Date": "04/19/2025 1:04 PM",
+      "Address": "2500 BLOCK BALFOUR AVE"
+    },
     {
       "Incident": "25-19699",
       "Type": "WELFARE CHECK",
