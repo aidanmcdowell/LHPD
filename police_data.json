@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:47:40.4593976-07:00",
+  "LastUpdated": "2025-04-19T13:48:14.1990688-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "AREA CHECK",
       "Date": "04/19/2025 12:51 PM",
       "Address": "W WALNUT AVE / S HIGHLAND AVE"
-    },
-    {
-      "Incident": "25-19697",
-      "Type": "WELFARE CHECK",
-      "Date": "04/19/2025 12:48 PM",
-      "Address": "400 BLOCK THUNDERBIRD CRT"
     }
   ]
 }
