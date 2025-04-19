@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T11:42:04.3864325-07:00",
+  "LastUpdated": "2025-04-19T11:42:38.162506-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19684",
+      "Type": "PED CHECK",
+      "Date": "04/19/2025 11:32 AM",
+      "Address": "N RAYMOND AVE / E COMMONWEALTH AVE"
+    },
     {
       "Incident": "25-19681",
       "Type": "TRAFFIC HAZARD",
