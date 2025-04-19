@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:27:24.1472277-07:00",
+  "LastUpdated": "2025-04-19T13:27:57.8880516-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19703",
+      "Type": "TRAFFIC HAZARD",
+      "Date": "04/19/2025 1:17 PM",
+      "Address": "1000 BLOCK W COMMONWEALTH AVE"
+    },
     {
       "Incident": "25-19702",
       "Type": "FOLLOW UP CASE",
