@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:02:03.3867861-07:00",
+  "LastUpdated": "2025-04-19T13:02:37.2288739-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19698",
+      "Type": "AREA CHECK",
+      "Date": "04/19/2025 12:51 PM",
+      "Address": "W WALNUT AVE / S HIGHLAND AVE"
+    },
     {
       "Incident": "25-19697",
       "Type": "WELFARE CHECK",
