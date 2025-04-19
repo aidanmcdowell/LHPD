@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:32:28.8016715-07:00",
+  "LastUpdated": "2025-04-19T13:33:02.5629627-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,18 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19705",
+      "Type": "DISTURBANCE JUVY",
+      "Date": "04/19/2025 1:21 PM",
+      "Address": "500 BLOCK SILVER PINE ST"
+    },
+    {
+      "Incident": "25-19706",
+      "Type": "TRESPASS",
+      "Date": "04/19/2025 1:21 PM",
+      "Address": "1100 BLOCK S RAYMOND AVE"
+    },
     {
       "Incident": "25-19703",
       "Type": "TRAFFIC HAZARD",
