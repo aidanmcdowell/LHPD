@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T15:11:34.12173-07:00",
+  "LastUpdated": "2025-04-19T15:12:07.8489008-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "04/19/2025 2:43 PM",
       "Address": "100 BLOCK S MAGNOLIA AVE"
-    },
-    {
-      "Incident": "25-19711",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "04/19/2025 2:12 PM",
-      "Address": "700 BLOCK S LEMON ST"
     }
   ]
 }
