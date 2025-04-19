@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T14:45:38.9006697-07:00",
+  "LastUpdated": "2025-04-19T14:46:12.7086487-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "BURGLARY RPT",
       "Date": "04/19/2025 1:57 PM",
       "Address": "100 BLOCK ORANGEFAIR MALL"
-    },
-    {
-      "Incident": "25-19707",
-      "Type": "TC W/INJURY",
-      "Date": "04/19/2025 1:46 PM",
-      "Address": "E VALENCIA DR / NEWKIRK AVE"
     }
   ]
 }
