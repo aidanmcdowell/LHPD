@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T12:31:40.1860964-07:00",
+  "LastUpdated": "2025-04-19T12:32:13.9472163-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "PED CHECK",
       "Date": "04/19/2025 11:38 AM",
       "Address": "2200 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-19684",
-      "Type": "PED CHECK",
-      "Date": "04/19/2025 11:32 AM",
-      "Address": "N RAYMOND AVE / E COMMONWEALTH AVE"
     }
   ]
 }
