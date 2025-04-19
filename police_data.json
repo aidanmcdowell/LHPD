@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T14:56:55.4873718-07:00",
+  "LastUpdated": "2025-04-19T14:57:29.2480529-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "04/19/2025 2:10 PM",
       "Address": "2000 BLOCK NORTHAM DR"
-    },
-    {
-      "Incident": "25-19709",
-      "Type": "BURGLARY RPT",
-      "Date": "04/19/2025 1:57 PM",
-      "Address": "100 BLOCK ORANGEFAIR MALL"
     }
   ]
 }
