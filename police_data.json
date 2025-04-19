@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T12:37:51.7687091-07:00",
+  "LastUpdated": "2025-04-19T12:38:25.5204254-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "04/19/2025 11:48 AM",
       "Address": "1100 BLOCK S HARBOR BLVD"
-    },
-    {
-      "Incident": "25-19686",
-      "Type": "PED CHECK",
-      "Date": "04/19/2025 11:38 AM",
-      "Address": "2200 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
