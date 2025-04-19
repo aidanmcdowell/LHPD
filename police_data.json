@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T12:56:25.6446557-07:00",
+  "LastUpdated": "2025-04-19T12:56:59.4374446-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19696",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "04/19/2025 12:46 PM",
+      "Address": "300 BLOCK S EUCLID ST"
+    },
     {
       "Incident": "25-19695",
       "Type": "THEFT GRAND RPT",
