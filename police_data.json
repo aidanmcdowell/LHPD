@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:29:39.1788981-07:00",
+  "LastUpdated": "2025-04-19T13:30:13.3253181-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "THEFT GRAND RPT",
       "Date": "04/19/2025 12:43 PM",
       "Address": "3200 BLOCK YORBA LINDA BLVD"
-    },
-    {
-      "Incident": "25-19694",
-      "Type": "PATROL CHECK",
-      "Date": "04/19/2025 12:30 PM",
-      "Address": "2900 BLOCK YORBA LINDA BLVD"
     }
   ]
 }
