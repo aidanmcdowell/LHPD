@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:19:30.077052-07:00",
+  "LastUpdated": "2025-04-19T13:20:03.7932703-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "04/19/2025 12:24 PM",
       "Address": "2300 BLOCK E VALENCIA DR"
-    },
-    {
-      "Incident": "25-19692",
-      "Type": "PED CHECK",
-      "Date": "04/19/2025 12:20 PM",
-      "Address": "2900 BLOCK YORBA LINDA BLVD"
     }
   ]
 }
