@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-16T17:47:00.5367256-07:00",
+  "LastUpdated": "2025-04-19T11:35:50.6012267-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,34 +8,16 @@
   },
   "RecentCalls": [
     {
-      "Incident": "25-19248",
-      "Type": "WELFARE CHECK",
-      "Date": "04/16/2025 5:29 PM",
-      "Address": "1200 BLOCK VALLE VISTA DR"
-    },
-    {
-      "Incident": "25-19249",
+      "Incident": "25-19681",
       "Type": "TRAFFIC HAZARD",
-      "Date": "04/16/2025 5:26 PM",
-      "Address": "S BASQUE AVE / W VALENCIA DR"
+      "Date": "04/19/2025 11:15 AM",
+      "Address": "W COMMONWEALTH AVE / CITRUS AVE"
     },
     {
-      "Incident": "25-19247",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "04/16/2025 5:11 PM",
-      "Address": "200 BLOCK E ROSSLYNN AVE"
-    },
-    {
-      "Incident": "25-19246",
-      "Type": "PATROL CHECK",
-      "Date": "04/16/2025 5:00 PM",
-      "Address": "1500 BLOCK WINDSOR LANE"
-    },
-    {
-      "Incident": "25-19245",
-      "Type": "PARKING PROBLEM",
-      "Date": "04/16/2025 4:50 PM",
-      "Address": "3100 BLOCK GARNET LANE"
+      "Incident": "25-19679",
+      "Type": "ALARM BURGLARY",
+      "Date": "04/19/2025 10:44 AM",
+      "Address": "800 BLOCK CIENAGA DR"
     }
   ]
 }
