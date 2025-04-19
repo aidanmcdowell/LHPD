@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T11:43:45.6661746-07:00",
+  "LastUpdated": "2025-04-19T11:44:19.4233633-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -18,12 +18,6 @@
       "Type": "TRAFFIC HAZARD",
       "Date": "04/19/2025 11:15 AM",
       "Address": "W COMMONWEALTH AVE / CITRUS AVE"
-    },
-    {
-      "Incident": "25-19679",
-      "Type": "ALARM BURGLARY",
-      "Date": "04/19/2025 10:44 AM",
-      "Address": "800 BLOCK CIENAGA DR"
     }
   ]
 }
