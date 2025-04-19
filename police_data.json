@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T14:13:33.8621193-07:00",
+  "LastUpdated": "2025-04-19T14:14:07.5741818-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "TRAFFIC HAZARD",
       "Date": "04/19/2025 1:17 PM",
       "Address": "1000 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-19702",
-      "Type": "FOLLOW UP CASE",
-      "Date": "04/19/2025 1:14 PM",
-      "Address": "1300 BLOCK W HOUSTON AVE"
     }
   ]
 }
