@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T15:07:03.7200007-07:00",
+  "LastUpdated": "2025-04-19T15:07:37.4429543-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -12,6 +12,12 @@
       "Type": "ALARM BURGLARY",
       "Date": "04/19/2025 2:55 PM",
       "Address": "500 BLOCK N GILBERT ST"
+    },
+    {
+      "Incident": "25-19715",
+      "Type": "WELFARE CHECK",
+      "Date": "04/19/2025 2:54 PM",
+      "Address": "2800 BLOCK CORONADO DR"
     },
     {
       "Incident": "25-19713",
