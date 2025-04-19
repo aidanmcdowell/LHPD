@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T15:01:59.3669469-07:00",
+  "LastUpdated": "2025-04-19T15:02:33.184139-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19713",
+      "Type": "PED CHECK",
+      "Date": "04/19/2025 2:52 PM",
+      "Address": "400 BLOCK E TRUSLOW AVE"
+    },
     {
       "Incident": "25-19712",
       "Type": "DISTURBANCE FAMILY",
