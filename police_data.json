@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T14:53:33.0746238-07:00",
+  "LastUpdated": "2025-04-19T14:54:06.8178689-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19712",
+      "Type": "DISTURBANCE FAMILY",
+      "Date": "04/19/2025 2:43 PM",
+      "Address": "100 BLOCK S MAGNOLIA AVE"
+    },
     {
       "Incident": "25-19711",
       "Type": "TRANSIENT PROBLEM",
