@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T12:07:28.6395143-07:00",
+  "LastUpdated": "2025-04-19T12:08:02.3549315-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19690",
+      "Type": "ALARM BURGLARY",
+      "Date": "04/19/2025 11:58 AM",
+      "Address": "1700 BLOCK E ROLLING HILLS DR"
+    },
     {
       "Incident": "25-19689",
       "Type": "PARKING PROBLEM",
