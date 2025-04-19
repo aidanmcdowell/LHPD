@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T12:47:59.2055565-07:00",
+  "LastUpdated": "2025-04-19T12:48:32.8512976-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,24 +36,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "04/19/2025 11:58 AM",
       "Address": "1700 BLOCK E ROLLING HILLS DR"
-    },
-    {
-      "Incident": "25-19689",
-      "Type": "PARKING PROBLEM",
-      "Date": "04/19/2025 11:48 AM",
-      "Address": "200 BLOCK PACIFIC DR"
-    },
-    {
-      "Incident": "25-19687",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/19/2025 11:48 AM",
-      "Address": "N STATE COLLEGE BLVD / E NUTWOOD AVE"
-    },
-    {
-      "Incident": "25-19688",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "04/19/2025 11:48 AM",
-      "Address": "1100 BLOCK S HARBOR BLVD"
     }
   ]
 }
