@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T14:16:56.3479163-07:00",
+  "LastUpdated": "2025-04-19T14:17:30.1089033-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "TRESPASS",
       "Date": "04/19/2025 1:21 PM",
       "Address": "1100 BLOCK S RAYMOND AVE"
-    },
-    {
-      "Incident": "25-19703",
-      "Type": "TRAFFIC HAZARD",
-      "Date": "04/19/2025 1:17 PM",
-      "Address": "1000 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
