@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:24:34.3897544-07:00",
+  "LastUpdated": "2025-04-19T13:25:08.1862351-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19702",
+      "Type": "FOLLOW UP CASE",
+      "Date": "04/19/2025 1:14 PM",
+      "Address": "1300 BLOCK W HOUSTON AVE"
+    },
     {
       "Incident": "25-19700",
       "Type": "DISTURBANCE MUSIC",
