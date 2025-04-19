@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:42:36.6300103-07:00",
+  "LastUpdated": "2025-04-19T13:43:10.4211011-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -60,12 +60,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "04/19/2025 12:46 PM",
       "Address": "300 BLOCK S EUCLID ST"
-    },
-    {
-      "Incident": "25-19695",
-      "Type": "THEFT GRAND RPT",
-      "Date": "04/19/2025 12:43 PM",
-      "Address": "3200 BLOCK YORBA LINDA BLVD"
     }
   ]
 }
