@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T14:04:33.4484752-07:00",
+  "LastUpdated": "2025-04-19T14:05:07.2075042-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19708",
+      "Type": "DISTURBANCE OF PEACE",
+      "Date": "04/19/2025 1:54 PM",
+      "Address": "1300 BLOCK E WILSHIRE AVE"
+    },
     {
       "Incident": "25-19707",
       "Type": "TC W/INJURY",
