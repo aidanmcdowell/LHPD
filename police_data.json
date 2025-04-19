@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T13:56:07.0937366-07:00",
+  "LastUpdated": "2025-04-19T13:56:40.7938686-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-19707",
+      "Type": "TC W/INJURY",
+      "Date": "04/19/2025 1:46 PM",
+      "Address": "E VALENCIA DR / NEWKIRK AVE"
+    },
     {
       "Incident": "25-19705",
       "Type": "DISTURBANCE JUVY",
