@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T22:35:55.5299118-07:00",
+  "LastUpdated": "2025-04-26T22:36:29.2555913-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "04/26/2025 9:48 PM",
       "Address": "200 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-21026",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/26/2025 9:36 PM",
-      "Address": "S HARBOR BLVD / W ORANGETHORPE AVE"
     }
   ]
 }
