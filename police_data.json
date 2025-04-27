@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T21:55:55.0542012-07:00",
+  "LastUpdated": "2025-04-26T21:56:28.7544042-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "DEPARTMENT ASSIST",
       "Date": "04/26/2025 9:13 PM",
       "Address": "100 BLOCK W WILSHIRE AVE"
-    },
-    {
-      "Incident": "25-21022",
-      "Type": "SUSP CIRCS",
-      "Date": "04/26/2025 8:56 PM",
-      "Address": "300 BLOCK W FERN DR"
     }
   ]
 }
