@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-27T00:31:57.4673095-07:00",
+  "LastUpdated": "2025-04-27T00:32:31.3596267-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21054",
+      "Type": "BAR CHECK",
+      "Date": "04/27/2025 12:22 AM",
+      "Address": "1400 BLOCK S LEMON ST"
+    },
     {
       "Incident": "25-21053",
       "Type": "PARKING PROBLEM",
