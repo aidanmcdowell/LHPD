@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T21:42:57.9098756-07:00",
+  "LastUpdated": "2025-04-26T21:43:31.6474339-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "04/26/2025 8:45 PM",
       "Address": "900 BLOCK VERONA DR"
-    },
-    {
-      "Incident": "25-21017",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "04/26/2025 8:43 PM",
-      "Address": "900 BLOCK S RAYMOND AVE"
     }
   ]
 }
