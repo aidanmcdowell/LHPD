@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-27T00:46:36.5022142-07:00",
+  "LastUpdated": "2025-04-27T00:47:10.3186236-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21058",
+      "Type": "TRAFFIC STOP",
+      "Date": "04/27/2025 12:36 AM",
+      "Address": "IRIS CRT / S GILBERT ST"
+    },
     {
       "Incident": "25-21057",
       "Type": "PATROL CHECK",
