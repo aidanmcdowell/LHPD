@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T21:16:57.0614589-07:00",
+  "LastUpdated": "2025-04-26T21:17:30.839396-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "04/26/2025 8:21 PM",
       "Address": "600 BLOCK S BROOKHURST RD"
-    },
-    {
-      "Incident": "25-21012",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "04/26/2025 8:17 PM",
-      "Address": "S LEMON ST / E ORANGETHORPE AVE"
     }
   ]
 }
