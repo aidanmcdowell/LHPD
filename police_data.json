@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T22:51:41.2795728-07:00",
+  "LastUpdated": "2025-04-26T22:52:15.0273133-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "BATTERY RPT",
       "Date": "04/26/2025 9:59 PM",
       "Address": "1100 BLOCK W PORTER AVE"
-    },
-    {
-      "Incident": "25-21029",
-      "Type": "ALARM BURGLARY",
-      "Date": "04/26/2025 9:52 PM",
-      "Address": "1400 BLOCK S HARBOR BLVD"
     }
   ]
 }
