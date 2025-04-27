@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T22:08:51.5965158-07:00",
+  "LastUpdated": "2025-04-26T22:09:25.5444461-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21031",
+      "Type": "BATTERY RPT",
+      "Date": "04/26/2025 9:59 PM",
+      "Address": "1100 BLOCK W PORTER AVE"
+    },
     {
       "Incident": "25-21029",
       "Type": "ALARM BURGLARY",
