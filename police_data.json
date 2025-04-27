@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T22:33:40.563435-07:00",
+  "LastUpdated": "2025-04-26T22:34:14.3133751-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "04/26/2025 9:36 PM",
       "Address": "S HARBOR BLVD / W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-21025",
-      "Type": "ABANDONED VEHICLE",
-      "Date": "04/26/2025 9:34 PM",
-      "Address": "1400 BLOCK LOMBARD DR"
     }
   ]
 }
