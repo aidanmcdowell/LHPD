@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T22:58:26.977372-07:00",
+  "LastUpdated": "2025-04-26T22:59:00.7373656-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "DISTURBANCE MUSIC",
       "Date": "04/26/2025 10:13 PM",
       "Address": "2000 BLOCK W JACARANDA PL"
-    },
-    {
-      "Incident": "25-21031",
-      "Type": "BATTERY RPT",
-      "Date": "04/26/2025 9:59 PM",
-      "Address": "1100 BLOCK W PORTER AVE"
     }
   ]
 }
