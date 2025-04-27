@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T22:29:44.2805586-07:00",
+  "LastUpdated": "2025-04-26T22:30:18.006587-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21033",
+      "Type": "TRAFFIC STOP",
+      "Date": "04/26/2025 10:20 PM",
+      "Address": "S RAYMOND AVE / 91 FWY"
+    },
     {
       "Incident": "25-21032",
       "Type": "DISTURBANCE MUSIC",
