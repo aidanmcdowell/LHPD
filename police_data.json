@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-19T15:21:13.8636868-07:00",
+  "LastUpdated": "2025-04-26T21:16:22.1337549-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,34 +8,52 @@
   },
   "RecentCalls": [
     {
-      "Incident": "25-19717",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/19/2025 3:00 PM",
-      "Address": "500 BLOCK S HARBOR BLVD"
+      "Incident": "25-21022",
+      "Type": "SUSP CIRCS",
+      "Date": "04/26/2025 8:56 PM",
+      "Address": "300 BLOCK W FERN DR"
     },
     {
-      "Incident": "25-19714",
+      "Incident": "25-21021",
+      "Type": "KEEP THE PEACE",
+      "Date": "04/26/2025 8:49 PM",
+      "Address": "2300 BLOCK E COMMONWEALTH AVE"
+    },
+    {
+      "Incident": "25-21019",
       "Type": "ALARM BURGLARY",
-      "Date": "04/19/2025 2:55 PM",
-      "Address": "500 BLOCK N GILBERT ST"
+      "Date": "04/26/2025 8:47 PM",
+      "Address": "2200 BLOCK CAMINO CENTROLOMA"
     },
     {
-      "Incident": "25-19715",
-      "Type": "WELFARE CHECK",
-      "Date": "04/19/2025 2:54 PM",
-      "Address": "2800 BLOCK CORONADO DR"
+      "Incident": "25-21018",
+      "Type": "ALARM BURGLARY",
+      "Date": "04/26/2025 8:45 PM",
+      "Address": "900 BLOCK VERONA DR"
     },
     {
-      "Incident": "25-19713",
-      "Type": "PED CHECK",
-      "Date": "04/19/2025 2:52 PM",
-      "Address": "400 BLOCK E TRUSLOW AVE"
+      "Incident": "25-21017",
+      "Type": "DISTURBANCE OF PEACE",
+      "Date": "04/26/2025 8:43 PM",
+      "Address": "900 BLOCK S RAYMOND AVE"
     },
     {
-      "Incident": "25-19712",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "04/19/2025 2:43 PM",
-      "Address": "100 BLOCK S MAGNOLIA AVE"
+      "Incident": "25-21016",
+      "Type": "TRAFFIC STOP",
+      "Date": "04/26/2025 8:30 PM",
+      "Address": "E DOROTHY LANE / N RAYMOND AVE"
+    },
+    {
+      "Incident": "25-21014",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "04/26/2025 8:21 PM",
+      "Address": "600 BLOCK S BROOKHURST RD"
+    },
+    {
+      "Incident": "25-21012",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "04/26/2025 8:17 PM",
+      "Address": "S LEMON ST / E ORANGETHORPE AVE"
     }
   ]
 }
