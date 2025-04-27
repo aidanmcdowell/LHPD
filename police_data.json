@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T22:48:52.4381881-07:00",
+  "LastUpdated": "2025-04-26T22:49:26.2198216-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "04/26/2025 9:52 PM",
       "Address": "1400 BLOCK S HARBOR BLVD"
-    },
-    {
-      "Incident": "25-21028",
-      "Type": "SHOTS HEARD",
-      "Date": "04/26/2025 9:49 PM",
-      "Address": "100 BLOCK N PRINCETON AVE"
     }
   ]
 }
