@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T21:44:05.4440058-07:00",
+  "LastUpdated": "2025-04-26T21:44:39.1763086-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21025",
+      "Type": "ABANDONED VEHICLE",
+      "Date": "04/26/2025 9:34 PM",
+      "Address": "1400 BLOCK LOMBARD DR"
+    },
     {
       "Incident": "25-21024",
       "Type": "DISTURBANCE MUSIC",
