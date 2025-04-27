@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T23:42:56.2067569-07:00",
+  "LastUpdated": "2025-04-26T23:43:29.9685017-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "BAR CHECK",
       "Date": "04/26/2025 10:45 PM",
       "Address": "100 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-21038",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/26/2025 10:43 PM",
-      "Address": "N LEMON ST / E WILSHIRE AVE"
     }
   ]
 }
