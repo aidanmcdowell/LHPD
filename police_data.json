@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T21:23:14.3899784-07:00",
+  "LastUpdated": "2025-04-26T21:23:48.0863355-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21023",
+      "Type": "DEPARTMENT ASSIST",
+      "Date": "04/26/2025 9:13 PM",
+      "Address": "100 BLOCK W WILSHIRE AVE"
+    },
     {
       "Incident": "25-21022",
       "Type": "SUSP CIRCS",
