@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-27T00:39:50.4432262-07:00",
+  "LastUpdated": "2025-04-27T00:40:24.9677118-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21056",
+      "Type": "PATROL CHECK",
+      "Date": "04/27/2025 12:30 AM",
+      "Address": "400 BLOCK E WILSHIRE AVE"
+    },
     {
       "Incident": "25-21055",
       "Type": "DISTURBANCE FIGHT",
@@ -54,18 +60,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "04/26/2025 11:44 PM",
       "Address": "S RAYMOND AVE / E ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-21046",
-      "Type": "SUSP CIRCS",
-      "Date": "04/26/2025 11:40 PM",
-      "Address": "900 BLOCK N PLACENTIA AVE"
-    },
-    {
-      "Incident": "25-21045",
-      "Type": "DISTURBANCE MUSIC",
-      "Date": "04/26/2025 11:40 PM",
-      "Address": "500 BLOCK W KNEPP AVE"
     }
   ]
 }
