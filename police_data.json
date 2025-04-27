@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-27T00:43:47.656798-07:00",
+  "LastUpdated": "2025-04-27T00:44:21.3493989-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "04/27/2025 12:08 AM",
       "Address": "700 BLOCK BURNING TREE RD"
-    },
-    {
-      "Incident": "25-21047",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/26/2025 11:44 PM",
-      "Address": "S RAYMOND AVE / E ORANGETHORPE AVE"
     }
   ]
 }
