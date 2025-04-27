@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T23:15:54.2826383-07:00",
+  "LastUpdated": "2025-04-26T23:16:28.0718978-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21042",
+      "Type": "LPR BROADCAST / AREA CHECK",
+      "Date": "04/26/2025 11:05 PM",
+      "Address": "S MAGNOLIA AVE / W ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-21041",
       "Type": "PATROL CHECK",
