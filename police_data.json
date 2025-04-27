@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T21:44:39.1763086-07:00",
+  "LastUpdated": "2025-04-26T21:45:13.2320079-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "04/26/2025 8:47 PM",
       "Address": "2200 BLOCK CAMINO CENTROLOMA"
-    },
-    {
-      "Incident": "25-21018",
-      "Type": "ALARM BURGLARY",
-      "Date": "04/26/2025 8:45 PM",
-      "Address": "900 BLOCK VERONA DR"
     }
   ]
 }
