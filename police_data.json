@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T21:20:59.0865513-07:00",
+  "LastUpdated": "2025-04-26T21:21:33.0053854-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "04/26/2025 8:30 PM",
       "Address": "E DOROTHY LANE / N RAYMOND AVE"
-    },
-    {
-      "Incident": "25-21014",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "04/26/2025 8:21 PM",
-      "Address": "600 BLOCK S BROOKHURST RD"
     }
   ]
 }
