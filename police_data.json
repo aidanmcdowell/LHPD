@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T23:34:29.2910307-07:00",
+  "LastUpdated": "2025-04-26T23:35:03.174752-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "04/26/2025 10:39 PM",
       "Address": "S EUCLID ST / W BAKER AVE"
-    },
-    {
-      "Incident": "25-21036",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/26/2025 10:35 PM",
-      "Address": "1600 BLOCK N LEMON ST[ANAHEIM SONIC"
     }
   ]
 }
