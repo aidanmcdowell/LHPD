@@ -1,12 +1,24 @@
 {
-  "LastUpdated": "2025-04-27T00:25:11.6112637-07:00",
+  "LastUpdated": "2025-04-27T00:25:45.3803223-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
-    "Riverside Dr": "SAFE",
+    "Riverside Dr": "NOT SAFE",
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21051",
+      "Type": "PATROL CHECK",
+      "Date": "04/27/2025 12:15 AM",
+      "Address": "2400 BLOCK W ASH AVE"
+    },
+    {
+      "Incident": "25-21052",
+      "Type": "PATROL CHECK",
+      "Date": "04/27/2025 12:15 AM",
+      "Address": "1200 BLOCK RIVERSIDE DR"
+    },
     {
       "Incident": "25-21050",
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
