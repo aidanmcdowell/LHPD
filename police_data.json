@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-27T00:19:33.917479-07:00",
+  "LastUpdated": "2025-04-27T00:20:07.6499287-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "DISTURBANCE MUSIC",
       "Date": "04/26/2025 11:40 PM",
       "Address": "500 BLOCK W KNEPP AVE"
-    },
-    {
-      "Incident": "25-21043",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "04/26/2025 11:20 PM",
-      "Address": "1800 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
