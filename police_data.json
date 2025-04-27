@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T21:29:59.6445931-07:00",
+  "LastUpdated": "2025-04-26T21:30:33.5920237-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "DISTURBANCE OF PEACE",
       "Date": "04/26/2025 8:43 PM",
       "Address": "900 BLOCK S RAYMOND AVE"
-    },
-    {
-      "Incident": "25-21016",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/26/2025 8:30 PM",
-      "Address": "E DOROTHY LANE / N RAYMOND AVE"
     }
   ]
 }
