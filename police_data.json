@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-27T00:21:48.8841647-07:00",
+  "LastUpdated": "2025-04-27T00:22:22.7271708-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21050",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "04/27/2025 12:11 AM",
+      "Address": "W MAXZIM AVE / S RICHMAN AVE"
+    },
     {
       "Incident": "25-21049",
       "Type": "ALARM BURGLARY",
