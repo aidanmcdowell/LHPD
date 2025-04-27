@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-27T00:17:52.5257854-07:00",
+  "LastUpdated": "2025-04-27T00:18:26.2377108-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21049",
+      "Type": "ALARM BURGLARY",
+      "Date": "04/27/2025 12:08 AM",
+      "Address": "700 BLOCK BURNING TREE RD"
+    },
     {
       "Incident": "25-21047",
       "Type": "TRAFFIC STOP",
