@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T23:44:37.4908026-07:00",
+  "LastUpdated": "2025-04-26T23:45:11.2990504-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "PATROL CHECK",
       "Date": "04/26/2025 11:00 PM",
       "Address": "200 BLOCK W AMERIGE AVE"
-    },
-    {
-      "Incident": "25-21039",
-      "Type": "BAR CHECK",
-      "Date": "04/26/2025 10:45 PM",
-      "Address": "100 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
