@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T21:46:54.8684283-07:00",
+  "LastUpdated": "2025-04-26T21:47:28.6458556-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21026",
+      "Type": "TRAFFIC STOP",
+      "Date": "04/26/2025 9:36 PM",
+      "Address": "S HARBOR BLVD / W ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-21025",
       "Type": "ABANDONED VEHICLE",
@@ -36,12 +42,6 @@
       "Type": "KEEP THE PEACE",
       "Date": "04/26/2025 8:49 PM",
       "Address": "2300 BLOCK E COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-21019",
-      "Type": "ALARM BURGLARY",
-      "Date": "04/26/2025 8:47 PM",
-      "Address": "2200 BLOCK CAMINO CENTROLOMA"
     }
   ]
 }
