@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-27T00:48:51.656374-07:00",
+  "LastUpdated": "2025-04-27T00:49:25.4135448-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21059",
+      "Type": "AREA CHECK",
+      "Date": "04/27/2025 12:39 AM",
+      "Address": "2000 BLOCK DEERPARK PL"
+    },
     {
       "Incident": "25-21058",
       "Type": "TRAFFIC STOP",
