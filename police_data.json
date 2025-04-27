@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T23:38:59.557724-07:00",
+  "LastUpdated": "2025-04-26T23:39:33.4253095-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "04/26/2025 10:43 PM",
       "Address": "N LEMON ST / E WILSHIRE AVE"
-    },
-    {
-      "Incident": "25-21037",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/26/2025 10:39 PM",
-      "Address": "S EUCLID ST / W BAKER AVE"
     }
   ]
 }
