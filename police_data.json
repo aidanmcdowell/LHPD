@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T22:53:22.4779627-07:00",
+  "LastUpdated": "2025-04-26T22:53:56.4452953-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-21038",
+      "Type": "TRAFFIC STOP",
+      "Date": "04/26/2025 10:43 PM",
+      "Address": "N LEMON ST / E WILSHIRE AVE"
+    },
     {
       "Incident": "25-21037",
       "Type": "TRAFFIC STOP",
