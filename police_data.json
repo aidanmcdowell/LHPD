@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-04-26T22:47:44.9699344-07:00",
+  "LastUpdated": "2025-04-26T22:48:18.714945-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "SHOTS HEARD",
       "Date": "04/26/2025 9:49 PM",
       "Address": "100 BLOCK N PRINCETON AVE"
-    },
-    {
-      "Incident": "25-21027",
-      "Type": "TRAFFIC STOP",
-      "Date": "04/26/2025 9:48 PM",
-      "Address": "200 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
