@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:19:43.3552686-07:00",
+  "LastUpdated": "2025-05-15T21:20:17.0366225-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "PATROL CHECK",
       "Date": "05/15/2025 8:24 PM",
       "Address": "400 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-24864",
-      "Type": "DISTURBANCE MUSIC",
-      "Date": "05/15/2025 8:20 PM",
-      "Address": "100 BLOCK N JANET PL"
     }
   ]
 }
