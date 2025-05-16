@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T22:47:29.3086811-07:00",
+  "LastUpdated": "2025-05-15T22:48:03.0981948-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24886",
+      "Type": "TC NON INJURY",
+      "Date": "05/15/2025 10:37 PM",
+      "Address": "2600 BLOCK ASSOCIATED RD"
+    },
     {
       "Incident": "25-24885",
       "Type": "THREATS CRIMINAL RPT",
