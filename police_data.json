@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T23:11:40.5360105-07:00",
+  "LastUpdated": "2025-05-15T23:12:14.2142679-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24891",
+      "Type": "TRAFFIC STOP",
+      "Date": "05/15/2025 11:01 PM",
+      "Address": "S GILBERT ST / IRIS CRT"
+    },
     {
       "Incident": "25-24890",
       "Type": "PATROL CHECK",
@@ -36,12 +42,6 @@
       "Type": "THREATS CRIMINAL RPT",
       "Date": "05/15/2025 10:25 PM",
       "Address": "2400 BLOCK E NUTWOOD AVE"
-    },
-    {
-      "Incident": "25-24884",
-      "Type": "DISTURBANCE MUSIC",
-      "Date": "05/15/2025 10:12 PM",
-      "Address": "1900 BLOCK DEERPARK PL"
     }
   ]
 }
