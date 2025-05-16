@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T22:34:30.8487338-07:00",
+  "LastUpdated": "2025-05-15T22:35:04.6123892-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "SUICIDE THREATS",
       "Date": "05/15/2025 9:46 PM",
       "Address": "1300 BLOCK N LINCOLN AVE"
-    },
-    {
-      "Incident": "25-24880",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "05/15/2025 9:35 PM",
-      "Address": "200 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
