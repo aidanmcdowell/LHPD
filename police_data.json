@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:57:23.8074475-07:00",
+  "LastUpdated": "2025-05-15T21:57:57.5048241-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24882",
+      "Type": "SUICIDE THREATS",
+      "Date": "05/15/2025 9:46 PM",
+      "Address": "1300 BLOCK N LINCOLN AVE"
+    },
     {
       "Incident": "25-24880",
       "Type": "TRANSIENT PROBLEM",
