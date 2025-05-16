@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T22:21:34.3601576-07:00",
+  "LastUpdated": "2025-05-15T22:22:08.1355558-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "WELFARE CHECK",
       "Date": "05/15/2025 9:24 PM",
       "Address": "2000 BLOCK N EUCLID ST"
-    },
-    {
-      "Incident": "25-24876",
-      "Type": "WELFARE CHECK",
-      "Date": "05/15/2025 9:22 PM",
-      "Address": "1300 BLOCK E CHAPMAN AVE"
     }
   ]
 }
