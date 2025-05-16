@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:07:21.6059307-07:00",
+  "LastUpdated": "2025-05-15T21:07:55.2699104-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24870",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "05/15/2025 8:57 PM",
+      "Address": "E NUTWOOD AVE / N ACACIA AVE"
+    },
     {
       "Incident": "25-24869",
       "Type": "ROBBERY RPT",
