@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:59:38.7960707-07:00",
+  "LastUpdated": "2025-05-15T22:00:12.5750474-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -60,18 +60,6 @@
       "Type": "TRAFFIC HAZARD",
       "Date": "05/15/2025 9:13 PM",
       "Address": "1800 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-24871",
-      "Type": "PATROL CHECK",
-      "Date": "05/15/2025 9:00 PM",
-      "Address": "PASEO DORADO / CAMINO LA VISTA LANE"
-    },
-    {
-      "Incident": "25-24872",
-      "Type": "PATROL CHECK",
-      "Date": "05/15/2025 9:00 PM",
-      "Address": "3000 BLOCK MADISON AVE"
     }
   ]
 }
