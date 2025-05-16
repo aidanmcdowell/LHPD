@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T22:50:18.228277-07:00",
+  "LastUpdated": "2025-05-15T22:50:51.9578278-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24887",
+      "Type": "TRAFFIC STOP BIKE",
+      "Date": "05/15/2025 10:40 PM",
+      "Address": "S PLACENTIA AVE / E ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-24886",
       "Type": "TC NON INJURY",
