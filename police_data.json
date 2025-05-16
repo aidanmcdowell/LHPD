@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:42:46.7885901-07:00",
+  "LastUpdated": "2025-05-15T21:43:20.5124424-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24879",
+      "Type": "TRAFFIC HAZARD",
+      "Date": "05/15/2025 9:33 PM",
+      "Address": "S BROOKHURST RD / W ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-24877",
       "Type": "DRUNK DRIVER",
