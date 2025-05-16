@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T22:01:53.6421841-07:00",
+  "LastUpdated": "2025-05-15T22:02:27.4819479-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24883",
+      "Type": "ALARM BURGLARY",
+      "Date": "05/15/2025 9:52 PM",
+      "Address": "200 BLOCK S BASQUE AVE"
+    },
     {
       "Incident": "25-24882",
       "Type": "SUICIDE THREATS",
