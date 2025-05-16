@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T22:51:59.4714939-07:00",
+  "LastUpdated": "2025-05-15T22:52:33.188484-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "DISTURBANCE MUSIC",
       "Date": "05/15/2025 10:12 PM",
       "Address": "1900 BLOCK DEERPARK PL"
-    },
-    {
-      "Incident": "25-24883",
-      "Type": "ALARM BURGLARY",
-      "Date": "05/15/2025 9:52 PM",
-      "Address": "200 BLOCK S BASQUE AVE"
     }
   ]
 }
