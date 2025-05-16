@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:25:20.4862671-07:00",
+  "LastUpdated": "2025-05-15T21:25:54.4627021-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24874",
+      "Type": "ALARM BURGLARY",
+      "Date": "05/15/2025 9:15 PM",
+      "Address": "1400 BLOCK W VALENCIA DR"
+    },
     {
       "Incident": "25-24873",
       "Type": "TRAFFIC HAZARD",
