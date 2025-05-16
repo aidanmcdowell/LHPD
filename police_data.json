@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:13:32.5938831-07:00",
+  "LastUpdated": "2025-05-15T21:14:06.2458149-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -60,12 +60,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "05/15/2025 8:18 PM",
       "Address": "1100 BLOCK E ELM AVE"
-    },
-    {
-      "Incident": "25-24862",
-      "Type": "MISSING ADULT",
-      "Date": "05/15/2025 8:14 PM",
-      "Address": "2200 BLOCK N HARBOR BLVD"
     }
   ]
 }
