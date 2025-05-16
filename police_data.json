@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T22:12:34.3171165-07:00",
+  "LastUpdated": "2025-05-15T22:13:08.1215043-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -60,12 +60,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "05/15/2025 9:15 PM",
       "Address": "1400 BLOCK W VALENCIA DR"
-    },
-    {
-      "Incident": "25-24873",
-      "Type": "TRAFFIC HAZARD",
-      "Date": "05/15/2025 9:13 PM",
-      "Address": "1800 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
