@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:09:36.2794947-07:00",
+  "LastUpdated": "2025-05-15T21:10:09.9260885-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,18 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24871",
+      "Type": "PATROL CHECK",
+      "Date": "05/15/2025 9:00 PM",
+      "Address": "PASEO DORADO / CAMINO LA VISTA LANE"
+    },
+    {
+      "Incident": "25-24872",
+      "Type": "PATROL CHECK",
+      "Date": "05/15/2025 9:00 PM",
+      "Address": "3000 BLOCK MADISON AVE"
+    },
     {
       "Incident": "25-24870",
       "Type": "TRANSIENT PROBLEM",
