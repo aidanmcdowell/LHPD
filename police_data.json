@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T22:23:49.4456103-07:00",
+  "LastUpdated": "2025-05-15T22:24:23.2365952-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "DRUNK DRIVER",
       "Date": "05/15/2025 9:26 PM",
       "Address": "E WILSHIRE AVE / N RAYMOND AVE"
-    },
-    {
-      "Incident": "25-24875",
-      "Type": "WELFARE CHECK",
-      "Date": "05/15/2025 9:24 PM",
-      "Address": "2000 BLOCK N EUCLID ST"
     }
   ]
 }
