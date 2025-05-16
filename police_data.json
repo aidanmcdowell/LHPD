@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T22:33:57.1238222-07:00",
+  "LastUpdated": "2025-05-15T22:34:30.8487338-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "05/15/2025 9:35 PM",
       "Address": "200 BLOCK W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-24881",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "05/15/2025 9:34 PM",
-      "Address": "2000 BLOCK E WHITING AVE"
     }
   ]
 }
