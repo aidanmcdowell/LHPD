@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:56:50.06778-07:00",
+  "LastUpdated": "2025-05-15T21:57:23.8074475-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -66,12 +66,6 @@
       "Type": "PATROL CHECK",
       "Date": "05/15/2025 9:00 PM",
       "Address": "3000 BLOCK MADISON AVE"
-    },
-    {
-      "Incident": "25-24870",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "05/15/2025 8:57 PM",
-      "Address": "E NUTWOOD AVE / N ACACIA AVE"
     }
   ]
 }
