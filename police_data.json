@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:43:54.188842-07:00",
+  "LastUpdated": "2025-05-15T21:44:27.9040481-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -60,12 +60,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "05/15/2025 8:57 PM",
       "Address": "E NUTWOOD AVE / N ACACIA AVE"
-    },
-    {
-      "Incident": "25-24869",
-      "Type": "ROBBERY RPT",
-      "Date": "05/15/2025 8:44 PM",
-      "Address": "1000 BLOCK W VALENCIA DR"
     }
   ]
 }
