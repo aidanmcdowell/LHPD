@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T21:23:39.3216745-07:00",
+  "LastUpdated": "2025-05-15T21:24:13.0746864-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-24873",
+      "Type": "TRAFFIC HAZARD",
+      "Date": "05/15/2025 9:13 PM",
+      "Address": "S BROOKHURST RD / W ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-24871",
       "Type": "PATROL CHECK",
@@ -42,12 +48,6 @@
       "Type": "TC NON INJURY",
       "Date": "05/15/2025 8:30 PM",
       "Address": "1800 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-24865",
-      "Type": "PATROL CHECK",
-      "Date": "05/15/2025 8:24 PM",
-      "Address": "400 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
