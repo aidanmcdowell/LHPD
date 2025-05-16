@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-05-15T23:12:14.2142679-07:00",
+  "LastUpdated": "2025-05-15T23:12:48.009223-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -14,16 +14,16 @@
       "Address": "S GILBERT ST / IRIS CRT"
     },
     {
-      "Incident": "25-24890",
-      "Type": "PATROL CHECK",
-      "Date": "05/15/2025 11:00 PM",
-      "Address": "2100 BLOCK W ORANGETHORPE AVE"
-    },
-    {
       "Incident": "25-24889",
       "Type": "PATROL CHECK",
       "Date": "05/15/2025 11:00 PM",
       "Address": "200 BLOCK W AMERIGE AVE"
+    },
+    {
+      "Incident": "25-24890",
+      "Type": "PATROL CHECK",
+      "Date": "05/15/2025 11:00 PM",
+      "Address": "2100 BLOCK W ORANGETHORPE AVE"
     },
     {
       "Incident": "25-24887",
