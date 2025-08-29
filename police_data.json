@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T10:49:36.8783004-07:00",
+  "LastUpdated": "2025-08-29T10:50:41.4077305-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44454",
+      "Type": "TRESPASS",
+      "Date": "08/29/2025 10:39 AM",
+      "Address": "2900 BLOCK MADISON AVE"
+    },
     {
       "Incident": "25-44453",
       "Type": "DEPARTMENT ASSIST",
