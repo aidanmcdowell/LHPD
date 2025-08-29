@@ -1,59 +1,53 @@
 {
-  "LastUpdated": "2025-03-22T22:22:05.6380874-07:00",
+  "LastUpdated": "2025-08-29T10:44:50.5189784-07:00",
   "Streets": {
-    "Balfour Ave": "NOT SAFE",
+    "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
     {
-      "Incident": "25-14802",
-      "Type": "DISTURBANCE MUSIC",
-      "Date": "03/22/2025 10:10 PM",
-      "Address": "2500 BLOCK BALFOUR AVE"
+      "Incident": "25-44453",
+      "Type": "DEPARTMENT ASSIST",
+      "Date": "08/29/2025 10:32 AM",
+      "Address": "200 BLOCK E CHAPMAN AVE"
     },
     {
-      "Incident": "25-14800",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "03/22/2025 9:52 PM",
-      "Address": "1500 BLOCK S BROOKHURST RD"
+      "Incident": "25-44451",
+      "Type": "BURGLARY RPT",
+      "Date": "08/29/2025 10:26 AM",
+      "Address": "2800 BLOCK MADISON AVE"
     },
     {
-      "Incident": "25-14799",
-      "Type": "FOLLOW UP CASE",
-      "Date": "03/22/2025 9:46 PM",
-      "Address": "1400 BLOCK CAMEO LANE"
+      "Incident": "25-44450",
+      "Type": "TRAFFIC HAZARD",
+      "Date": "08/29/2025 10:18 AM",
+      "Address": "W ORANGETHORPE AVE / S VINE AVE"
     },
     {
-      "Incident": "25-14798",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/22/2025 9:41 PM",
-      "Address": "BREA BLVD / MARION BLVD"
-    },
-    {
-      "Incident": "25-14797",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/22/2025 9:39 PM",
-      "Address": "S BROOKHURST RD / W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-14795",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/22/2025 9:37 PM",
-      "Address": "WEST AVE / S BROOKHURST RD"
-    },
-    {
-      "Incident": "25-14796",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "03/22/2025 9:34 PM",
-      "Address": "700 BLOCK N HARBOR BLVD"
-    },
-    {
-      "Incident": "25-14793",
+      "Incident": "25-44447",
       "Type": "PATROL CHECK",
-      "Date": "03/22/2025 9:23 PM",
-      "Address": "400 BLOCK OLIN ST"
+      "Date": "08/29/2025 10:16 AM",
+      "Address": "2100 BLOCK W ORANGETHORPE AVE"
+    },
+    {
+      "Incident": "25-44448",
+      "Type": "WELFARE CHECK",
+      "Date": "08/29/2025 10:14 AM",
+      "Address": "100 BLOCK E VALENCIA MESA DR"
+    },
+    {
+      "Incident": "25-44446",
+      "Type": "DEPARTMENT ASSIST",
+      "Date": "08/29/2025 10:13 AM",
+      "Address": "1200 BLOCK N BLUEGUM[ANAHEIM"
+    },
+    {
+      "Incident": "25-44449",
+      "Type": "ALARM BURGLARY",
+      "Date": "08/29/2025 10:13 AM",
+      "Address": "1700 BLOCK MIRAMAR DR"
     }
   ]
 }
