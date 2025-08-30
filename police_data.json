@@ -1,12 +1,18 @@
 {
-  "LastUpdated": "2025-08-29T22:21:39.4043808-07:00",
+  "LastUpdated": "2025-08-29T22:22:43.608913-07:00",
   "Streets": {
-    "Balfour Ave": "SAFE",
+    "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44558",
+      "Type": "DISTURBANCE PARTY",
+      "Date": "08/29/2025 10:12 PM",
+      "Address": "2600 BLOCK BALFOUR AVE"
+    },
     {
       "Incident": "25-44557",
       "Type": "SUSPICIOUS PERSON",
