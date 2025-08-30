@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T02:30:00.3415999-07:00",
+  "LastUpdated": "2025-08-30T02:31:04.8125915-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "08/30/2025 1:48 AM",
       "Address": "2500 BLOCK W CHERRY AVE"
-    },
-    {
-      "Incident": "25-44588",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "08/30/2025 1:31 AM",
-      "Address": "2000 BLOCK E WHITING AVE"
     }
   ]
 }
