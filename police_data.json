@@ -1,12 +1,18 @@
 {
-  "LastUpdated": "2025-08-30T03:17:06.5877496-07:00",
+  "LastUpdated": "2025-08-30T03:18:10.814318-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
-    "E Santa Fe Ave": "SAFE",
+    "E Santa Fe Ave": "NOT SAFE",
     "Riverside Dr": "SAFE",
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44599",
+      "Type": "DISTURBANCE OF PEACE",
+      "Date": "08/30/2025 3:06 AM",
+      "Address": "100 BLOCK E SANTA FE AVE"
+    },
     {
       "Incident": "25-44598",
       "Type": "SUSPICIOUS PERSON",
