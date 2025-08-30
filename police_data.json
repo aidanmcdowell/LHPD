@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T21:34:32.9838575-07:00",
+  "LastUpdated": "2025-08-29T21:35:37.4132861-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "08/29/2025 8:54 PM",
       "Address": "2100 BLOCK E WALNUT AVE"
-    },
-    {
-      "Incident": "25-44543",
-      "Type": "DEPARTMENT ASSIST",
-      "Date": "08/29/2025 8:35 PM",
-      "Address": "1600 BLOCK E ORANGETHORPE AVE"
     }
   ]
 }
