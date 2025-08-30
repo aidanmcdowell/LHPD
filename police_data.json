@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T02:26:46.1598749-07:00",
+  "LastUpdated": "2025-08-30T02:27:50.3354038-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "DISTURBANCE OF PEACE",
       "Date": "08/30/2025 1:31 AM",
       "Address": "2000 BLOCK E WHITING AVE"
-    },
-    {
-      "Incident": "25-44587",
-      "Type": "DISTURBANCE OF PEACE",
-      "Date": "08/30/2025 1:27 AM",
-      "Address": "1800 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
