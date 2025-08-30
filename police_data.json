@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:35:31.0528559-07:00",
+  "LastUpdated": "2025-08-29T23:36:35.3083586-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "PATROL CHECK",
       "Date": "08/29/2025 10:42 PM",
       "Address": "2500 BLOCK SAN CARLOS DR"
-    },
-    {
-      "Incident": "25-44562",
-      "Type": "VANDALISM RPT",
-      "Date": "08/29/2025 10:36 PM",
-      "Address": "1400 BLOCK BREA BLVD"
     }
   ]
 }
