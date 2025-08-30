@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T01:40:45.0252922-07:00",
+  "LastUpdated": "2025-08-30T01:41:49.3001985-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44588",
+      "Type": "DISTURBANCE OF PEACE",
+      "Date": "08/30/2025 1:31 AM",
+      "Address": "2000 BLOCK E WHITING AVE"
+    },
     {
       "Incident": "25-44587",
       "Type": "DISTURBANCE OF PEACE",
