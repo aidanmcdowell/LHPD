@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:50:31.0318252-07:00",
+  "LastUpdated": "2025-08-29T23:51:35.2902689-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44577",
+      "Type": "TRAFFIC STOP",
+      "Date": "08/29/2025 11:41 PM",
+      "Address": "S RAYMOND AVE / E VALENCIA DR"
+    },
     {
       "Incident": "25-44575",
       "Type": "TRAFFIC HAZARD",
