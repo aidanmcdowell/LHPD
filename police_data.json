@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T03:11:45.2810203-07:00",
+  "LastUpdated": "2025-08-30T03:12:49.5758423-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44598",
+      "Type": "SUSPICIOUS PERSON",
+      "Date": "08/30/2025 3:02 AM",
+      "Address": "700 BLOCK S HIGHLAND AVE"
+    },
     {
       "Incident": "25-44597",
       "Type": "PATROL CHECK",
@@ -24,18 +30,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "08/30/2025 2:21 AM",
       "Address": "2400 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-44593",
-      "Type": "PARKING PROBLEM",
-      "Date": "08/30/2025 2:12 AM",
-      "Address": "1400 BLOCK S GILBERT ST"
-    },
-    {
-      "Incident": "25-44594",
-      "Type": "ALARM BURGLARY",
-      "Date": "08/30/2025 2:12 AM",
-      "Address": "600 BLOCK E DOROTHY LANE"
     }
   ]
 }
