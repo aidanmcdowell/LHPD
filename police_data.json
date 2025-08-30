@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:46:13.3317728-07:00",
+  "LastUpdated": "2025-08-29T23:47:17.5396274-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "08/29/2025 10:53 PM",
       "Address": "2500 BLOCK SAN CARLOS DR"
-    },
-    {
-      "Incident": "25-44564",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "08/29/2025 10:47 PM",
-      "Address": "100 BLOCK W AMERIGE AVE"
     }
   ]
 }
