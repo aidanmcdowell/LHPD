@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T01:23:37.508155-07:00",
+  "LastUpdated": "2025-08-30T01:24:41.7144015-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "08/30/2025 12:30 AM",
       "Address": "2900 BLOCK E NUTWOOD AVE"
-    },
-    {
-      "Incident": "25-44582",
-      "Type": "UNKNOWN TROUBLE",
-      "Date": "08/30/2025 12:24 AM",
-      "Address": "2100 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
