@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T22:25:56.2929489-07:00",
+  "LastUpdated": "2025-08-29T22:27:00.5063401-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44559",
+      "Type": "TRAFFIC STOP BIKE",
+      "Date": "08/29/2025 10:16 PM",
+      "Address": "S ACACIA AVE / E ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-44558",
       "Type": "DISTURBANCE PARTY",
