@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T21:30:15.7158766-07:00",
+  "LastUpdated": "2025-08-29T21:31:19.9919697-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "08/29/2025 8:34 PM",
       "Address": "E CHAPMAN AVE / E COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-44541",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "08/29/2025 8:31 PM",
-      "Address": "400 BLOCK W WILSHIRE AVE"
     }
   ]
 }
