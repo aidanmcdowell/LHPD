@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T06:17:58.1157312-07:00",
+  "LastUpdated": "2025-08-30T06:19:02.3156269-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,16 +8,16 @@
   },
   "RecentCalls": [
     {
+      "Incident": "25-44609",
+      "Type": "CRIME SCENE INVESTIGATION",
+      "Date": "08/30/2025 6:08 AM",
+      "Address": "2100 BLOCK W COMMONWEALTH AVE"
+    },
+    {
       "Incident": "25-44608",
       "Type": "ALARM BURGLARY",
       "Date": "08/30/2025 5:24 AM",
       "Address": "1400 BLOCK E ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-44607",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "08/30/2025 5:19 AM",
-      "Address": "N PRINCETON AVE / E WILSHIRE AVE"
     }
   ]
 }
