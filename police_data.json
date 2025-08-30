@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T00:19:24.9198556-07:00",
+  "LastUpdated": "2025-08-30T00:20:29.1631866-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "LPR BROADCAST / AREA CHECK",
       "Date": "08/29/2025 11:22 PM",
       "Address": "91 FWY / N STATE COLLEGE BLVD"
-    },
-    {
-      "Incident": "25-44571",
-      "Type": "AREA CHECK",
-      "Date": "08/29/2025 11:20 PM",
-      "Address": "100 BLOCK W COMMONWEALTH AVE"
     }
   ]
 }
