@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T22:51:37.4839373-07:00",
+  "LastUpdated": "2025-08-29T22:52:41.6691793-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44563",
+      "Type": "PATROL CHECK",
+      "Date": "08/29/2025 10:42 PM",
+      "Address": "2500 BLOCK SAN CARLOS DR"
+    },
     {
       "Incident": "25-44562",
       "Type": "VANDALISM RPT",
