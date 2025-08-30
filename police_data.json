@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:47:17.5396274-07:00",
+  "LastUpdated": "2025-08-29T23:48:21.7393728-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44574",
+      "Type": "TRAFFIC STOP",
+      "Date": "08/29/2025 11:37 PM",
+      "Address": "N MALDEN AVE / W WILSHIRE AVE"
+    },
     {
       "Incident": "25-44572",
       "Type": "LPR BROADCAST / AREA CHECK",
