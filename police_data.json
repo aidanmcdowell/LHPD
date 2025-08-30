@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:48:21.7393728-07:00",
+  "LastUpdated": "2025-08-29T23:49:26.8293874-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44575",
+      "Type": "TRAFFIC HAZARD",
+      "Date": "08/29/2025 11:38 PM",
+      "Address": "N GILBERT ST / CASTLEWOOD DR"
+    },
     {
       "Incident": "25-44574",
       "Type": "TRAFFIC STOP",
