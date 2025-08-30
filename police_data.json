@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:22:41.0994485-07:00",
+  "LastUpdated": "2025-08-29T23:23:45.2769682-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "VANDALISM RPT",
       "Date": "08/29/2025 10:36 PM",
       "Address": "1400 BLOCK BREA BLVD"
-    },
-    {
-      "Incident": "25-44560",
-      "Type": "ALARM BURGLARY",
-      "Date": "08/29/2025 10:23 PM",
-      "Address": "4000 BLOCK PALM ST"
     }
   ]
 }
