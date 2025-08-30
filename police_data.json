@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T01:00:04.7955469-07:00",
+  "LastUpdated": "2025-08-30T01:01:08.9657112-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44585",
+      "Type": "PATROL CHECK",
+      "Date": "08/30/2025 12:50 AM",
+      "Address": "PEARL DR / CAMEO LANE"
+    },
     {
       "Incident": "25-44584",
       "Type": "CRIME SCENE INVESTIGATION",
