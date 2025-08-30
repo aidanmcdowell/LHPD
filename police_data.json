@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T22:14:09.9445681-07:00",
+  "LastUpdated": "2025-08-29T22:15:14.1301539-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44555",
+      "Type": "TRAFFIC STOP",
+      "Date": "08/29/2025 10:04 PM",
+      "Address": "E NUTWOOD AVE / N PLACENTIA AVE"
+    },
     {
       "Incident": "25-44556",
       "Type": "ALARM BURGLARY",
