@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:16:15.8294088-07:00",
+  "LastUpdated": "2025-08-29T23:17:20.0736285-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44569",
+      "Type": "LPR BROADCAST / AREA CHECK",
+      "Date": "08/29/2025 11:06 PM",
+      "Address": "E CHAPMAN AVE / 57 FWY"
+    },
     {
       "Incident": "25-44567",
       "Type": "CRIME SCENE INVESTIGATION",
