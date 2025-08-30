@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T21:22:45.3265242-07:00",
+  "LastUpdated": "2025-08-29T21:23:49.7549199-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "TRAFFIC STOP BIKE",
       "Date": "08/29/2025 8:25 PM",
       "Address": "N PLACENTIA AVE / YORBA LINDA BLVD"
-    },
-    {
-      "Incident": "25-44538",
-      "Type": "ASSAULT DEADLY WPN RPT",
-      "Date": "08/29/2025 8:23 PM",
-      "Address": "2000 BLOCK W JACARANDA PL"
     }
   ]
 }
