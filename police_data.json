@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:03:25.3457422-07:00",
+  "LastUpdated": "2025-08-29T23:04:29.428811-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,18 +54,6 @@
       "Type": "SUSPICIOUS PERSON",
       "Date": "08/29/2025 10:06 PM",
       "Address": "100 BLOCK W SANTA FE AVE"
-    },
-    {
-      "Incident": "25-44555",
-      "Type": "TRAFFIC STOP",
-      "Date": "08/29/2025 10:04 PM",
-      "Address": "E NUTWOOD AVE / N PLACENTIA AVE"
-    },
-    {
-      "Incident": "25-44556",
-      "Type": "ALARM BURGLARY",
-      "Date": "08/29/2025 10:04 PM",
-      "Address": "2300 BLOCK SUTTER WAY"
     }
   ]
 }
