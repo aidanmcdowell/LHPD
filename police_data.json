@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T22:24:52.079285-07:00",
+  "LastUpdated": "2025-08-29T22:25:56.2929489-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "08/29/2025 9:41 PM",
       "Address": "S EUCLID ST / W ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-44549",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "08/29/2025 9:25 PM",
-      "Address": "1800 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
