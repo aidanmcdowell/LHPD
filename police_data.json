@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T03:36:22.4828792-07:00",
+  "LastUpdated": "2025-08-30T03:37:26.6451388-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "NOT SAFE",
@@ -30,12 +30,6 @@
       "Type": "PATROL CHECK",
       "Date": "08/30/2025 3:00 AM",
       "Address": "2200 BLOCK N EUCLID ST"
-    },
-    {
-      "Incident": "25-44596",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "08/30/2025 2:37 AM",
-      "Address": "S HARBOR BLVD / W SANTA FE AVE"
     }
   ]
 }
