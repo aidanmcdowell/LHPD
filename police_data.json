@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T21:53:49.7791429-07:00",
+  "LastUpdated": "2025-08-29T21:54:54.0228645-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44551",
+      "Type": "SUSPICIOUS PERSON",
+      "Date": "08/29/2025 9:44 PM",
+      "Address": "1800 BLOCK N HALE AVE"
+    },
     {
       "Incident": "25-44550",
       "Type": "TRAFFIC STOP",
@@ -29,12 +35,6 @@
       "Incident": "25-44547",
       "Type": "PATROL CHECK",
       "Date": "08/29/2025 9:14 PM",
-      "Address": "2100 BLOCK E WALNUT AVE"
-    },
-    {
-      "Incident": "25-44545",
-      "Type": "ALARM BURGLARY",
-      "Date": "08/29/2025 8:54 PM",
       "Address": "2100 BLOCK E WALNUT AVE"
     }
   ]
