@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T04:55:33.2089544-07:00",
+  "LastUpdated": "2025-08-30T04:56:37.3873174-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44605",
+      "Type": "AREA CHECK",
+      "Date": "08/30/2025 4:45 AM",
+      "Address": "N EUCLID ST / W BASTANCHURY RD"
+    },
     {
       "Incident": "25-44604",
       "Type": "PATROL CHECK",
