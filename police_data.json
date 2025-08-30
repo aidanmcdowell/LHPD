@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T02:09:38.5882975-07:00",
+  "LastUpdated": "2025-08-30T02:10:42.8120269-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,18 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44592",
+      "Type": "PATROL CHECK",
+      "Date": "08/30/2025 2:00 AM",
+      "Address": "1700 BLOCK RAYMER AVE"
+    },
+    {
+      "Incident": "25-44591",
+      "Type": "PATROL CHECK",
+      "Date": "08/30/2025 2:00 AM",
+      "Address": "2300 BLOCK SUTTER WAY"
+    },
     {
       "Incident": "25-44589",
       "Type": "DISTURBANCE FAMILY",
