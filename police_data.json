@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T22:33:26.0935739-07:00",
+  "LastUpdated": "2025-08-29T22:34:30.2398495-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44560",
+      "Type": "ALARM BURGLARY",
+      "Date": "08/29/2025 10:23 PM",
+      "Address": "4000 BLOCK PALM ST"
+    },
     {
       "Incident": "25-44559",
       "Type": "TRAFFIC STOP BIKE",
