@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T21:24:54.0981946-07:00",
+  "LastUpdated": "2025-08-29T21:25:58.3583691-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "DISTURBANCE MUSIC",
       "Date": "08/29/2025 8:27 PM",
       "Address": "2400 BLOCK E COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-44537",
-      "Type": "TRAFFIC STOP BIKE",
-      "Date": "08/29/2025 8:25 PM",
-      "Address": "N PLACENTIA AVE / YORBA LINDA BLVD"
     }
   ]
 }
