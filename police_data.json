@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T21:19:31.668439-07:00",
+  "LastUpdated": "2025-08-29T21:20:36.3577811-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "ASSAULT DEADLY WPN RPT",
       "Date": "08/29/2025 8:23 PM",
       "Address": "2000 BLOCK W JACARANDA PL"
-    },
-    {
-      "Incident": "25-44536",
-      "Type": "WELFARE CHECK",
-      "Date": "08/29/2025 8:20 PM",
-      "Address": "E BASTANCHURY RD / N STATE COLLEGE BLVD"
     }
   ]
 }
