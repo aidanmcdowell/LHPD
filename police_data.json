@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T00:05:29.9621069-07:00",
+  "LastUpdated": "2025-08-30T00:06:34.2136514-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "AREA CHECK",
       "Date": "08/29/2025 11:20 PM",
       "Address": "100 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-44569",
-      "Type": "LPR BROADCAST / AREA CHECK",
-      "Date": "08/29/2025 11:06 PM",
-      "Address": "E CHAPMAN AVE / 57 FWY"
     }
   ]
 }
