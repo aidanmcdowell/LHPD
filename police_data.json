@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T02:59:58.7321055-07:00",
+  "LastUpdated": "2025-08-30T03:01:03.016697-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,18 +30,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "08/30/2025 2:12 AM",
       "Address": "600 BLOCK E DOROTHY LANE"
-    },
-    {
-      "Incident": "25-44592",
-      "Type": "PATROL CHECK",
-      "Date": "08/30/2025 2:00 AM",
-      "Address": "1700 BLOCK RAYMER AVE"
-    },
-    {
-      "Incident": "25-44591",
-      "Type": "PATROL CHECK",
-      "Date": "08/30/2025 2:00 AM",
-      "Address": "2300 BLOCK SUTTER WAY"
     }
   ]
 }
