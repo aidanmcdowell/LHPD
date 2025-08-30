@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:05:33.617195-07:00",
+  "LastUpdated": "2025-08-29T23:06:37.8747653-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "DISTURBANCE PARTY",
       "Date": "08/29/2025 10:12 PM",
       "Address": "2600 BLOCK BALFOUR AVE"
-    },
-    {
-      "Incident": "25-44557",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "08/29/2025 10:06 PM",
-      "Address": "100 BLOCK W SANTA FE AVE"
     }
   ]
 }
