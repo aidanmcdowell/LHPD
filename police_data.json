@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T21:23:49.7549199-07:00",
+  "LastUpdated": "2025-08-29T21:24:54.0981946-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44547",
+      "Type": "PATROL CHECK",
+      "Date": "08/29/2025 9:14 PM",
+      "Address": "2100 BLOCK E WALNUT AVE"
+    },
     {
       "Incident": "25-44545",
       "Type": "ALARM BURGLARY",
