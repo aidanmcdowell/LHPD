@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T00:00:09.0153954-07:00",
+  "LastUpdated": "2025-08-30T00:01:13.2209-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44578",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "08/29/2025 11:50 PM",
+      "Address": "4100 BLOCK W COMMONWEALTH AVE"
+    },
     {
       "Incident": "25-44577",
       "Type": "TRAFFIC STOP",
