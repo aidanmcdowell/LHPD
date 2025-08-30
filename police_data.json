@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T22:57:00.0768299-07:00",
+  "LastUpdated": "2025-08-29T22:58:04.3230778-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44564",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "08/29/2025 10:47 PM",
+      "Address": "100 BLOCK W AMERIGE AVE"
+    },
     {
       "Incident": "25-44563",
       "Type": "PATROL CHECK",
