@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:15:11.6128152-07:00",
+  "LastUpdated": "2025-08-29T23:16:15.8294088-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "08/29/2025 10:23 PM",
       "Address": "4000 BLOCK PALM ST"
-    },
-    {
-      "Incident": "25-44559",
-      "Type": "TRAFFIC STOP BIKE",
-      "Date": "08/29/2025 10:16 PM",
-      "Address": "S ACACIA AVE / E ORANGETHORPE AVE"
     }
   ]
 }
