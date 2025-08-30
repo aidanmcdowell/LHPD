@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T06:56:29.4468214-07:00",
+  "LastUpdated": "2025-08-30T06:57:33.7134759-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44610",
+      "Type": "ALARM BURGLARY",
+      "Date": "08/30/2025 6:46 AM",
+      "Address": "100 BLOCK N EUCLID ST"
+    },
     {
       "Incident": "25-44609",
       "Type": "CRIME SCENE INVESTIGATION",
