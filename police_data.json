@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T21:54:54.0228645-07:00",
+  "LastUpdated": "2025-08-29T21:55:58.302003-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44552",
+      "Type": "TC NON INJURY",
+      "Date": "08/29/2025 9:45 PM",
+      "Address": "2000 BLOCK W COMMONWEALTH AVE"
+    },
     {
       "Incident": "25-44551",
       "Type": "SUSPICIOUS PERSON",
