@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T03:59:54.3106389-07:00",
+  "LastUpdated": "2025-08-30T04:00:58.5490135-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "NOT SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44601",
+      "Type": "ALARM BURGLARY",
+      "Date": "08/30/2025 3:50 AM",
+      "Address": "1600 BLOCK E ORANGETHORPE AVE"
+    },
     {
       "Incident": "25-44600",
       "Type": "AREA CHECK",
@@ -24,12 +30,6 @@
       "Type": "SUSPICIOUS PERSON",
       "Date": "08/30/2025 3:02 AM",
       "Address": "700 BLOCK S HIGHLAND AVE"
-    },
-    {
-      "Incident": "25-44597",
-      "Type": "PATROL CHECK",
-      "Date": "08/30/2025 3:00 AM",
-      "Address": "2200 BLOCK N EUCLID ST"
     }
   ]
 }
