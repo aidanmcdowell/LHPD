@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:32:18.5118659-07:00",
+  "LastUpdated": "2025-08-29T23:33:22.671772-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44572",
+      "Type": "LPR BROADCAST / AREA CHECK",
+      "Date": "08/29/2025 11:22 PM",
+      "Address": "91 FWY / N STATE COLLEGE BLVD"
+    },
     {
       "Incident": "25-44571",
       "Type": "AREA CHECK",
