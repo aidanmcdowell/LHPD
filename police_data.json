@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T00:03:21.6076122-07:00",
+  "LastUpdated": "2025-08-30T00:04:25.8214015-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "LPR BROADCAST / AREA CHECK",
       "Date": "08/29/2025 11:06 PM",
       "Address": "E CHAPMAN AVE / 57 FWY"
-    },
-    {
-      "Incident": "25-44567",
-      "Type": "CRIME SCENE INVESTIGATION",
-      "Date": "08/29/2025 11:04 PM",
-      "Address": "5600 BLOCK N LINCOLN AVE[SUPER 8 MOTEL CYPRESS"
     }
   ]
 }
