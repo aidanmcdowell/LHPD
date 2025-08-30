@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T22:47:20.6592613-07:00",
+  "LastUpdated": "2025-08-29T22:48:24.8552014-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44562",
+      "Type": "VANDALISM RPT",
+      "Date": "08/29/2025 10:36 PM",
+      "Address": "1400 BLOCK BREA BLVD"
+    },
     {
       "Incident": "25-44560",
       "Type": "ALARM BURGLARY",
