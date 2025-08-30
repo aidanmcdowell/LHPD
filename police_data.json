@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T21:25:58.3583691-07:00",
+  "LastUpdated": "2025-08-29T21:27:02.6811416-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
       "Date": "08/29/2025 8:31 PM",
       "Address": "400 BLOCK W WILSHIRE AVE"
-    },
-    {
-      "Incident": "25-44540",
-      "Type": "DISTURBANCE MUSIC",
-      "Date": "08/29/2025 8:27 PM",
-      "Address": "2400 BLOCK E COMMONWEALTH AVE"
     }
   ]
 }
