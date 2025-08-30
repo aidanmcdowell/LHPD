@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T20:59:03.288336-07:00",
+  "LastUpdated": "2025-08-29T21:00:07.9078886-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,18 +48,6 @@
       "Type": "WELFARE CHECK",
       "Date": "08/29/2025 8:20 PM",
       "Address": "E BASTANCHURY RD / N STATE COLLEGE BLVD"
-    },
-    {
-      "Incident": "25-44535",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "08/29/2025 8:00 PM",
-      "Address": "1000 BLOCK S LEMON ST"
-    },
-    {
-      "Incident": "25-44533",
-      "Type": "PATROL CHECK",
-      "Date": "08/29/2025 8:00 PM",
-      "Address": "1300 BLOCK KROEGER AVE"
     }
   ]
 }
