@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T00:37:36.4734574-07:00",
+  "LastUpdated": "2025-08-30T00:38:40.6821274-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -42,12 +42,6 @@
       "Type": "TRAFFIC STOP",
       "Date": "08/29/2025 11:41 PM",
       "Address": "S RAYMOND AVE / E VALENCIA DR"
-    },
-    {
-      "Incident": "25-44575",
-      "Type": "TRAFFIC HAZARD",
-      "Date": "08/29/2025 11:38 PM",
-      "Address": "N GILBERT ST / CASTLEWOOD DR"
     }
   ]
 }
