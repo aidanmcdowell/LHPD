@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T00:36:32.2178485-07:00",
+  "LastUpdated": "2025-08-30T00:37:36.4734574-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TRAFFIC HAZARD",
       "Date": "08/29/2025 11:38 PM",
       "Address": "N GILBERT ST / CASTLEWOOD DR"
-    },
-    {
-      "Incident": "25-44574",
-      "Type": "TRAFFIC STOP",
-      "Date": "08/29/2025 11:37 PM",
-      "Address": "N MALDEN AVE / W WILSHIRE AVE"
     }
   ]
 }
