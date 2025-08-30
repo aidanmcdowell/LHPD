@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T00:40:49.123064-07:00",
+  "LastUpdated": "2025-08-30T00:41:53.2599881-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44583",
+      "Type": "DISTURBANCE FAMILY",
+      "Date": "08/30/2025 12:30 AM",
+      "Address": "2900 BLOCK E NUTWOOD AVE"
+    },
     {
       "Incident": "25-44582",
       "Type": "UNKNOWN TROUBLE",
@@ -36,12 +42,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "08/29/2025 11:50 PM",
       "Address": "4100 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-44577",
-      "Type": "TRAFFIC STOP",
-      "Date": "08/29/2025 11:41 PM",
-      "Address": "S RAYMOND AVE / E VALENCIA DR"
     }
   ]
 }
