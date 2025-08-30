@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T02:22:29.3372009-07:00",
+  "LastUpdated": "2025-08-30T02:23:33.6113291-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44593",
+      "Type": "PARKING PROBLEM",
+      "Date": "08/30/2025 2:12 AM",
+      "Address": "1400 BLOCK S GILBERT ST"
+    },
     {
       "Incident": "25-44594",
       "Type": "ALARM BURGLARY",
