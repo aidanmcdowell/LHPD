@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T02:47:08.1594543-07:00",
+  "LastUpdated": "2025-08-30T02:48:12.3923228-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44596",
+      "Type": "DISTURBANCE FAMILY",
+      "Date": "08/30/2025 2:37 AM",
+      "Address": "S HARBOR BLVD / W SANTA FE AVE"
+    },
     {
       "Incident": "25-44595",
       "Type": "ALARM BURGLARY",
@@ -36,12 +42,6 @@
       "Type": "PATROL CHECK",
       "Date": "08/30/2025 2:00 AM",
       "Address": "2300 BLOCK SUTTER WAY"
-    },
-    {
-      "Incident": "25-44589",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "08/30/2025 1:48 AM",
-      "Address": "2500 BLOCK W CHERRY AVE"
     }
   ]
 }
