@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T22:43:03.9113922-07:00",
+  "LastUpdated": "2025-08-29T22:44:08.0400772-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "TC NON INJURY",
       "Date": "08/29/2025 9:45 PM",
       "Address": "2000 BLOCK W COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-44551",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "08/29/2025 9:44 PM",
-      "Address": "1800 BLOCK N HALE AVE"
     }
   ]
 }
