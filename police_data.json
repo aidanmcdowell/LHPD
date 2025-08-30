@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T22:13:05.7365373-07:00",
+  "LastUpdated": "2025-08-29T22:14:09.9445681-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44556",
+      "Type": "ALARM BURGLARY",
+      "Date": "08/29/2025 10:04 PM",
+      "Address": "2300 BLOCK SUTTER WAY"
+    },
     {
       "Incident": "25-44552",
       "Type": "TC NON INJURY",
@@ -36,12 +42,6 @@
       "Type": "AREA CHECK",
       "Date": "08/29/2025 9:18 PM",
       "Address": "3100 BLOCK CHISOLM WAY"
-    },
-    {
-      "Incident": "25-44547",
-      "Type": "PATROL CHECK",
-      "Date": "08/29/2025 9:14 PM",
-      "Address": "2100 BLOCK E WALNUT AVE"
     }
   ]
 }
