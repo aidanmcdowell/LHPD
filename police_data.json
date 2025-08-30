@@ -1,7 +1,7 @@
 {
-  "LastUpdated": "2025-08-29T23:11:58.9266718-07:00",
+  "LastUpdated": "2025-08-29T23:13:03.1816925-07:00",
   "Streets": {
-    "Balfour Ave": "NOT SAFE",
+    "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
     "Teri Pl": "SAFE"
@@ -48,12 +48,6 @@
       "Type": "TRAFFIC STOP BIKE",
       "Date": "08/29/2025 10:16 PM",
       "Address": "S ACACIA AVE / E ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-44558",
-      "Type": "DISTURBANCE PARTY",
-      "Date": "08/29/2025 10:12 PM",
-      "Address": "2600 BLOCK BALFOUR AVE"
     }
   ]
 }
