@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:56:56.467723-07:00",
+  "LastUpdated": "2025-08-29T23:58:00.6620358-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "CRIME SCENE INVESTIGATION",
       "Date": "08/29/2025 11:04 PM",
       "Address": "5600 BLOCK N LINCOLN AVE[SUPER 8 MOTEL CYPRESS"
-    },
-    {
-      "Incident": "25-44566",
-      "Type": "DRUNK DRIVER",
-      "Date": "08/29/2025 10:57 PM",
-      "Address": "BERKSHIRE DR / ARDEMORE DR"
     }
   ]
 }
