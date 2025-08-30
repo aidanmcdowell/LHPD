@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T04:11:40.6533248-07:00",
+  "LastUpdated": "2025-08-30T04:12:44.8659874-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -12,12 +12,6 @@
       "Type": "ALARM BURGLARY",
       "Date": "08/30/2025 3:50 AM",
       "Address": "1600 BLOCK E ORANGETHORPE AVE"
-    },
-    {
-      "Incident": "25-44600",
-      "Type": "AREA CHECK",
-      "Date": "08/30/2025 3:12 AM",
-      "Address": "100 BLOCK S PRINCETON AVE"
     }
   ]
 }
