@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-29T23:06:37.8747653-07:00",
+  "LastUpdated": "2025-08-29T23:07:42.0722292-07:00",
   "Streets": {
     "Balfour Ave": "NOT SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-44566",
+      "Type": "DRUNK DRIVER",
+      "Date": "08/29/2025 10:57 PM",
+      "Address": "BERKSHIRE DR / ARDEMORE DR"
+    },
     {
       "Incident": "25-44565",
       "Type": "TRAFFIC STOP",
