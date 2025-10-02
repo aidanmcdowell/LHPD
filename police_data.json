@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:09:49.2866331-07:00",
+  "LastUpdated": "2025-10-02T13:10:55.1919229-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -60,12 +60,6 @@
       "Type": "WELFARE CHECK",
       "Date": "10/02/2025 12:11 PM",
       "Address": "200 BLOCK N POMONA AVE"
-    },
-    {
-      "Incident": "25-50668",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "10/02/2025 12:10 PM",
-      "Address": "S HARBOR BLVD / W ROSSLYNN AVE"
     }
   ]
 }
