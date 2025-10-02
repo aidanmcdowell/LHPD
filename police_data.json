@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:28:18.6633262-07:00",
+  "LastUpdated": "2025-10-02T13:29:26.3793359-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-50679",
+      "Type": "FOLLOW UP CASE",
+      "Date": "10/02/2025 1:19 PM",
+      "Address": "2200 BLOCK E COMMONWEALTH AVE"
+    },
     {
       "Incident": "25-50678",
       "Type": "PARKING PROBLEM",
@@ -24,12 +30,6 @@
       "Type": "WELFARE CHECK",
       "Date": "10/02/2025 12:31 PM",
       "Address": "3100 BLOCK LAKEVIEW DR"
-    },
-    {
-      "Incident": "25-50674",
-      "Type": "AREA CHECK",
-      "Date": "10/02/2025 12:29 PM",
-      "Address": "W BASTANCHURY RD / MORELIA AVE"
     }
   ]
 }
