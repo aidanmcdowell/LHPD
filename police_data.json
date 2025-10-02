@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:10:55.1919229-07:00",
+  "LastUpdated": "2025-10-02T13:12:01.8339094-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -54,12 +54,6 @@
       "Type": "SUSPICIOUS PERSON",
       "Date": "10/02/2025 12:21 PM",
       "Address": "100 BLOCK W UNION AVE"
-    },
-    {
-      "Incident": "25-50669",
-      "Type": "WELFARE CHECK",
-      "Date": "10/02/2025 12:11 PM",
-      "Address": "200 BLOCK N POMONA AVE"
     }
   ]
 }
