@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-08-30T07:11:28.6507635-07:00",
+  "LastUpdated": "2025-10-02T13:00:58.9319046-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -8,10 +8,76 @@
   },
   "RecentCalls": [
     {
-      "Incident": "25-44610",
-      "Type": "ALARM BURGLARY",
-      "Date": "08/30/2025 6:46 AM",
-      "Address": "100 BLOCK N EUCLID ST"
+      "Incident": "25-50676",
+      "Type": "KEEP THE PEACE",
+      "Date": "10/02/2025 12:39 PM",
+      "Address": "1400 BLOCK N PLACENTIA AVE"
+    },
+    {
+      "Incident": "25-50675",
+      "Type": "WELFARE CHECK",
+      "Date": "10/02/2025 12:31 PM",
+      "Address": "3100 BLOCK LAKEVIEW DR"
+    },
+    {
+      "Incident": "25-50674",
+      "Type": "AREA CHECK",
+      "Date": "10/02/2025 12:29 PM",
+      "Address": "W BASTANCHURY RD / MORELIA AVE"
+    },
+    {
+      "Incident": "25-50672",
+      "Type": "BURGLARY RPT",
+      "Date": "10/02/2025 12:24 PM",
+      "Address": "3300 BLOCK N STATE COLLEGE BLVD"
+    },
+    {
+      "Incident": "25-50673",
+      "Type": "THEFT AUTO RPT",
+      "Date": "10/02/2025 12:23 PM",
+      "Address": "900 BLOCK WHITE WATER DR"
+    },
+    {
+      "Incident": "25-50671",
+      "Type": "DISTURBANCE MUSIC",
+      "Date": "10/02/2025 12:23 PM",
+      "Address": "300 BLOCK N BASQUE AVE"
+    },
+    {
+      "Incident": "25-50670",
+      "Type": "SUSPICIOUS PERSON",
+      "Date": "10/02/2025 12:21 PM",
+      "Address": "100 BLOCK W UNION AVE"
+    },
+    {
+      "Incident": "25-50669",
+      "Type": "WELFARE CHECK",
+      "Date": "10/02/2025 12:11 PM",
+      "Address": "200 BLOCK N POMONA AVE"
+    },
+    {
+      "Incident": "25-50668",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "10/02/2025 12:10 PM",
+      "Address": "S HARBOR BLVD / W ROSSLYNN AVE"
+    },
+    {
+      "Incident": "25-50667",
+      "Type": "FRAUD RPT",
+      "Date": "10/02/2025 12:07 PM",
+      "Address": "600 BLOCK OAK TREE ST"
+    },
+    {
+      "Incident": "25-50666",
+      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
+      "Date": "10/02/2025 12:04 PM",
+      "Address": "LAKESIDE DR / W HERMOSA DR"
+    },
+    {
+      "Incident": "25-50665",
+      "Type": "PARKING PROBLEM",
+      "Date": "10/02/2025 12:03 PM",
+      "Address": "1900 BLOCK W MALVERN AVE"
     }
   ]
 }
