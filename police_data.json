@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:03:11.7280747-07:00",
+  "LastUpdated": "2025-10-02T13:04:17.8878193-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -66,12 +66,6 @@
       "Type": "FRAUD RPT",
       "Date": "10/02/2025 12:07 PM",
       "Address": "600 BLOCK OAK TREE ST"
-    },
-    {
-      "Incident": "25-50666",
-      "Type": "SUSPICIOUS OCCUPIED VEHICLE",
-      "Date": "10/02/2025 12:04 PM",
-      "Address": "LAKESIDE DR / W HERMOSA DR"
     }
   ]
 }
