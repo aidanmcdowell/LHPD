@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:22:52.2915673-07:00",
+  "LastUpdated": "2025-10-02T13:23:58.1393669-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,18 +36,6 @@
       "Type": "BURGLARY RPT",
       "Date": "10/02/2025 12:24 PM",
       "Address": "3300 BLOCK N STATE COLLEGE BLVD"
-    },
-    {
-      "Incident": "25-50673",
-      "Type": "THEFT AUTO RPT",
-      "Date": "10/02/2025 12:23 PM",
-      "Address": "900 BLOCK WHITE WATER DR"
-    },
-    {
-      "Incident": "25-50671",
-      "Type": "DISTURBANCE MUSIC",
-      "Date": "10/02/2025 12:23 PM",
-      "Address": "300 BLOCK N BASQUE AVE"
     }
   ]
 }
