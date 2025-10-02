@@ -1,10 +1,10 @@
 {
-  "LastUpdated": "2025-10-02T13:56:13.6081689-07:00",
+  "LastUpdated": "2025-10-02T13:57:18.5212316-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
-    "Teri Pl": "NOT SAFE"
+    "Teri Pl": "SAFE"
   },
   "RecentCalls": [
     {
@@ -30,12 +30,6 @@
       "Type": "FOLLOW UP CASE",
       "Date": "10/02/2025 1:19 PM",
       "Address": "2200 BLOCK E COMMONWEALTH AVE"
-    },
-    {
-      "Incident": "25-50678",
-      "Type": "PARKING PROBLEM",
-      "Date": "10/02/2025 12:57 PM",
-      "Address": "2100 BLOCK TERI PL"
     }
   ]
 }
