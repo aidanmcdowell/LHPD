@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:20:43.1541662-07:00",
+  "LastUpdated": "2025-10-02T13:21:47.5634049-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "DISTURBANCE MUSIC",
       "Date": "10/02/2025 12:23 PM",
       "Address": "300 BLOCK N BASQUE AVE"
-    },
-    {
-      "Incident": "25-50670",
-      "Type": "SUSPICIOUS PERSON",
-      "Date": "10/02/2025 12:21 PM",
-      "Address": "100 BLOCK W UNION AVE"
     }
   ]
 }
