@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:38:05.4635057-07:00",
+  "LastUpdated": "2025-10-02T13:39:10.0169833-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -18,12 +18,6 @@
       "Type": "PARKING PROBLEM",
       "Date": "10/02/2025 12:57 PM",
       "Address": "2100 BLOCK TERI PL"
-    },
-    {
-      "Incident": "25-50676",
-      "Type": "KEEP THE PEACE",
-      "Date": "10/02/2025 12:39 PM",
-      "Address": "1400 BLOCK N PLACENTIA AVE"
     }
   ]
 }
