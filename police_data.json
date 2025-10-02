@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:40:14.608825-07:00",
+  "LastUpdated": "2025-10-02T13:51:52.2886975-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,24 @@
     "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-50683",
+      "Type": "THEFT PETTY RPT",
+      "Date": "10/02/2025 1:40 PM",
+      "Address": "1800 BLOCK W MALVERN AVE"
+    },
+    {
+      "Incident": "25-50681",
+      "Type": "DEPARTMENT ASSIST",
+      "Date": "10/02/2025 1:35 PM",
+      "Address": "900 BLOCK N STATE COLLEGE BLVD"
+    },
+    {
+      "Incident": "25-50680",
+      "Type": "DEPARTMENT ASSIST",
+      "Date": "10/02/2025 1:32 PM",
+      "Address": "200 BLOCK E CHAPMAN AVE"
+    },
     {
       "Incident": "25-50679",
       "Type": "FOLLOW UP CASE",
