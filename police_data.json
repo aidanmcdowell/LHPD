@@ -1,12 +1,18 @@
 {
-  "LastUpdated": "2025-10-02T13:06:30.4135264-07:00",
+  "LastUpdated": "2025-10-02T13:07:36.4107626-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
     "Riverside Dr": "SAFE",
-    "Teri Pl": "SAFE"
+    "Teri Pl": "NOT SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "25-50678",
+      "Type": "PARKING PROBLEM",
+      "Date": "10/02/2025 12:57 PM",
+      "Address": "2100 BLOCK TERI PL"
+    },
     {
       "Incident": "25-50676",
       "Type": "KEEP THE PEACE",
@@ -60,12 +66,6 @@
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
       "Date": "10/02/2025 12:10 PM",
       "Address": "S HARBOR BLVD / W ROSSLYNN AVE"
-    },
-    {
-      "Incident": "25-50667",
-      "Type": "FRAUD RPT",
-      "Date": "10/02/2025 12:07 PM",
-      "Address": "600 BLOCK OAK TREE ST"
     }
   ]
 }
