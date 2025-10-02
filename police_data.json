@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:30:31.6014935-07:00",
+  "LastUpdated": "2025-10-02T13:31:36.2883724-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "KEEP THE PEACE",
       "Date": "10/02/2025 12:39 PM",
       "Address": "1400 BLOCK N PLACENTIA AVE"
-    },
-    {
-      "Incident": "25-50675",
-      "Type": "WELFARE CHECK",
-      "Date": "10/02/2025 12:31 PM",
-      "Address": "3100 BLOCK LAKEVIEW DR"
     }
   ]
 }
