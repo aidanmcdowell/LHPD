@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:02:05.9007657-07:00",
+  "LastUpdated": "2025-10-02T13:03:11.7280747-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -72,12 +72,6 @@
       "Type": "SUSPICIOUS OCCUPIED VEHICLE",
       "Date": "10/02/2025 12:04 PM",
       "Address": "LAKESIDE DR / W HERMOSA DR"
-    },
-    {
-      "Incident": "25-50665",
-      "Type": "PARKING PROBLEM",
-      "Date": "10/02/2025 12:03 PM",
-      "Address": "1900 BLOCK W MALVERN AVE"
     }
   ]
 }
