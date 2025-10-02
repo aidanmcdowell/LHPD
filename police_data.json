@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2025-10-02T13:23:58.1393669-07:00",
+  "LastUpdated": "2025-10-02T13:25:04.7545973-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "AREA CHECK",
       "Date": "10/02/2025 12:29 PM",
       "Address": "W BASTANCHURY RD / MORELIA AVE"
-    },
-    {
-      "Incident": "25-50672",
-      "Type": "BURGLARY RPT",
-      "Date": "10/02/2025 12:24 PM",
-      "Address": "3300 BLOCK N STATE COLLEGE BLVD"
     }
   ]
 }
