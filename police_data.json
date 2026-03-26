@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T20:03:58.6706111-07:00",
+  "LastUpdated": "2026-03-25T20:05:03.1267133-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,18 +36,6 @@
       "Type": "DISTURBANCE MUSIC",
       "Date": "03/25/2026 7:13 PM",
       "Address": "100 BLOCK ORANGEFAIR AVE"
-    },
-    {
-      "Incident": "26-15037",
-      "Type": "UNKNOWN TROUBLE",
-      "Date": "03/25/2026 7:05 PM",
-      "Address": "1400 BLOCK PONDEROSA AVE"
-    },
-    {
-      "Incident": "26-15036",
-      "Type": "TRAFFIC STOP",
-      "Date": "03/25/2026 7:04 PM",
-      "Address": "1800 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
