@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T21:29:45.7726391-07:00",
+  "LastUpdated": "2026-03-25T21:30:50.0448419-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "FOLLOW UP CASE",
       "Date": "03/25/2026 8:46 PM",
       "Address": "1300 BLOCK MANHATTAN AVE"
-    },
-    {
-      "Incident": "26-15047",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/25/2026 8:30 PM",
-      "Address": "2100 BLOCK DEREK DR"
     }
   ]
 }
