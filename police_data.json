@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T19:51:00.7272629-07:00",
+  "LastUpdated": "2026-03-25T19:52:05.4100919-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -48,12 +48,6 @@
       "Type": "PATROL CHECK",
       "Date": "03/25/2026 7:00 PM",
       "Address": "1000 BLOCK LA MESA DR"
-    },
-    {
-      "Incident": "26-15034",
-      "Type": "PARKING PROBLEM",
-      "Date": "03/25/2026 6:52 PM",
-      "Address": "2100 BLOCK W BAKER AVE"
     }
   ]
 }
