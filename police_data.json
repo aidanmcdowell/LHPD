@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T21:52:22.6187498-07:00",
+  "LastUpdated": "2026-03-25T21:53:26.9111134-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -18,12 +18,6 @@
       "Type": "TRANSIENT PROBLEM",
       "Date": "03/25/2026 8:55 PM",
       "Address": "100 BLOCK LAGUNA RD"
-    },
-    {
-      "Incident": "26-15051",
-      "Type": "CRIME SCENE INVESTIGATION",
-      "Date": "03/25/2026 8:53 PM",
-      "Address": "500 BLOCK E VALENCIA DR"
     }
   ]
 }
