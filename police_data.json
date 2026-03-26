@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T21:18:53.0465483-07:00",
+  "LastUpdated": "2026-03-25T21:19:57.7050502-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "26-15053",
+      "Type": "SUSPICIOUS PERSON",
+      "Date": "03/25/2026 9:09 PM",
+      "Address": "2400 BLOCK E NUTWOOD AVE"
+    },
     {
       "Incident": "26-15052",
       "Type": "TRANSIENT PROBLEM",
