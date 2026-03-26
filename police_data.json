@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T20:22:20.6395688-07:00",
+  "LastUpdated": "2026-03-25T20:23:25.7123691-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -30,12 +30,6 @@
       "Type": "CRIME SCENE INVESTIGATION",
       "Date": "03/25/2026 7:24 PM",
       "Address": "1400 BLOCK PONDEROSA AVE"
-    },
-    {
-      "Incident": "26-15040",
-      "Type": "DRUNK DRIVER",
-      "Date": "03/25/2026 7:23 PM",
-      "Address": "W BAKER AVE / S WOODS AVE"
     }
   ]
 }
