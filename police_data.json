@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T20:39:40.9046611-07:00",
+  "LastUpdated": "2026-03-25T20:40:45.4968407-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "26-15047",
+      "Type": "PARKING PROBLEM",
+      "Date": "03/25/2026 8:30 PM",
+      "Address": "2100 BLOCK DEREK DR"
+    },
     {
       "Incident": "26-15046",
       "Type": "DISTURBANCE FAMILY",
