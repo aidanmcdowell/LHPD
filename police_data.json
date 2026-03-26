@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T20:43:59.4481411-07:00",
+  "LastUpdated": "2026-03-25T20:45:04.2358018-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "DISTURBANCE FAMILY",
       "Date": "03/25/2026 7:58 PM",
       "Address": "500 BLOCK E VALENCIA DR"
-    },
-    {
-      "Incident": "26-15042",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/25/2026 7:44 PM",
-      "Address": "1800 BLOCK W ORANGETHORPE AVE"
     }
   ]
 }
