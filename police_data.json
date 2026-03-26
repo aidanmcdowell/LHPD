@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T21:05:45.8325151-07:00",
+  "LastUpdated": "2026-03-25T21:06:50.3600725-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "26-15052",
+      "Type": "TRANSIENT PROBLEM",
+      "Date": "03/25/2026 8:55 PM",
+      "Address": "100 BLOCK LAGUNA RD"
+    },
     {
       "Incident": "26-15051",
       "Type": "CRIME SCENE INVESTIGATION",
