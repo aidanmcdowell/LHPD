@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T20:12:35.8885107-07:00",
+  "LastUpdated": "2026-03-25T20:13:41.0288345-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,12 +36,6 @@
       "Type": "DRUNK DRIVER",
       "Date": "03/25/2026 7:23 PM",
       "Address": "W BAKER AVE / S WOODS AVE"
-    },
-    {
-      "Incident": "26-15038",
-      "Type": "DISTURBANCE MUSIC",
-      "Date": "03/25/2026 7:13 PM",
-      "Address": "100 BLOCK ORANGEFAIR AVE"
     }
   ]
 }
