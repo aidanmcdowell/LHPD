@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T21:48:03.5766439-07:00",
+  "LastUpdated": "2026-03-25T21:49:08.0980035-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -24,12 +24,6 @@
       "Type": "CRIME SCENE INVESTIGATION",
       "Date": "03/25/2026 8:53 PM",
       "Address": "500 BLOCK E VALENCIA DR"
-    },
-    {
-      "Incident": "26-15050",
-      "Type": "TC NON INJURY",
-      "Date": "03/25/2026 8:49 PM",
-      "Address": "GARNET LANE / CAMEO LANE"
     }
   ]
 }
