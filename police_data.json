@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T21:54:31.6943591-07:00",
+  "LastUpdated": "2026-03-25T21:55:36.6859937-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -12,12 +12,6 @@
       "Type": "SUSPICIOUS PERSON",
       "Date": "03/25/2026 9:09 PM",
       "Address": "2400 BLOCK E NUTWOOD AVE"
-    },
-    {
-      "Incident": "26-15052",
-      "Type": "TRANSIENT PROBLEM",
-      "Date": "03/25/2026 8:55 PM",
-      "Address": "100 BLOCK LAGUNA RD"
     }
   ]
 }
