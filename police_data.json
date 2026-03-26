@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T21:17:44.5663917-07:00",
+  "LastUpdated": "2026-03-25T21:18:53.0465483-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -36,18 +36,6 @@
       "Type": "PARKING PROBLEM",
       "Date": "03/25/2026 8:30 PM",
       "Address": "2100 BLOCK DEREK DR"
-    },
-    {
-      "Incident": "26-15046",
-      "Type": "DISTURBANCE FAMILY",
-      "Date": "03/25/2026 8:18 PM",
-      "Address": "1300 BLOCK PECKHAM ST"
-    },
-    {
-      "Incident": "26-15045",
-      "Type": "TC W/INJURY RPT",
-      "Date": "03/25/2026 8:18 PM",
-      "Address": "N PLACENTIA AVE / E CHAPMAN AVE"
     }
   ]
 }
