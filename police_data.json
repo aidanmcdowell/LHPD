@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-03-25T20:26:41.1325575-07:00",
+  "LastUpdated": "2026-03-25T20:27:45.745227-07:00",
   "Streets": {
     "Balfour Ave": "SAFE",
     "E Santa Fe Ave": "SAFE",
@@ -7,6 +7,12 @@
     "Teri Pl": "SAFE"
   },
   "RecentCalls": [
+    {
+      "Incident": "26-15044",
+      "Type": "TRAFFIC HAZARD",
+      "Date": "03/25/2026 8:16 PM",
+      "Address": "W ORANGETHORPE AVE / S BASQUE AVE"
+    },
     {
       "Incident": "26-15043",
       "Type": "DISTURBANCE FAMILY",
